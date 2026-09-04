@@ -1,0 +1,1501 @@
+Order_ID,Order_Date,Year,Month,Month_Name,Year_Month,Customer_Name,Segment,Product_Name,Category,Region,Quantity,Discount,Sales,Profit,Profit_Margin_Pct,Sales_Band
+ORD-00107,2024-01-01,2024,1,Jan,2024-01,Customer_147,Corporate,Table,Furniture,North,2,0.05,26234.66,3081.71,11.75,Medium
+ORD-00875,2024-01-01,2024,1,Jan,2024-01,Customer_110,Consumer,Table,Furniture,South,4,0.15,46093.02,3169.57,6.88,Medium
+ORD-00494,2024-01-01,2024,1,Jan,2024-01,Customer_298,Consumer,Printer Paper,Office Supplies,East,2,0.2,783.01,55.62,7.1,Low
+ORD-01002,2024-01-01,2024,1,Jan,2024-01,Customer_023,Corporate,Laptop,Technology,South,4,0.25,175714.55,-10217.81,-5.82,Very High
+ORD-00632,2024-01-02,2024,1,Jan,2024-01,Customer_092,Corporate,Notebook,Office Supplies,South,3,0.05,728.69,188.42,25.86,Low
+ORD-01227,2024-01-02,2024,1,Jan,2024-01,Customer_109,Home Office,Mouse,Technology,South,5,0.0,5925.5,1308.72,22.09,Low
+ORD-00370,2024-01-03,2024,1,Jan,2024-01,Customer_101,Consumer,Notebook,Office Supplies,South,7,0.0,1732.88,494.95,28.56,Low
+ORD-01234,2024-01-04,2024,1,Jan,2024-01,Customer_033,Corporate,Mouse,Technology,South,4,0.1,4112.91,579.08,14.08,Low
+ORD-01215,2024-01-05,2024,1,Jan,2024-01,Customer_234,Consumer,Mouse,Technology,South,6,0.0,7342.18,1532.32,20.87,Low
+ORD-01221,2024-01-06,2024,1,Jan,2024-01,Customer_293,Consumer,Monitor,Technology,East,7,0.05,119803.06,19503.13,16.28,High
+ORD-00492,2024-01-06,2024,1,Jan,2024-01,Customer_080,Corporate,Desk,Furniture,South,3,0.05,38820.69,5675.91,14.62,Medium
+ORD-01477,2024-01-06,2024,1,Jan,2024-01,Customer_280,Consumer,Printer Paper,Office Supplies,East,5,0.15,2076.8,344.35,16.58,Low
+ORD-00158,2024-01-06,2024,1,Jan,2024-01,Customer_240,Consumer,Office Chair,Furniture,South,4,0.2,26716.78,-1268.93,-4.75,Medium
+ORD-01015,2024-01-08,2024,1,Jan,2024-01,Customer_077,Consumer,Monitor,Technology,West,6,0.15,83763.86,8309.33,9.92,High
+ORD-01414,2024-01-08,2024,1,Jan,2024-01,Customer_164,Home Office,Printer Paper,Office Supplies,North,3,0.2,1113.59,87.57,7.86,Low
+ORD-00945,2024-01-08,2024,1,Jan,2024-01,Customer_077,Corporate,Office Chair,Furniture,South,3,0.1,22412.45,1199.43,5.35,Medium
+ORD-01330,2024-01-10,2024,1,Jan,2024-01,Customer_254,Consumer,Printer Paper,Office Supplies,South,4,0.25,1307.49,38.0,2.91,Low
+ORD-00976,2024-01-11,2024,1,Jan,2024-01,Customer_186,Home Office,Bookshelf,Furniture,East,6,0.2,38353.31,-1331.21,-3.47,Medium
+ORD-00030,2024-01-11,2024,1,Jan,2024-01,Customer_040,Consumer,Office Chair,Furniture,West,2,0.15,14142.81,492.25,3.48,Medium
+ORD-01235,2024-01-11,2024,1,Jan,2024-01,Customer_297,Consumer,Mouse,Technology,North,4,0.0,4626.62,1069.41,23.11,Low
+ORD-00368,2024-01-12,2024,1,Jan,2024-01,Customer_226,Corporate,Webcam,Technology,South,5,0.2,12108.49,189.46,1.56,Medium
+ORD-00813,2024-01-12,2024,1,Jan,2024-01,Customer_059,Consumer,Printer Paper,Office Supplies,West,5,0.2,1941.13,187.73,9.67,Low
+ORD-00596,2024-01-15,2024,1,Jan,2024-01,Customer_161,Consumer,Monitor,Technology,East,3,0.1,53090.78,6317.4,11.9,High
+ORD-01354,2024-01-15,2024,1,Jan,2024-01,Customer_110,Consumer,Notebook,Office Supplies,North,7,0.25,1324.9,27.08,2.04,Low
+ORD-00150,2024-01-15,2024,1,Jan,2024-01,Customer_060,Consumer,Stapler,Office Supplies,South,6,0.2,1543.86,182.54,11.82,Low
+ORD-01075,2024-01-15,2024,1,Jan,2024-01,Customer_106,Consumer,Pen Set,Office Supplies,East,4,0.1,604.83,132.99,21.99,Low
+ORD-01025,2024-01-16,2024,1,Jan,2024-01,Customer_164,Corporate,Bookshelf,Furniture,South,2,0.2,13182.68,-176.5,-1.34,Medium
+ORD-01484,2024-01-16,2024,1,Jan,2024-01,Customer_230,Home Office,Cabinet,Furniture,West,3,0.05,35125.98,4560.54,12.98,Medium
+ORD-01226,2024-01-17,2024,1,Jan,2024-01,Customer_187,Consumer,Mouse,Technology,East,2,0.0,2440.35,557.95,22.86,Low
+ORD-00652,2024-01-18,2024,1,Jan,2024-01,Customer_298,Corporate,Cabinet,Furniture,South,5,0.05,54426.32,6269.49,11.52,High
+ORD-00897,2024-01-19,2024,1,Jan,2024-01,Customer_219,Consumer,Bookshelf,Furniture,West,3,0.05,23513.26,2811.82,11.96,Medium
+ORD-00085,2024-01-19,2024,1,Jan,2024-01,Customer_135,Home Office,Monitor,Technology,South,5,0.05,87183.96,18422.76,21.13,High
+ORD-00366,2024-01-19,2024,1,Jan,2024-01,Customer_140,Consumer,Cabinet,Furniture,West,2,0.0,24564.81,4134.33,16.83,Medium
+ORD-00305,2024-01-19,2024,1,Jan,2024-01,Customer_227,Consumer,Laptop,Technology,East,3,0.25,158784.39,-6407.12,-4.04,Very High
+ORD-00189,2024-01-20,2024,1,Jan,2024-01,Customer_256,Corporate,Printer Paper,Office Supplies,North,2,0.1,804.45,186.35,23.16,Low
+ORD-01109,2024-01-21,2024,1,Jan,2024-01,Customer_170,Consumer,Office Chair,Furniture,East,4,0.05,37223.74,5724.27,15.38,Medium
+ORD-00060,2024-01-22,2024,1,Jan,2024-01,Customer_043,Consumer,Folders,Office Supplies,West,4,0.2,661.51,46.59,7.04,Low
+ORD-01287,2024-01-22,2024,1,Jan,2024-01,Customer_212,Consumer,Keyboard,Technology,South,6,0.0,15143.42,3146.34,20.78,Medium
+ORD-00521,2024-01-23,2024,1,Jan,2024-01,Customer_053,Home Office,Desk,Furniture,East,5,0.0,78838.17,14966.41,18.98,High
+ORD-00547,2024-01-23,2024,1,Jan,2024-01,Customer_164,Corporate,Mouse,Technology,East,3,0.05,3302.24,496.44,15.03,Low
+ORD-01242,2024-01-24,2024,1,Jan,2024-01,Customer_152,Home Office,Pen Set,Office Supplies,North,6,0.05,925.75,250.21,27.03,Low
+ORD-00888,2024-01-24,2024,1,Jan,2024-01,Customer_115,Corporate,Webcam,Technology,East,3,0.15,7263.95,781.97,10.77,Low
+ORD-00289,2024-01-24,2024,1,Jan,2024-01,Customer_113,Corporate,Monitor,Technology,South,3,0.15,42307.56,4994.3,11.8,Medium
+ORD-01419,2024-01-25,2024,1,Jan,2024-01,Customer_153,Corporate,Stapler,Office Supplies,East,4,0.0,1243.38,348.19,28.0,Low
+ORD-00358,2024-01-25,2024,1,Jan,2024-01,Customer_286,Corporate,Printer Paper,Office Supplies,North,6,0.2,2063.75,272.75,13.22,Low
+ORD-00936,2024-01-26,2024,1,Jan,2024-01,Customer_217,Corporate,Webcam,Technology,West,1,0.05,3057.19,599.23,19.6,Low
+ORD-00104,2024-01-27,2024,1,Jan,2024-01,Customer_031,Home Office,Printer Paper,Office Supplies,North,6,0.0,2562.88,781.74,30.5,Low
+ORD-01493,2024-01-27,2024,1,Jan,2024-01,Customer_026,Home Office,Printer Paper,Office Supplies,East,7,0.0,3008.16,846.48,28.14,Low
+ORD-00061,2024-01-27,2024,1,Jan,2024-01,Customer_016,Consumer,Mouse,Technology,West,2,0.15,2163.0,219.64,10.15,Low
+ORD-00070,2024-01-27,2024,1,Jan,2024-01,Customer_143,Consumer,Desk,Furniture,West,4,0.05,57826.02,7650.4,13.23,High
+ORD-00850,2024-01-28,2024,1,Jan,2024-01,Customer_018,Consumer,Table,Furniture,West,2,0.15,23173.45,545.96,2.36,Medium
+ORD-00528,2024-01-29,2024,1,Jan,2024-01,Customer_028,Corporate,Desk,Furniture,East,5,0.1,70901.33,6697.25,9.45,High
+ORD-00549,2024-01-30,2024,1,Jan,2024-01,Customer_085,Corporate,Stapler,Office Supplies,West,4,0.15,1049.12,149.6,14.26,Low
+ORD-00293,2024-01-31,2024,1,Jan,2024-01,Customer_165,Consumer,Folders,Office Supplies,East,7,0.0,1489.58,375.24,25.19,Low
+ORD-00733,2024-01-31,2024,1,Jan,2024-01,Customer_065,Consumer,Printer Paper,Office Supplies,East,1,0.25,369.67,20.47,5.54,Low
+ORD-00329,2024-02-01,2024,2,Feb,2024-02,Customer_219,Consumer,Headphones,Technology,East,7,0.25,19317.65,-727.13,-3.76,Medium
+ORD-00856,2024-02-01,2024,2,Feb,2024-02,Customer_286,Consumer,Pen Set,Office Supplies,East,4,0.1,597.23,112.27,18.8,Low
+ORD-00080,2024-02-02,2024,2,Feb,2024-02,Customer_088,Consumer,Webcam,Technology,West,2,0.1,5493.36,735.0,13.38,Low
+ORD-01103,2024-02-03,2024,2,Feb,2024-02,Customer_250,Corporate,Monitor,Technology,West,2,0.2,28441.67,1385.18,4.87,Medium
+ORD-01077,2024-02-03,2024,2,Feb,2024-02,Customer_289,Consumer,Keyboard,Technology,East,6,0.1,14371.14,2285.55,15.9,Medium
+ORD-00443,2024-02-04,2024,2,Feb,2024-02,Customer_118,Consumer,Keyboard,Technology,West,3,0.05,6654.67,992.74,14.92,Low
+ORD-00473,2024-02-04,2024,2,Feb,2024-02,Customer_008,Consumer,Headphones,Technology,South,2,0.15,5440.16,274.93,5.05,Low
+ORD-00288,2024-02-04,2024,2,Feb,2024-02,Customer_042,Consumer,Headphones,Technology,North,4,0.1,12384.17,1632.44,13.18,Medium
+ORD-00529,2024-02-04,2024,2,Feb,2024-02,Customer_130,Consumer,Monitor,Technology,East,1,0.2,13662.9,262.65,1.92,Medium
+ORD-01233,2024-02-05,2024,2,Feb,2024-02,Customer_272,Consumer,Pen Set,Office Supplies,West,5,0.1,869.08,173.33,19.94,Low
+ORD-00397,2024-02-05,2024,2,Feb,2024-02,Customer_107,Corporate,Webcam,Technology,North,5,0.15,12785.82,1278.46,10.0,Medium
+ORD-00173,2024-02-06,2024,2,Feb,2024-02,Customer_146,Corporate,Office Chair,Furniture,East,3,0.05,25232.71,3003.52,11.9,Medium
+ORD-00753,2024-02-06,2024,2,Feb,2024-02,Customer_261,Consumer,Pen Set,Office Supplies,South,7,0.25,943.19,4.67,0.5,Low
+ORD-00118,2024-02-06,2024,2,Feb,2024-02,Customer_089,Corporate,Monitor,Technology,East,1,0.15,16328.91,1922.33,11.77,Medium
+ORD-00213,2024-02-07,2024,2,Feb,2024-02,Customer_141,Home Office,Stapler,Office Supplies,East,1,0.2,238.83,31.44,13.16,Low
+ORD-00295,2024-02-07,2024,2,Feb,2024-02,Customer_080,Home Office,Laptop,Technology,North,7,0.1,375978.47,52120.61,13.86,Very High
+ORD-00727,2024-02-07,2024,2,Feb,2024-02,Customer_125,Home Office,Bookshelf,Furniture,South,1,0.2,6292.88,-383.01,-6.09,Low
+ORD-00911,2024-02-07,2024,2,Feb,2024-02,Customer_212,Home Office,Table,Furniture,South,3,0.05,37541.71,5665.9,15.09,Medium
+ORD-00631,2024-02-08,2024,2,Feb,2024-02,Customer_046,Corporate,Desk,Furniture,East,2,0.05,30068.83,4042.6,13.44,Medium
+ORD-00663,2024-02-08,2024,2,Feb,2024-02,Customer_207,Consumer,Stapler,Office Supplies,West,1,0.0,283.26,84.2,29.73,Low
+ORD-00166,2024-02-08,2024,2,Feb,2024-02,Customer_131,Consumer,Laptop,Technology,East,1,0.2,47162.32,618.95,1.31,Medium
+ORD-01079,2024-02-09,2024,2,Feb,2024-02,Customer_003,Consumer,Bookshelf,Furniture,South,5,0.2,33096.19,-280.09,-0.85,Medium
+ORD-00732,2024-02-09,2024,2,Feb,2024-02,Customer_187,Corporate,Stapler,Office Supplies,West,5,0.05,1405.52,335.66,23.88,Low
+ORD-00999,2024-02-09,2024,2,Feb,2024-02,Customer_018,Consumer,Mouse,Technology,West,4,0.0,4567.35,888.83,19.46,Low
+ORD-01486,2024-02-09,2024,2,Feb,2024-02,Customer_271,Consumer,Bookshelf,Furniture,North,5,0.2,34735.51,120.46,0.35,Medium
+ORD-00404,2024-02-09,2024,2,Feb,2024-02,Customer_295,Home Office,Stapler,Office Supplies,East,7,0.2,1668.31,200.47,12.02,Low
+ORD-00815,2024-02-09,2024,2,Feb,2024-02,Customer_030,Home Office,Folders,Office Supplies,East,1,0.0,231.38,64.3,27.79,Low
+ORD-00074,2024-02-10,2024,2,Feb,2024-02,Customer_101,Consumer,Folders,Office Supplies,West,4,0.0,847.25,225.38,26.6,Low
+ORD-00449,2024-02-11,2024,2,Feb,2024-02,Customer_113,Corporate,Table,Furniture,East,1,0.05,12430.24,1275.23,10.26,Medium
+ORD-01104,2024-02-11,2024,2,Feb,2024-02,Customer_257,Consumer,Table,Furniture,South,6,0.1,69822.28,7397.57,10.59,High
+ORD-00062,2024-02-11,2024,2,Feb,2024-02,Customer_279,Home Office,Webcam,Technology,North,7,0.2,17465.69,-23.8,-0.14,Medium
+ORD-01410,2024-02-12,2024,2,Feb,2024-02,Customer_001,Consumer,Table,Furniture,East,5,0.2,52261.11,-3127.47,-5.98,High
+ORD-01137,2024-02-12,2024,2,Feb,2024-02,Customer_204,Home Office,Webcam,Technology,North,6,0.05,16266.72,3333.14,20.49,Medium
+ORD-01074,2024-02-13,2024,2,Feb,2024-02,Customer_215,Corporate,Printer Paper,Office Supplies,South,4,0.1,1740.01,328.8,18.9,Low
+ORD-01178,2024-02-13,2024,2,Feb,2024-02,Customer_299,Home Office,Pen Set,Office Supplies,West,2,0.1,352.76,78.05,22.13,Low
+ORD-00530,2024-02-14,2024,2,Feb,2024-02,Customer_100,Consumer,Stapler,Office Supplies,East,5,0.15,1259.45,172.63,13.71,Low
+ORD-00964,2024-02-14,2024,2,Feb,2024-02,Customer_029,Consumer,Keyboard,Technology,South,7,0.0,17888.11,3906.51,21.84,Medium
+ORD-00321,2024-02-14,2024,2,Feb,2024-02,Customer_077,Consumer,Desk,Furniture,West,4,0.1,50727.16,5389.46,10.62,High
+ORD-01200,2024-02-14,2024,2,Feb,2024-02,Customer_165,Corporate,Headphones,Technology,South,5,0.2,15351.41,29.65,0.19,Medium
+ORD-00459,2024-02-15,2024,2,Feb,2024-02,Customer_029,Consumer,Laptop,Technology,North,7,0.05,449649.86,71879.38,15.99,Very High
+ORD-00751,2024-02-15,2024,2,Feb,2024-02,Customer_242,Consumer,Keyboard,Technology,East,1,0.2,2150.33,36.64,1.7,Low
+ORD-00207,2024-02-16,2024,2,Feb,2024-02,Customer_171,Consumer,Office Chair,Furniture,West,2,0.25,13600.49,-1419.26,-10.44,Medium
+ORD-00201,2024-02-16,2024,2,Feb,2024-02,Customer_094,Home Office,Printer Paper,Office Supplies,West,3,0.05,1227.62,262.65,21.4,Low
+ORD-01462,2024-02-16,2024,2,Feb,2024-02,Customer_159,Consumer,Office Chair,Furniture,South,4,0.2,27847.92,-182.67,-0.66,Medium
+ORD-01293,2024-02-17,2024,2,Feb,2024-02,Customer_123,Consumer,Monitor,Technology,North,1,0.25,13211.06,-76.9,-0.58,Medium
+ORD-00272,2024-02-17,2024,2,Feb,2024-02,Customer_175,Consumer,Pen Set,Office Supplies,East,7,0.0,1347.9,404.17,29.99,Low
+ORD-00175,2024-02-18,2024,2,Feb,2024-02,Customer_064,Consumer,Cabinet,Furniture,West,1,0.2,9880.88,18.77,0.19,Low
+ORD-00098,2024-02-19,2024,2,Feb,2024-02,Customer_006,Consumer,Keyboard,Technology,North,4,0.1,9242.17,1332.71,14.42,Low
+ORD-00801,2024-02-19,2024,2,Feb,2024-02,Customer_274,Home Office,Printer Paper,Office Supplies,South,4,0.1,1638.32,374.06,22.83,Low
+ORD-00319,2024-02-19,2024,2,Feb,2024-02,Customer_197,Consumer,Cabinet,Furniture,East,1,0.05,11754.45,1938.03,16.49,Medium
+ORD-00992,2024-02-19,2024,2,Feb,2024-02,Customer_213,Consumer,Printer Paper,Office Supplies,East,2,0.1,817.87,158.52,19.38,Low
+ORD-00335,2024-02-20,2024,2,Feb,2024-02,Customer_021,Consumer,Bookshelf,Furniture,East,5,0.15,32558.81,586.91,1.8,Medium
+ORD-01499,2024-02-20,2024,2,Feb,2024-02,Customer_191,Home Office,Laptop,Technology,South,2,0.05,122265.84,18264.52,14.94,High
+ORD-00220,2024-02-21,2024,2,Feb,2024-02,Customer_235,Consumer,Stapler,Office Supplies,North,2,0.2,510.25,52.93,10.37,Low
+ORD-01134,2024-02-21,2024,2,Feb,2024-02,Customer_187,Consumer,Mouse,Technology,West,2,0.05,2149.91,423.01,19.68,Low
+ORD-00711,2024-02-21,2024,2,Feb,2024-02,Customer_262,Consumer,Cabinet,Furniture,West,5,0.15,50102.14,1903.25,3.8,High
+ORD-00253,2024-02-22,2024,2,Feb,2024-02,Customer_023,Home Office,Laptop,Technology,South,1,0.0,69254.31,14889.19,21.5,High
+ORD-00745,2024-02-23,2024,2,Feb,2024-02,Customer_074,Consumer,Laptop,Technology,East,7,0.25,369299.78,-11845.16,-3.21,Very High
+ORD-01179,2024-02-23,2024,2,Feb,2024-02,Customer_016,Consumer,Office Chair,Furniture,West,1,0.1,7514.19,541.67,7.21,Low
+ORD-01129,2024-02-24,2024,2,Feb,2024-02,Customer_092,Home Office,Bookshelf,Furniture,North,7,0.05,54515.42,5784.21,10.61,High
+ORD-00614,2024-02-24,2024,2,Feb,2024-02,Customer_243,Corporate,Laptop,Technology,North,4,0.1,231418.31,29423.15,12.71,Very High
+ORD-00486,2024-02-24,2024,2,Feb,2024-02,Customer_208,Consumer,Folders,Office Supplies,West,1,0.15,170.87,22.26,13.03,Low
+ORD-00831,2024-02-24,2024,2,Feb,2024-02,Customer_215,Corporate,Printer Paper,Office Supplies,West,4,0.1,1715.19,364.97,21.28,Low
+ORD-00896,2024-02-24,2024,2,Feb,2024-02,Customer_012,Home Office,Table,Furniture,North,4,0.0,55566.74,11017.96,19.83,High
+ORD-00655,2024-02-24,2024,2,Feb,2024-02,Customer_238,Corporate,Printer Paper,Office Supplies,East,5,0.2,1973.25,172.89,8.76,Low
+ORD-00683,2024-02-24,2024,2,Feb,2024-02,Customer_025,Consumer,Notebook,Office Supplies,West,4,0.05,979.54,248.52,25.37,Low
+ORD-00937,2024-02-27,2024,2,Feb,2024-02,Customer_115,Consumer,Webcam,Technology,West,1,0.2,2229.4,-9.55,-0.43,Low
+ORD-00331,2024-02-27,2024,2,Feb,2024-02,Customer_055,Consumer,Table,Furniture,West,1,0.05,12734.68,2028.84,15.93,Medium
+ORD-01283,2024-02-27,2024,2,Feb,2024-02,Customer_276,Consumer,Monitor,Technology,West,2,0.15,31365.67,2508.24,8.0,Medium
+ORD-00079,2024-02-28,2024,2,Feb,2024-02,Customer_131,Corporate,Pen Set,Office Supplies,South,1,0.1,150.68,33.21,22.04,Low
+ORD-01263,2024-02-29,2024,2,Feb,2024-02,Customer_220,Corporate,Pen Set,Office Supplies,South,2,0.0,374.0,111.63,29.85,Low
+ORD-00523,2024-03-01,2024,3,Mar,2024-03,Customer_126,Consumer,Pen Set,Office Supplies,West,7,0.2,918.75,110.88,12.07,Low
+ORD-01181,2024-03-01,2024,3,Mar,2024-03,Customer_282,Home Office,Desk,Furniture,North,3,0.15,41803.74,74.87,0.18,Medium
+ORD-00667,2024-03-01,2024,3,Mar,2024-03,Customer_123,Corporate,Bookshelf,Furniture,North,1,0.2,6195.64,-345.35,-5.57,Low
+ORD-00430,2024-03-02,2024,3,Mar,2024-03,Customer_177,Corporate,Headphones,Technology,North,5,0.0,16028.27,3275.34,20.43,Medium
+ORD-01489,2024-03-02,2024,3,Mar,2024-03,Customer_218,Consumer,Printer Paper,Office Supplies,East,3,0.0,1265.71,359.95,28.44,Low
+ORD-01389,2024-03-03,2024,3,Mar,2024-03,Customer_003,Home Office,Monitor,Technology,East,1,0.2,15805.99,417.32,2.64,Medium
+ORD-01041,2024-03-03,2024,3,Mar,2024-03,Customer_040,Consumer,Headphones,Technology,North,6,0.25,17052.66,-1104.07,-6.47,Medium
+ORD-00013,2024-03-06,2024,3,Mar,2024-03,Customer_139,Corporate,Office Chair,Furniture,North,5,0.0,45009.4,9128.28,20.28,Medium
+ORD-00893,2024-03-07,2024,3,Mar,2024-03,Customer_290,Home Office,Monitor,Technology,East,5,0.15,74643.15,4321.04,5.79,High
+ORD-01053,2024-03-07,2024,3,Mar,2024-03,Customer_236,Consumer,Office Chair,Furniture,North,6,0.25,43946.14,-3326.02,-7.57,Medium
+ORD-01165,2024-03-08,2024,3,Mar,2024-03,Customer_157,Corporate,Headphones,Technology,West,2,0.15,6408.92,469.49,7.33,Low
+ORD-01111,2024-03-08,2024,3,Mar,2024-03,Customer_286,Consumer,Office Chair,Furniture,North,5,0.15,37696.19,2201.83,5.84,Medium
+ORD-00186,2024-03-10,2024,3,Mar,2024-03,Customer_217,Consumer,Keyboard,Technology,East,4,0.1,8486.17,1094.61,12.9,Low
+ORD-00870,2024-03-10,2024,3,Mar,2024-03,Customer_148,Home Office,Office Chair,Furniture,West,4,0.05,33164.6,4013.33,12.1,Medium
+ORD-00263,2024-03-10,2024,3,Mar,2024-03,Customer_130,Consumer,Desk,Furniture,North,5,0.2,62801.6,839.27,1.34,High
+ORD-00347,2024-03-11,2024,3,Mar,2024-03,Customer_218,Home Office,Stapler,Office Supplies,West,7,0.0,2180.58,594.03,27.24,Low
+ORD-01371,2024-03-12,2024,3,Mar,2024-03,Customer_192,Home Office,Stapler,Office Supplies,South,3,0.1,807.53,177.97,22.04,Low
+ORD-00788,2024-03-14,2024,3,Mar,2024-03,Customer_141,Corporate,Mouse,Technology,South,1,0.05,1051.12,154.88,14.73,Low
+ORD-00424,2024-03-14,2024,3,Mar,2024-03,Customer_078,Corporate,Table,Furniture,West,1,0.1,12147.55,1271.51,10.47,Medium
+ORD-00135,2024-03-14,2024,3,Mar,2024-03,Customer_254,Consumer,Webcam,Technology,East,2,0.0,5896.28,1315.63,22.31,Low
+ORD-00466,2024-03-15,2024,3,Mar,2024-03,Customer_170,Consumer,Headphones,Technology,North,2,0.0,6411.04,1331.97,20.78,Low
+ORD-01006,2024-03-15,2024,3,Mar,2024-03,Customer_267,Corporate,Cabinet,Furniture,North,2,0.25,18576.63,-1242.14,-6.69,Medium
+ORD-00747,2024-03-16,2024,3,Mar,2024-03,Customer_133,Consumer,Notebook,Office Supplies,South,6,0.0,1351.33,402.27,29.77,Low
+ORD-01033,2024-03-17,2024,3,Mar,2024-03,Customer_096,Consumer,Cabinet,Furniture,East,2,0.05,25028.3,3765.4,15.04,Medium
+ORD-00084,2024-03-17,2024,3,Mar,2024-03,Customer_276,Consumer,Printer Paper,Office Supplies,East,7,0.15,2504.8,410.44,16.39,Low
+ORD-00749,2024-03-19,2024,3,Mar,2024-03,Customer_170,Consumer,Notebook,Office Supplies,South,5,0.0,1198.32,348.92,29.12,Low
+ORD-01309,2024-03-19,2024,3,Mar,2024-03,Customer_123,Consumer,Printer Paper,Office Supplies,North,2,0.05,917.56,212.21,23.13,Low
+ORD-01317,2024-03-20,2024,3,Mar,2024-03,Customer_224,Consumer,Notebook,Office Supplies,South,6,0.25,1235.88,22.46,1.82,Low
+ORD-00035,2024-03-20,2024,3,Mar,2024-03,Customer_240,Home Office,Notebook,Office Supplies,East,2,0.05,477.92,112.64,23.57,Low
+ORD-01383,2024-03-20,2024,3,Mar,2024-03,Customer_211,Corporate,Keyboard,Technology,East,2,0.1,4415.43,566.28,12.83,Low
+ORD-00504,2024-03-21,2024,3,Mar,2024-03,Customer_152,Consumer,Table,Furniture,West,6,0.1,69681.83,7953.68,11.41,High
+ORD-00781,2024-03-21,2024,3,Mar,2024-03,Customer_222,Consumer,Cabinet,Furniture,East,6,0.0,76460.68,12277.49,16.06,High
+ORD-00161,2024-03-22,2024,3,Mar,2024-03,Customer_053,Home Office,Mouse,Technology,South,5,0.1,5456.36,727.22,13.33,Low
+ORD-00554,2024-03-22,2024,3,Mar,2024-03,Customer_300,Consumer,Pen Set,Office Supplies,North,5,0.1,729.31,124.72,17.1,Low
+ORD-00441,2024-03-24,2024,3,Mar,2024-03,Customer_235,Corporate,Monitor,Technology,North,3,0.2,41612.62,1996.98,4.8,Medium
+ORD-01320,2024-03-25,2024,3,Mar,2024-03,Customer_109,Consumer,Folders,Office Supplies,West,3,0.15,593.29,72.2,12.17,Low
+ORD-01012,2024-03-25,2024,3,Mar,2024-03,Customer_243,Home Office,Table,Furniture,South,6,0.2,71163.69,-76.15,-0.11,High
+ORD-01026,2024-03-25,2024,3,Mar,2024-03,Customer_277,Home Office,Laptop,Technology,South,7,0.05,411402.84,75337.66,18.31,Very High
+ORD-00871,2024-03-26,2024,3,Mar,2024-03,Customer_183,Corporate,Notebook,Office Supplies,North,1,0.25,182.8,13.42,7.34,Low
+ORD-00398,2024-03-26,2024,3,Mar,2024-03,Customer_192,Consumer,Office Chair,Furniture,South,1,0.05,8065.44,996.82,12.36,Low
+ORD-00994,2024-03-28,2024,3,Mar,2024-03,Customer_216,Corporate,Folders,Office Supplies,South,3,0.1,568.84,111.95,19.68,Low
+ORD-00860,2024-03-28,2024,3,Mar,2024-03,Customer_047,Consumer,Mouse,Technology,East,7,0.2,7047.73,-70.51,-1.0,Low
+ORD-01196,2024-03-28,2024,3,Mar,2024-03,Customer_101,Corporate,Folders,Office Supplies,West,4,0.0,866.26,240.12,27.72,Low
+ORD-01237,2024-03-28,2024,3,Mar,2024-03,Customer_063,Consumer,Folders,Office Supplies,South,3,0.05,625.87,149.1,23.82,Low
+ORD-01368,2024-03-28,2024,3,Mar,2024-03,Customer_126,Corporate,Mouse,Technology,East,3,0.15,2785.94,218.16,7.83,Low
+ORD-00180,2024-03-30,2024,3,Mar,2024-03,Customer_227,Home Office,Cabinet,Furniture,South,7,0.2,67550.25,-4439.91,-6.57,High
+ORD-00692,2024-03-30,2024,3,Mar,2024-03,Customer_264,Consumer,Office Chair,Furniture,West,1,0.1,7735.39,727.58,9.41,Low
+ORD-00621,2024-03-31,2024,3,Mar,2024-03,Customer_071,Corporate,Notebook,Office Supplies,North,1,0.2,217.99,17.62,8.08,Low
+ORD-01124,2024-04-02,2024,4,Apr,2024-04,Customer_224,Consumer,Notebook,Office Supplies,East,1,0.1,203.28,44.76,22.02,Low
+ORD-01240,2024-04-02,2024,4,Apr,2024-04,Customer_234,Corporate,Office Chair,Furniture,South,1,0.15,8072.58,164.22,2.03,Low
+ORD-01160,2024-04-02,2024,4,Apr,2024-04,Customer_175,Home Office,Headphones,Technology,West,2,0.05,6513.2,1069.09,16.41,Low
+ORD-01447,2024-04-02,2024,4,Apr,2024-04,Customer_091,Consumer,Laptop,Technology,North,2,0.0,141703.74,34501.13,24.35,High
+ORD-00002,2024-04-03,2024,4,Apr,2024-04,Customer_112,Consumer,Stapler,Office Supplies,East,4,0.25,925.9,14.08,1.52,Low
+ORD-00783,2024-04-03,2024,4,Apr,2024-04,Customer_136,Consumer,Stapler,Office Supplies,North,1,0.15,280.44,51.9,18.51,Low
+ORD-00151,2024-04-04,2024,4,Apr,2024-04,Customer_042,Consumer,Stapler,Office Supplies,North,6,0.05,1769.76,384.44,21.72,Low
+ORD-00144,2024-04-04,2024,4,Apr,2024-04,Customer_190,Consumer,Bookshelf,Furniture,West,6,0.1,46844.81,4781.47,10.21,Medium
+ORD-00778,2024-04-04,2024,4,Apr,2024-04,Customer_246,Home Office,Notebook,Office Supplies,North,2,0.2,436.84,50.9,11.65,Low
+ORD-00006,2024-04-04,2024,4,Apr,2024-04,Unknown Customer,Consumer,Notebook,Office Supplies,South,3,0.15,629.49,82.08,13.04,Low
+ORD-01433,2024-04-04,2024,4,Apr,2024-04,Customer_049,Home Office,Desk,Furniture,North,2,0.2,24722.19,-773.87,-3.13,Medium
+ORD-00500,2024-04-04,2024,4,Apr,2024-04,Customer_216,Home Office,Cabinet,Furniture,South,2,0.2,18785.44,-1015.25,-5.4,Medium
+ORD-00301,2024-04-05,2024,4,Apr,2024-04,Customer_282,Home Office,Stapler,Office Supplies,South,7,0.15,1860.1,257.56,13.85,Low
+ORD-00900,2024-04-06,2024,4,Apr,2024-04,Customer_242,Corporate,Folders,Office Supplies,East,3,0.15,536.19,65.1,12.14,Low
+ORD-00669,2024-04-06,2024,4,Apr,2024-04,Customer_263,Consumer,Laptop,Technology,South,6,0.25,265973.83,-16394.09,-6.16,Very High
+ORD-00463,2024-04-06,2024,4,Apr,2024-04,Customer_086,Home Office,Office Chair,Furniture,North,2,0.05,16491.52,1803.21,10.93,Medium
+ORD-00845,2024-04-07,2024,4,Apr,2024-04,Customer_032,Home Office,Desk,Furniture,West,4,0.1,51543.74,5467.78,10.61,High
+ORD-00866,2024-04-07,2024,4,Apr,2024-04,Customer_243,Corporate,Office Chair,Furniture,West,2,0.2,14789.13,-252.27,-1.71,Medium
+ORD-00599,2024-04-07,2024,4,Apr,2024-04,Customer_148,Consumer,Office Chair,Furniture,West,7,0.0,65818.35,11621.23,17.66,High
+ORD-00237,2024-04-08,2024,4,Apr,2024-04,Customer_121,Home Office,Monitor,Technology,South,4,0.05,73142.46,13572.95,18.56,High
+ORD-00482,2024-04-08,2024,4,Apr,2024-04,Customer_268,Consumer,Mouse,Technology,South,1,0.0,1285.24,309.77,24.1,Low
+ORD-01278,2024-04-10,2024,4,Apr,2024-04,Customer_021,Consumer,Webcam,Technology,East,3,0.2,7611.73,74.3,0.98,Low
+ORD-00569,2024-04-11,2024,4,Apr,2024-04,Customer_196,Consumer,Notebook,Office Supplies,East,7,0.0,1729.36,476.13,27.53,Low
+ORD-00562,2024-04-11,2024,4,Apr,2024-04,Customer_160,Home Office,Folders,Office Supplies,North,5,0.15,936.9,172.75,18.44,Low
+ORD-00980,2024-04-11,2024,4,Apr,2024-04,Customer_071,Consumer,Bookshelf,Furniture,South,6,0.05,43001.0,7035.42,16.36,Medium
+ORD-00844,2024-04-11,2024,4,Apr,2024-04,Customer_140,Corporate,Office Chair,Furniture,East,6,0.2,44370.11,-1558.69,-3.51,Medium
+ORD-00511,2024-04-12,2024,4,Apr,2024-04,Customer_134,Consumer,Headphones,Technology,West,7,0.05,22749.06,3592.57,15.79,Medium
+ORD-00045,2024-04-12,2024,4,Apr,2024-04,Customer_126,Consumer,Monitor,Technology,North,2,0.05,33293.78,6250.02,18.77,Medium
+ORD-01009,2024-04-12,2024,4,Apr,2024-04,Customer_122,Corporate,Webcam,Technology,West,3,0.0,8122.21,1901.76,23.41,Low
+ORD-01131,2024-04-12,2024,4,Apr,2024-04,Customer_263,Consumer,Folders,Office Supplies,North,4,0.25,723.41,7.56,1.05,Low
+ORD-00433,2024-04-13,2024,4,Apr,2024-04,Customer_258,Consumer,Monitor,Technology,South,6,0.15,89559.87,5469.46,6.11,High
+ORD-01138,2024-04-13,2024,4,Apr,2024-04,Customer_208,Consumer,Webcam,Technology,East,2,0.15,4753.98,281.87,5.93,Low
+ORD-00516,2024-04-14,2024,4,Apr,2024-04,Customer_060,Consumer,Notebook,Office Supplies,East,5,0.05,1224.56,309.28,25.26,Low
+ORD-01424,2024-04-14,2024,4,Apr,2024-04,Customer_005,Home Office,Printer Paper,Office Supplies,East,5,0.0,2193.05,598.85,27.31,Low
+ORD-00558,2024-04-14,2024,4,Apr,2024-04,Customer_212,Home Office,Office Chair,Furniture,South,6,0.1,47378.86,3629.58,7.66,Medium
+ORD-00019,2024-04-15,2024,4,Apr,2024-04,Customer_177,Consumer,Monitor,Technology,East,2,0.0,39060.86,8395.81,21.49,Medium
+ORD-00373,2024-04-15,2024,4,Apr,2024-04,Customer_070,Corporate,Office Chair,Furniture,North,6,0.15,44534.23,242.9,0.55,Medium
+ORD-00038,2024-04-16,2024,4,Apr,2024-04,Customer_094,Home Office,Bookshelf,Furniture,South,3,0.0,26020.66,5254.64,20.19,Medium
+ORD-01223,2024-04-16,2024,4,Apr,2024-04,Customer_222,Corporate,Headphones,Technology,West,7,0.05,25018.66,4797.95,19.18,Medium
+ORD-00768,2024-04-16,2024,4,Apr,2024-04,Customer_010,Home Office,Monitor,Technology,East,6,0.15,94557.9,6525.2,6.9,High
+ORD-00460,2024-04-16,2024,4,Apr,2024-04,Customer_107,Corporate,Printer Paper,Office Supplies,East,2,0.0,860.51,249.34,28.98,Low
+ORD-01264,2024-04-17,2024,4,Apr,2024-04,Customer_234,Corporate,Office Chair,Furniture,South,3,0.15,24369.92,688.07,2.82,Medium
+ORD-01119,2024-04-17,2024,4,Apr,2024-04,Customer_056,Home Office,Stapler,Office Supplies,South,5,0.25,1166.85,83.4,7.15,Low
+ORD-01365,2024-04-17,2024,4,Apr,2024-04,Customer_035,Home Office,Bookshelf,Furniture,East,2,0.15,12520.4,783.86,6.26,Medium
+ORD-00675,2024-04-18,2024,4,Apr,2024-04,Customer_163,Consumer,Mouse,Technology,South,2,0.05,2331.28,483.0,20.72,Low
+ORD-00931,2024-04-18,2024,4,Apr,2024-04,Customer_226,Consumer,Stapler,Office Supplies,North,2,0.0,596.33,159.02,26.67,Low
+ORD-00795,2024-04-18,2024,4,Apr,2024-04,Customer_110,Home Office,Cabinet,Furniture,South,2,0.0,22438.48,3401.94,15.16,Medium
+ORD-00285,2024-04-19,2024,4,Apr,2024-04,Customer_203,Consumer,Table,Furniture,East,5,0.05,60797.55,8423.34,13.85,High
+ORD-00698,2024-04-19,2024,4,Apr,2024-04,Customer_181,Corporate,Pen Set,Office Supplies,East,6,0.05,1099.84,243.24,22.12,Low
+ORD-00122,2024-04-19,2024,4,Apr,2024-04,Customer_054,Home Office,Headphones,Technology,South,2,0.05,7127.45,1082.28,15.18,Low
+ORD-00721,2024-04-20,2024,4,Apr,2024-04,Customer_120,Consumer,Monitor,Technology,North,4,0.05,75224.84,14797.1,19.67,High
+ORD-01105,2024-04-20,2024,4,Apr,2024-04,Customer_132,Corporate,Stapler,Office Supplies,South,6,0.05,1621.4,360.76,22.25,Low
+ORD-01385,2024-04-21,2024,4,Apr,2024-04,Customer_056,Consumer,Office Chair,Furniture,North,1,0.2,6563.58,-190.84,-2.91,Low
+ORD-00039,2024-04-22,2024,4,Apr,2024-04,Customer_007,Consumer,Monitor,Technology,East,4,0.0,67314.84,16685.26,24.79,High
+ORD-00264,2024-04-22,2024,4,Apr,2024-04,Customer_051,Home Office,Mouse,Technology,West,7,0.15,6891.87,495.94,7.2,Low
+ORD-00384,2024-04-22,2024,4,Apr,2024-04,Customer_086,Corporate,Table,Furniture,South,5,0.2,53074.4,-2072.83,-3.91,High
+ORD-00490,2024-04-22,2024,4,Apr,2024-04,Customer_026,Corporate,Keyboard,Technology,South,5,0.2,10848.58,-0.93,-0.01,Medium
+ORD-00820,2024-04-23,2024,4,Apr,2024-04,Customer_184,Home Office,Folders,Office Supplies,West,7,0.15,1417.4,228.23,16.1,Low
+ORD-00668,2024-04-24,2024,4,Apr,2024-04,Customer_011,Consumer,Pen Set,Office Supplies,East,7,0.05,1235.33,325.87,26.38,Low
+ORD-00613,2024-04-24,2024,4,Apr,2024-04,Customer_065,Home Office,Webcam,Technology,West,7,0.25,16079.96,-87.11,-0.54,Medium
+ORD-01153,2024-04-24,2024,4,Apr,2024-04,Customer_124,Consumer,Table,Furniture,South,4,0.0,61380.8,11353.34,18.5,High
+ORD-01051,2024-04-25,2024,4,Apr,2024-04,Customer_173,Home Office,Laptop,Technology,East,5,0.1,285732.94,33968.75,11.89,Very High
+ORD-00833,2024-04-25,2024,4,Apr,2024-04,Customer_075,Corporate,Desk,Furniture,South,6,0.1,85727.64,6552.11,7.64,High
+ORD-00722,2024-04-26,2024,4,Apr,2024-04,Customer_068,Home Office,Folders,Office Supplies,West,6,0.1,1201.91,269.59,22.43,Low
+ORD-00446,2024-04-26,2024,4,Apr,2024-04,Customer_082,Corporate,Cabinet,Furniture,North,6,0.05,63778.62,9465.83,14.84,High
+ORD-01084,2024-04-27,2024,4,Apr,2024-04,Customer_167,Corporate,Folders,Office Supplies,East,3,0.1,551.91,92.8,16.81,Low
+ORD-01195,2024-04-27,2024,4,Apr,2024-04,Customer_271,Consumer,Table,Furniture,North,5,0.1,61398.44,5217.51,8.5,High
+ORD-00137,2024-04-27,2024,4,Apr,2024-04,Customer_267,Home Office,Monitor,Technology,South,1,0.2,14450.87,371.86,2.57,Medium
+ORD-00654,2024-04-28,2024,4,Apr,2024-04,Customer_255,Consumer,Webcam,Technology,West,4,0.05,12132.73,2506.57,20.66,Medium
+ORD-01442,2024-04-28,2024,4,Apr,2024-04,Customer_201,Consumer,Folders,Office Supplies,East,5,0.0,1022.99,278.54,27.23,Low
+ORD-00238,2024-04-28,2024,4,Apr,2024-04,Customer_235,Corporate,Laptop,Technology,North,4,0.05,267619.34,41719.82,15.59,Very High
+ORD-00195,2024-04-29,2024,4,Apr,2024-04,Customer_114,Corporate,Cabinet,Furniture,East,1,0.15,9261.79,354.24,3.82,Low
+ORD-00139,2024-04-29,2024,4,Apr,2024-04,Customer_063,Corporate,Folders,Office Supplies,North,7,0.05,1325.49,351.53,26.52,Low
+ORD-01429,2024-04-30,2024,4,Apr,2024-04,Customer_145,Consumer,Monitor,Technology,East,3,0.15,47839.16,4983.82,10.42,Medium
+ORD-00840,2024-04-30,2024,4,Apr,2024-04,Customer_183,Consumer,Office Chair,Furniture,North,4,0.0,37529.98,7294.54,19.44,Medium
+ORD-00390,2024-05-02,2024,5,May,2024-05,Customer_236,Corporate,Printer Paper,Office Supplies,South,6,0.0,2642.47,680.09,25.74,Low
+ORD-00167,2024-05-02,2024,5,May,2024-05,Customer_259,Consumer,Folders,Office Supplies,South,1,0.2,177.37,13.66,7.7,Low
+ORD-01440,2024-05-03,2024,5,May,2024-05,Customer_168,Corporate,Table,Furniture,East,2,0.0,29221.29,4850.08,16.6,Medium
+ORD-01201,2024-05-03,2024,5,May,2024-05,Customer_251,Corporate,Bookshelf,Furniture,East,4,0.25,25561.49,-1690.34,-6.61,Medium
+ORD-01406,2024-05-04,2024,5,May,2024-05,Customer_256,Consumer,Office Chair,Furniture,East,1,0.25,6878.07,-468.77,-6.82,Low
+ORD-00744,2024-05-04,2024,5,May,2024-05,Customer_052,Consumer,Notebook,Office Supplies,West,3,0.0,682.81,174.28,25.52,Low
+ORD-00313,2024-05-04,2024,5,May,2024-05,Customer_176,Home Office,Printer Paper,Office Supplies,East,3,0.05,1392.69,369.67,26.54,Low
+ORD-00051,2024-05-05,2024,5,May,2024-05,Customer_172,Corporate,Cabinet,Furniture,North,1,0.1,10848.88,755.64,6.97,Medium
+ORD-01412,2024-05-07,2024,5,May,2024-05,Customer_072,Consumer,Folders,Office Supplies,East,7,0.0,1585.11,457.9,28.89,Low
+ORD-01403,2024-05-07,2024,5,May,2024-05,Customer_002,Consumer,Table,Furniture,South,6,0.1,81409.91,5339.01,6.56,High
+ORD-00740,2024-05-07,2024,5,May,2024-05,Customer_058,Consumer,Notebook,Office Supplies,East,2,0.0,500.42,139.3,27.84,Low
+ORD-00229,2024-05-08,2024,5,May,2024-05,Customer_080,Home Office,Notebook,Office Supplies,East,7,0.25,1218.01,32.1,2.64,Low
+ORD-01360,2024-05-08,2024,5,May,2024-05,Customer_266,Home Office,Headphones,Technology,South,6,0.1,18163.48,2878.32,15.85,Medium
+ORD-00170,2024-05-08,2024,5,May,2024-05,Customer_120,Home Office,Office Chair,Furniture,North,1,0.25,6260.24,-668.36,-10.68,Low
+ORD-01232,2024-05-09,2024,5,May,2024-05,Customer_281,Corporate,Cabinet,Furniture,West,1,0.15,9580.11,205.37,2.14,Low
+ORD-01114,2024-05-09,2024,5,May,2024-05,Customer_191,Consumer,Mouse,Technology,West,7,0.2,6374.89,-27.59,-0.43,Low
+ORD-01068,2024-05-09,2024,5,May,2024-05,Customer_107,Home Office,Mouse,Technology,South,3,0.1,3166.97,417.57,13.19,Low
+ORD-01327,2024-05-09,2024,5,May,2024-05,Customer_031,Consumer,Bookshelf,Furniture,North,2,0.2,12954.98,-222.43,-1.72,Medium
+ORD-01258,2024-05-09,2024,5,May,2024-05,Customer_039,Consumer,Keyboard,Technology,North,6,0.05,15053.5,2644.51,17.57,Medium
+ORD-00585,2024-05-10,2024,5,May,2024-05,Customer_230,Consumer,Laptop,Technology,East,6,0.2,292434.81,13714.26,4.69,Very High
+ORD-01262,2024-05-10,2024,5,May,2024-05,Customer_020,Home Office,Table,Furniture,East,1,0.1,11567.3,970.87,8.39,Medium
+ORD-00041,2024-05-12,2024,5,May,2024-05,Customer_075,Consumer,Office Chair,Furniture,South,2,0.15,15043.76,1054.28,7.01,Medium
+ORD-00439,2024-05-12,2024,5,May,2024-05,Customer_135,Corporate,Printer Paper,Office Supplies,East,1,0.0,491.76,128.75,26.18,Low
+ORD-01398,2024-05-12,2024,5,May,2024-05,Customer_199,Corporate,Headphones,Technology,South,3,0.05,10008.77,1700.03,16.99,Medium
+ORD-00425,2024-05-13,2024,5,May,2024-05,Customer_196,Consumer,Mouse,Technology,West,2,0.0,2606.69,572.54,21.96,Low
+ORD-00402,2024-05-14,2024,5,May,2024-05,Customer_014,Consumer,Cabinet,Furniture,West,1,0.2,9971.53,126.88,1.27,Low
+ORD-00573,2024-05-14,2024,5,May,2024-05,Customer_046,Consumer,Mouse,Technology,East,6,0.0,7361.6,1728.06,23.47,Low
+ORD-00103,2024-05-15,2024,5,May,2024-05,Customer_031,Corporate,Headphones,Technology,South,3,0.15,9737.8,792.83,8.14,Low
+ORD-00603,2024-05-15,2024,5,May,2024-05,Customer_022,Corporate,Bookshelf,Furniture,North,3,0.25,18664.3,-1222.42,-6.55,Medium
+ORD-00887,2024-05-15,2024,5,May,2024-05,Customer_204,Consumer,Mouse,Technology,South,6,0.1,6207.72,1029.39,16.58,Low
+ORD-01359,2024-05-15,2024,5,May,2024-05,Customer_022,Corporate,Bookshelf,Furniture,East,1,0.15,6713.31,366.32,5.46,Low
+ORD-00686,2024-05-16,2024,5,May,2024-05,Customer_253,Consumer,Monitor,Technology,West,5,0.2,71090.67,3392.4,4.77,High
+ORD-00211,2024-05-17,2024,5,May,2024-05,Customer_150,Consumer,Folders,Office Supplies,West,5,0.1,991.62,202.34,20.4,Low
+ORD-00878,2024-05-18,2024,5,May,2024-05,Customer_029,Consumer,Keyboard,Technology,East,6,0.15,13035.81,929.83,7.13,Medium
+ORD-01400,2024-05-19,2024,5,May,2024-05,Customer_006,Corporate,Notebook,Office Supplies,East,6,0.05,1299.08,322.1,24.79,Low
+ORD-00564,2024-05-19,2024,5,May,2024-05,Customer_054,Corporate,Notebook,Office Supplies,West,6,0.2,1130.34,146.31,12.94,Low
+ORD-00470,2024-05-19,2024,5,May,2024-05,Customer_189,Corporate,Laptop,Technology,North,1,0.1,53705.01,7408.75,13.8,High
+ORD-00789,2024-05-20,2024,5,May,2024-05,Customer_172,Consumer,Office Chair,Furniture,South,5,0.1,38471.41,3617.59,9.4,Medium
+ORD-01485,2024-05-21,2024,5,May,2024-05,Customer_281,Corporate,Notebook,Office Supplies,West,6,0.15,1292.29,184.8,14.3,Low
+ORD-01133,2024-05-21,2024,5,May,2024-05,Customer_133,Consumer,Webcam,Technology,North,6,0.0,18694.27,4350.65,23.27,Medium
+ORD-01246,2024-05-22,2024,5,May,2024-05,Customer_160,Consumer,Notebook,Office Supplies,South,1,0.0,265.13,74.34,28.04,Low
+ORD-00662,2024-05-22,2024,5,May,2024-05,Customer_082,Consumer,Pen Set,Office Supplies,South,3,0.1,469.08,100.68,21.46,Low
+ORD-00228,2024-05-22,2024,5,May,2024-05,Customer_285,Consumer,Monitor,Technology,North,5,0.1,86412.76,10435.3,12.08,High
+ORD-01034,2024-05-23,2024,5,May,2024-05,Customer_182,Consumer,Monitor,Technology,West,6,0.2,84059.88,1275.55,1.52,High
+ORD-00835,2024-05-24,2024,5,May,2024-05,Customer_100,Consumer,Printer Paper,Office Supplies,North,7,0.05,3032.84,741.2,24.44,Low
+ORD-01061,2024-05-24,2024,5,May,2024-05,Customer_149,Consumer,Laptop,Technology,East,5,0.2,243709.75,-3272.25,-1.34,Very High
+ORD-00008,2024-05-25,2024,5,May,2024-05,Customer_237,Consumer,Office Chair,Furniture,West,6,0.15,47783.42,651.21,1.36,Medium
+ORD-01158,2024-05-25,2024,5,May,2024-05,Customer_225,Consumer,Webcam,Technology,West,4,0.15,10606.33,1242.43,11.71,Medium
+ORD-01470,2024-05-25,2024,5,May,2024-05,Customer_268,Consumer,Folders,Office Supplies,East,3,0.2,527.9,67.01,12.69,Low
+ORD-00628,2024-05-26,2024,5,May,2024-05,Customer_156,Corporate,Mouse,Technology,East,2,0.15,1982.61,172.14,8.68,Low
+ORD-00251,2024-05-27,2024,5,May,2024-05,Customer_244,Home Office,Mouse,Technology,South,6,0.05,6947.54,1407.06,20.25,Low
+ORD-00657,2024-05-27,2024,5,May,2024-05,Customer_294,Consumer,Stapler,Office Supplies,North,1,0.1,252.82,53.29,21.08,Low
+ORD-00129,2024-05-27,2024,5,May,2024-05,Customer_157,Consumer,Desk,Furniture,South,4,0.1,51401.95,6273.13,12.2,High
+ORD-00063,2024-05-27,2024,5,May,2024-05,Customer_152,Consumer,Office Chair,Furniture,South,5,0.2,36936.09,-1986.89,-5.38,Medium
+ORD-01112,2024-05-27,2024,5,May,2024-05,Customer_229,Corporate,Table,Furniture,East,1,0.05,13313.07,2076.45,15.6,Medium
+ORD-00765,2024-05-28,2024,5,May,2024-05,Customer_226,Home Office,Mouse,Technology,West,3,0.15,3152.38,166.03,5.27,Low
+ORD-01347,2024-05-28,2024,5,May,2024-05,Customer_235,Corporate,Bookshelf,Furniture,South,7,0.0,55334.81,9275.41,16.76,High
+ORD-00125,2024-05-29,2024,5,May,2024-05,Customer_007,Corporate,Office Chair,Furniture,North,4,0.25,26336.58,-2963.28,-11.25,Medium
+ORD-00179,2024-05-29,2024,5,May,2024-05,Customer_279,Home Office,Stapler,Office Supplies,South,1,0.0,276.44,83.53,30.22,Low
+ORD-01418,2024-05-29,2024,5,May,2024-05,Customer_179,Corporate,Folders,Office Supplies,South,4,0.0,808.85,204.5,25.28,Low
+ORD-01459,2024-05-30,2024,5,May,2024-05,Customer_108,Consumer,Mouse,Technology,South,1,0.0,1180.17,296.25,25.1,Low
+ORD-00595,2024-05-31,2024,5,May,2024-05,Customer_085,Corporate,Printer Paper,Office Supplies,North,5,0.2,1762.69,158.66,9.0,Low
+ORD-00106,2024-05-31,2024,5,May,2024-05,Customer_119,Consumer,Stapler,Office Supplies,South,4,0.1,972.36,218.61,22.48,Low
+ORD-00678,2024-06-01,2024,6,Jun,2024-06,Customer_234,Consumer,Mouse,Technology,East,4,0.05,4169.29,873.03,20.94,Low
+ORD-01323,2024-06-01,2024,6,Jun,2024-06,Customer_271,Corporate,Headphones,Technology,North,2,0.1,6211.65,619.42,9.97,Low
+ORD-01244,2024-06-02,2024,6,Jun,2024-06,Customer_144,Consumer,Mouse,Technology,South,3,0.1,2999.35,495.81,16.53,Low
+ORD-00810,2024-06-02,2024,6,Jun,2024-06,Customer_078,Corporate,Laptop,Technology,North,7,0.2,375441.96,-344.7,-0.09,Very High
+ORD-00932,2024-06-02,2024,6,Jun,2024-06,Customer_291,Consumer,Stapler,Office Supplies,West,1,0.1,245.4,53.48,21.79,Low
+ORD-00429,2024-06-02,2024,6,Jun,2024-06,Customer_030,Home Office,Stapler,Office Supplies,North,6,0.2,1467.1,173.66,11.84,Low
+ORD-01048,2024-06-03,2024,6,Jun,2024-06,Customer_109,Home Office,Bookshelf,Furniture,East,4,0.15,26596.42,114.1,0.43,Medium
+ORD-00682,2024-06-05,2024,6,Jun,2024-06,Customer_194,Corporate,Mouse,Technology,East,1,0.1,972.95,133.33,13.7,Low
+ORD-01122,2024-06-05,2024,6,Jun,2024-06,Customer_165,Corporate,Pen Set,Office Supplies,South,2,0.2,292.68,29.62,10.12,Low
+ORD-00196,2024-06-05,2024,6,Jun,2024-06,Customer_057,Consumer,Printer Paper,Office Supplies,West,5,0.05,1965.14,422.47,21.5,Low
+ORD-00249,2024-06-06,2024,6,Jun,2024-06,Customer_234,Corporate,Folders,Office Supplies,South,3,0.05,593.24,160.63,27.08,Low
+ORD-01011,2024-06-07,2024,6,Jun,2024-06,Customer_159,Consumer,Mouse,Technology,West,3,0.2,2858.0,132.14,4.62,Low
+ORD-00737,2024-06-07,2024,6,Jun,2024-06,Customer_002,Consumer,Printer Paper,Office Supplies,East,3,0.05,1305.46,319.6,24.48,Low
+ORD-00659,2024-06-07,2024,6,Jun,2024-06,Customer_292,Consumer,Folders,Office Supplies,West,1,0.2,169.09,14.78,8.74,Low
+ORD-00206,2024-06-08,2024,6,Jun,2024-06,Customer_281,Corporate,Webcam,Technology,West,5,0.25,10656.81,-26.5,-0.25,Medium
+ORD-00734,2024-06-09,2024,6,Jun,2024-06,Customer_263,Consumer,Notebook,Office Supplies,East,3,0.1,614.98,141.11,22.95,Low
+ORD-00283,2024-06-09,2024,6,Jun,2024-06,Customer_283,Consumer,Notebook,Office Supplies,South,5,0.2,943.05,69.89,7.41,Low
+ORD-00413,2024-06-10,2024,6,Jun,2024-06,Customer_283,Consumer,Bookshelf,Furniture,South,4,0.0,29611.9,6016.74,20.32,Medium
+ORD-01300,2024-06-11,2024,6,Jun,2024-06,Customer_139,Corporate,Pen Set,Office Supplies,North,6,0.1,983.01,167.03,16.99,Low
+ORD-00421,2024-06-11,2024,6,Jun,2024-06,Customer_051,Home Office,Webcam,Technology,West,7,0.05,19623.93,3737.99,19.05,Medium
+ORD-01167,2024-06-11,2024,6,Jun,2024-06,Customer_202,Consumer,Monitor,Technology,South,3,0.15,50270.75,5238.17,10.42,High
+ORD-00266,2024-06-12,2024,6,Jun,2024-06,Customer_076,Consumer,Table,Furniture,West,3,0.05,40557.91,4167.86,10.28,Medium
+ORD-00841,2024-06-12,2024,6,Jun,2024-06,Customer_288,Corporate,Monitor,Technology,North,5,0.1,73580.9,11032.27,14.99,High
+ORD-00278,2024-06-12,2024,6,Jun,2024-06,Customer_125,Consumer,Laptop,Technology,West,2,0.0,138434.8,26778.43,19.34,High
+ORD-01248,2024-06-12,2024,6,Jun,2024-06,Customer_114,Corporate,Pen Set,Office Supplies,North,5,0.1,852.64,182.86,21.45,Low
+ORD-00507,2024-06-13,2024,6,Jun,2024-06,Customer_142,Consumer,Table,Furniture,South,5,0.1,69270.36,8104.05,11.7,High
+ORD-01376,2024-06-13,2024,6,Jun,2024-06,Customer_285,Consumer,Headphones,Technology,West,2,0.15,6293.94,301.76,4.79,Low
+ORD-01441,2024-06-13,2024,6,Jun,2024-06,Customer_288,Consumer,Bookshelf,Furniture,West,1,0.15,7220.57,145.08,2.01,Low
+ORD-00803,2024-06-14,2024,6,Jun,2024-06,Customer_251,Consumer,Cabinet,Furniture,West,1,0.15,9320.23,370.01,3.97,Low
+ORD-00003,2024-06-14,2024,6,Jun,2024-06,Customer_020,Corporate,Bookshelf,Furniture,South,7,0.2,45979.71,-2122.57,-4.62,Medium
+ORD-01154,2024-06-14,2024,6,Jun,2024-06,Customer_296,Consumer,Mouse,Technology,West,6,0.1,5843.44,883.44,15.12,Low
+ORD-00506,2024-06-15,2024,6,Jun,2024-06,Customer_047,Corporate,Headphones,Technology,East,6,0.05,21501.29,3785.32,17.61,Medium
+ORD-00239,2024-06-15,2024,6,Jun,2024-06,Customer_261,Consumer,Webcam,Technology,North,7,0.05,20424.48,3306.14,16.19,Medium
+ORD-00708,2024-06-15,2024,6,Jun,2024-06,Customer_072,Corporate,Cabinet,Furniture,East,5,0.25,42550.08,-2991.35,-7.03,Medium
+ORD-01421,2024-06-16,2024,6,Jun,2024-06,Customer_172,Corporate,Table,Furniture,West,3,0.05,36192.92,4155.6,11.48,Medium
+ORD-00119,2024-06-17,2024,6,Jun,2024-06,Customer_077,Home Office,Mouse,Technology,North,6,0.15,6185.53,556.55,9.0,Low
+ORD-00024,2024-06-17,2024,6,Jun,2024-06,Customer_167,Consumer,Table,Furniture,West,1,0.1,13431.07,892.1,6.64,Medium
+ORD-01007,2024-06-18,2024,6,Jun,2024-06,Customer_289,Home Office,Office Chair,Furniture,South,7,0.1,54724.48,4824.47,8.82,High
+ORD-00360,2024-06-18,2024,6,Jun,2024-06,Customer_044,Home Office,Laptop,Technology,East,3,0.05,187051.15,36972.3,19.77,Very High
+ORD-00958,2024-06-19,2024,6,Jun,2024-06,Customer_294,Corporate,Bookshelf,Furniture,West,4,0.0,31734.3,5724.33,18.04,Medium
+ORD-00230,2024-06-20,2024,6,Jun,2024-06,Customer_290,Consumer,Folders,Office Supplies,South,3,0.05,618.22,152.2,24.62,Low
+ORD-01464,2024-06-20,2024,6,Jun,2024-06,Customer_095,Consumer,Office Chair,Furniture,North,2,0.2,13096.42,-208.15,-1.59,Medium
+ORD-01353,2024-06-20,2024,6,Jun,2024-06,Customer_187,Consumer,Table,Furniture,North,6,0.1,71454.87,5464.24,7.65,High
+ORD-00710,2024-06-21,2024,6,Jun,2024-06,Customer_112,Consumer,Desk,Furniture,North,1,0.05,12913.79,1659.04,12.85,Medium
+ORD-00677,2024-06-21,2024,6,Jun,2024-06,Customer_224,Home Office,Keyboard,Technology,East,3,0.15,5800.66,634.75,10.94,Low
+ORD-01476,2024-06-21,2024,6,Jun,2024-06,Customer_112,Consumer,Office Chair,Furniture,East,4,0.2,28154.03,-1500.76,-5.33,Medium
+ORD-00346,2024-06-21,2024,6,Jun,2024-06,Customer_021,Corporate,Office Chair,Furniture,South,1,0.25,6242.19,-417.71,-6.69,Low
+ORD-01255,2024-06-22,2024,6,Jun,2024-06,Customer_048,Corporate,Webcam,Technology,North,3,0.25,6415.48,-377.59,-5.89,Low
+ORD-00770,2024-06-22,2024,6,Jun,2024-06,Customer_026,Corporate,Notebook,Office Supplies,South,5,0.05,1176.94,254.25,21.6,Low
+ORD-00341,2024-06-22,2024,6,Jun,2024-06,Customer_003,Consumer,Folders,Office Supplies,North,4,0.0,926.16,233.33,25.19,Low
+ORD-01342,2024-06-23,2024,6,Jun,2024-06,Customer_189,Consumer,Table,Furniture,North,3,0.2,33955.15,-44.7,-0.13,Medium
+ORD-01273,2024-06-23,2024,6,Jun,2024-06,Customer_245,Consumer,Table,Furniture,East,1,0.1,11931.26,1174.88,9.85,Medium
+ORD-00853,2024-06-24,2024,6,Jun,2024-06,Customer_086,Corporate,Stapler,Office Supplies,North,1,0.15,270.26,43.43,16.07,Low
+ORD-00221,2024-06-24,2024,6,Jun,2024-06,Customer_053,Consumer,Table,Furniture,South,2,0.1,24655.98,2657.23,10.78,Medium
+ORD-00709,2024-06-26,2024,6,Jun,2024-06,Customer_215,Consumer,Table,Furniture,East,5,0.0,65227.0,11799.23,18.09,High
+ORD-00081,2024-06-26,2024,6,Jun,2024-06,Customer_192,Home Office,Laptop,Technology,South,6,0.15,342784.48,21613.51,6.31,Very High
+ORD-00477,2024-06-26,2024,6,Jun,2024-06,Customer_106,Consumer,Notebook,Office Supplies,North,2,0.1,484.48,103.34,21.33,Low
+ORD-01467,2024-06-26,2024,6,Jun,2024-06,Customer_128,Consumer,Laptop,Technology,North,6,0.1,336361.36,38074.57,11.32,Very High
+ORD-00876,2024-06-27,2024,6,Jun,2024-06,Customer_161,Consumer,Monitor,Technology,East,7,0.0,120644.91,25478.97,21.12,High
+ORD-01395,2024-06-27,2024,6,Jun,2024-06,Customer_012,Home Office,Notebook,Office Supplies,East,4,0.2,766.71,79.29,10.34,Low
+ORD-00671,2024-06-27,2024,6,Jun,2024-06,Customer_257,Corporate,Keyboard,Technology,East,6,0.1,13955.18,1957.24,14.03,Medium
+ORD-00407,2024-06-28,2024,6,Jun,2024-06,Customer_177,Consumer,Bookshelf,Furniture,West,3,0.05,20812.79,2463.61,11.84,Medium
+ORD-00895,2024-06-28,2024,6,Jun,2024-06,Customer_042,Home Office,Printer Paper,Office Supplies,East,4,0.0,1873.59,529.65,28.27,Low
+ORD-00037,2024-06-29,2024,6,Jun,2024-06,Customer_224,Consumer,Keyboard,Technology,East,7,0.2,12894.78,758.32,5.88,Medium
+ORD-00522,2024-06-29,2024,6,Jun,2024-06,Customer_090,Home Office,Keyboard,Technology,South,6,0.05,13706.36,2719.97,19.84,Medium
+ORD-01100,2024-06-29,2024,6,Jun,2024-06,Customer_096,Corporate,Pen Set,Office Supplies,South,3,0.2,398.42,37.62,9.44,Low
+ORD-01463,2024-07-01,2024,7,Jul,2024-07,Customer_054,Home Office,Stapler,Office Supplies,East,1,0.05,279.36,71.03,25.43,Low
+ORD-01185,2024-07-01,2024,7,Jul,2024-07,Customer_285,Corporate,Keyboard,Technology,East,7,0.1,14202.11,1708.35,12.03,Medium
+ORD-00536,2024-07-01,2024,7,Jul,2024-07,Customer_093,Home Office,Headphones,Technology,North,6,0.05,18293.59,3259.73,17.82,Medium
+ORD-00905,2024-07-01,2024,7,Jul,2024-07,Customer_288,Consumer,Keyboard,Technology,North,1,0.1,2236.27,259.99,11.63,Low
+ORD-01396,2024-07-01,2024,7,Jul,2024-07,Customer_209,Corporate,Mouse,Technology,West,3,0.0,3509.23,718.52,20.48,Low
+ORD-01351,2024-07-01,2024,7,Jul,2024-07,Customer_201,Home Office,Webcam,Technology,South,4,0.1,10017.03,1540.78,15.38,Medium
+ORD-01117,2024-07-01,2024,7,Jul,2024-07,Customer_096,Corporate,Stapler,Office Supplies,East,4,0.1,1114.41,189.16,16.97,Low
+ORD-00837,2024-07-02,2024,7,Jul,2024-07,Customer_247,Consumer,Laptop,Technology,West,5,0.15,277007.95,21705.15,7.84,Very High
+ORD-00133,2024-07-03,2024,7,Jul,2024-07,Customer_256,Consumer,Office Chair,Furniture,North,1,0.15,8009.75,408.78,5.1,Low
+ORD-01417,2024-07-03,2024,7,Jul,2024-07,Customer_092,Consumer,Folders,Office Supplies,North,4,0.15,734.97,131.93,17.95,Low
+ORD-00434,2024-07-04,2024,7,Jul,2024-07,Customer_296,Consumer,Office Chair,Furniture,South,2,0.15,15660.42,1151.0,7.35,Medium
+ORD-01093,2024-07-04,2024,7,Jul,2024-07,Customer_116,Consumer,Stapler,Office Supplies,North,3,0.05,889.24,198.05,22.27,Low
+ORD-01408,2024-07-04,2024,7,Jul,2024-07,Customer_109,Corporate,Laptop,Technology,West,5,0.0,299374.9,73427.28,24.53,Very High
+ORD-00605,2024-07-05,2024,7,Jul,2024-07,Customer_010,Home Office,Printer Paper,Office Supplies,South,5,0.2,1898.28,248.99,13.12,Low
+ORD-00593,2024-07-05,2024,7,Jul,2024-07,Customer_208,Consumer,Bookshelf,Furniture,South,1,0.1,7078.58,758.2,10.71,Low
+ORD-00311,2024-07-06,2024,7,Jul,2024-07,Customer_046,Corporate,Keyboard,Technology,South,1,0.05,2406.25,444.28,18.46,Low
+ORD-00312,2024-07-06,2024,7,Jul,2024-07,Customer_236,Home Office,Table,Furniture,West,1,0.25,11210.09,-695.35,-6.2,Medium
+ORD-00187,2024-07-06,2024,7,Jul,2024-07,Customer_279,Home Office,Stapler,Office Supplies,East,7,0.15,1845.31,338.17,18.33,Low
+ORD-00157,2024-07-07,2024,7,Jul,2024-07,Customer_123,Corporate,Desk,Furniture,South,3,0.05,45452.28,5088.1,11.19,Medium
+ORD-00108,2024-07-09,2024,7,Jul,2024-07,Customer_073,Consumer,Table,Furniture,East,5,0.1,65309.06,7098.85,10.87,High
+ORD-00874,2024-07-09,2024,7,Jul,2024-07,Customer_124,Home Office,Desk,Furniture,South,4,0.2,46912.37,243.54,0.52,Medium
+ORD-00928,2024-07-09,2024,7,Jul,2024-07,Customer_255,Corporate,Webcam,Technology,South,3,0.0,9626.18,2410.74,25.04,Low
+ORD-00806,2024-07-10,2024,7,Jul,2024-07,Customer_015,Corporate,Cabinet,Furniture,East,4,0.15,39914.22,493.94,1.24,Medium
+ORD-00563,2024-07-11,2024,7,Jul,2024-07,Customer_195,Consumer,Bookshelf,Furniture,North,3,0.1,19842.7,2381.31,12.0,Medium
+ORD-00877,2024-07-11,2024,7,Jul,2024-07,Customer_075,Consumer,Headphones,Technology,South,6,0.25,14775.14,-201.54,-1.36,Medium
+ORD-01432,2024-07-12,2024,7,Jul,2024-07,Customer_051,Corporate,Cabinet,Furniture,South,5,0.05,54854.77,5626.01,10.26,High
+ORD-00579,2024-07-12,2024,7,Jul,2024-07,Customer_216,Consumer,Desk,Furniture,South,1,0.25,11630.33,-1133.48,-9.75,Medium
+ORD-00227,2024-07-14,2024,7,Jul,2024-07,Customer_282,Corporate,Keyboard,Technology,East,5,0.05,12010.38,2309.92,19.23,Medium
+ORD-01121,2024-07-15,2024,7,Jul,2024-07,Customer_180,Consumer,Folders,Office Supplies,South,4,0.0,840.69,235.05,27.96,Low
+ORD-00485,2024-07-15,2024,7,Jul,2024-07,Customer_210,Consumer,Bookshelf,Furniture,North,3,0.25,16302.04,-1864.37,-11.44,Medium
+ORD-01115,2024-07-16,2024,7,Jul,2024-07,Customer_242,Consumer,Keyboard,Technology,North,5,0.05,11835.57,2333.43,19.72,Medium
+ORD-00944,2024-07-17,2024,7,Jul,2024-07,Customer_220,Consumer,Notebook,Office Supplies,West,6,0.0,1609.8,476.6,29.61,Low
+ORD-01238,2024-07-17,2024,7,Jul,2024-07,Customer_298,Consumer,Printer Paper,Office Supplies,South,7,0.25,2162.11,60.49,2.8,Low
+ORD-00567,2024-07-18,2024,7,Jul,2024-07,Customer_028,Consumer,Headphones,Technology,West,3,0.1,8803.94,1215.31,13.8,Low
+ORD-00352,2024-07-18,2024,7,Jul,2024-07,Customer_262,Corporate,Notebook,Office Supplies,North,7,0.15,1365.65,200.32,14.67,Low
+ORD-00723,2024-07-19,2024,7,Jul,2024-07,Customer_165,Corporate,Table,Furniture,East,5,0.15,54210.28,3299.72,6.09,High
+ORD-01069,2024-07-19,2024,7,Jul,2024-07,Customer_273,Consumer,Keyboard,Technology,South,3,0.1,7312.12,949.54,12.99,Low
+ORD-01032,2024-07-19,2024,7,Jul,2024-07,Customer_065,Consumer,Stapler,Office Supplies,West,2,0.05,572.71,151.31,26.42,Low
+ORD-01052,2024-07-20,2024,7,Jul,2024-07,Customer_144,Corporate,Laptop,Technology,North,5,0.2,280649.71,-62.6,-0.02,Very High
+ORD-00309,2024-07-20,2024,7,Jul,2024-07,Customer_013,Consumer,Office Chair,Furniture,West,6,0.1,46317.87,4479.28,9.67,Medium
+ORD-00704,2024-07-20,2024,7,Jul,2024-07,Customer_143,Home Office,Office Chair,Furniture,East,5,0.05,40322.76,5559.73,13.79,Medium
+ORD-01144,2024-07-21,2024,7,Jul,2024-07,Customer_233,Consumer,Webcam,Technology,West,6,0.15,15439.2,914.05,5.92,Medium
+ORD-00551,2024-07-21,2024,7,Jul,2024-07,Customer_118,Consumer,Bookshelf,Furniture,East,6,0.15,38514.3,454.85,1.18,Medium
+ORD-00695,2024-07-22,2024,7,Jul,2024-07,Customer_266,Corporate,Office Chair,Furniture,East,1,0.05,9020.58,1133.35,12.56,Low
+ORD-01338,2024-07-22,2024,7,Jul,2024-07,Customer_190,Consumer,Notebook,Office Supplies,East,1,0.1,236.84,50.97,21.52,Low
+ORD-00304,2024-07-22,2024,7,Jul,2024-07,Customer_114,Consumer,Notebook,Office Supplies,South,7,0.1,1524.29,321.64,21.1,Low
+ORD-00600,2024-07-23,2024,7,Jul,2024-07,Customer_036,Corporate,Table,Furniture,West,7,0.2,73304.08,557.57,0.76,High
+ORD-01212,2024-07-23,2024,7,Jul,2024-07,Customer_006,Home Office,Bookshelf,Furniture,North,1,0.0,8523.13,1505.84,17.67,Low
+ORD-01387,2024-07-23,2024,7,Jul,2024-07,Customer_039,Consumer,Webcam,Technology,North,3,0.2,7810.77,18.74,0.24,Low
+ORD-00790,2024-07-24,2024,7,Jul,2024-07,Customer_092,Home Office,Cabinet,Furniture,North,7,0.05,87054.9,10045.88,11.54,High
+ORD-01164,2024-07-25,2024,7,Jul,2024-07,Customer_182,Consumer,Monitor,Technology,South,6,0.15,87314.87,9072.44,10.39,High
+ORD-00194,2024-07-26,2024,7,Jul,2024-07,Customer_263,Consumer,Webcam,Technology,North,6,0.0,18073.65,4017.17,22.23,Medium
+ORD-00245,2024-07-26,2024,7,Jul,2024-07,Customer_115,Corporate,Table,Furniture,North,5,0.25,56527.06,-4293.54,-7.6,High
+ORD-00286,2024-07-27,2024,7,Jul,2024-07,Customer_254,Consumer,Stapler,Office Supplies,North,1,0.1,288.51,58.69,20.34,Low
+ORD-00705,2024-07-28,2024,7,Jul,2024-07,Customer_189,Corporate,Headphones,Technology,South,7,0.2,18623.57,275.25,1.48,Medium
+ORD-00642,2024-07-29,2024,7,Jul,2024-07,Customer_158,Corporate,Laptop,Technology,West,7,0.2,400118.06,22261.59,5.56,Very High
+ORD-00701,2024-07-29,2024,7,Jul,2024-07,Customer_264,Consumer,Printer Paper,Office Supplies,East,7,0.15,2716.14,345.57,12.72,Low
+ORD-00612,2024-07-30,2024,7,Jul,2024-07,Customer_003,Corporate,Folders,Office Supplies,West,7,0.05,1496.8,395.98,26.46,Low
+ORD-00172,2024-07-30,2024,7,Jul,2024-07,Customer_170,Corporate,Cabinet,Furniture,West,1,0.1,11509.66,846.46,7.35,Medium
+ORD-00236,2024-07-30,2024,7,Jul,2024-07,Customer_273,Corporate,Bookshelf,Furniture,North,2,0.2,12201.04,-79.05,-0.65,Medium
+ORD-00793,2024-07-30,2024,7,Jul,2024-07,Customer_187,Home Office,Mouse,Technology,East,5,0.15,5053.89,494.91,9.79,Low
+ORD-00218,2024-07-31,2024,7,Jul,2024-07,Customer_265,Corporate,Monitor,Technology,South,2,0.2,29998.99,1510.03,5.03,Medium
+ORD-01428,2024-07-31,2024,7,Jul,2024-07,Customer_111,Consumer,Desk,Furniture,South,5,0.0,72839.22,13365.52,18.35,High
+ORD-00912,2024-07-31,2024,7,Jul,2024-07,Customer_212,Consumer,Folders,Office Supplies,South,4,0.2,726.33,59.4,8.18,Low
+ORD-01081,2024-08-02,2024,8,Aug,2024-08,Customer_132,Consumer,Folders,Office Supplies,North,1,0.05,225.05,60.81,27.02,Low
+ORD-00365,2024-08-02,2024,8,Aug,2024-08,Customer_150,Corporate,Desk,Furniture,West,2,0.15,27795.01,1441.73,5.19,Medium
+ORD-01070,2024-08-02,2024,8,Aug,2024-08,Customer_080,Corporate,Headphones,Technology,South,3,0.0,9787.53,2445.4,24.98,Low
+ORD-00696,2024-08-02,2024,8,Aug,2024-08,Customer_133,Consumer,Notebook,Office Supplies,East,2,0.15,419.34,71.39,17.02,Low
+ORD-00799,2024-08-03,2024,8,Aug,2024-08,Customer_185,Consumer,Mouse,Technology,North,7,0.1,8000.19,1019.76,12.75,Low
+ORD-00597,2024-08-03,2024,8,Aug,2024-08,Customer_167,Corporate,Webcam,Technology,South,1,0.15,2797.79,198.78,7.1,Low
+ORD-00565,2024-08-03,2024,8,Aug,2024-08,Customer_288,Consumer,Folders,Office Supplies,West,3,0.25,516.28,37.74,7.31,Low
+ORD-00759,2024-08-03,2024,8,Aug,2024-08,Customer_085,Consumer,Webcam,Technology,East,7,0.1,17958.45,2585.01,14.39,Medium
+ORD-00673,2024-08-04,2024,8,Aug,2024-08,Customer_129,Consumer,Laptop,Technology,West,4,0.0,252013.15,50826.2,20.17,Very High
+ORD-01086,2024-08-06,2024,8,Aug,2024-08,Customer_122,Corporate,Folders,Office Supplies,East,4,0.15,822.52,98.79,12.01,Low
+ORD-00691,2024-08-06,2024,8,Aug,2024-08,Customer_223,Corporate,Mouse,Technology,North,5,0.05,6072.26,1256.65,20.69,Low
+ORD-00391,2024-08-06,2024,8,Aug,2024-08,Customer_101,Corporate,Notebook,Office Supplies,East,1,0.05,235.6,61.59,26.14,Low
+ORD-00067,2024-08-07,2024,8,Aug,2024-08,Customer_210,Corporate,Webcam,Technology,East,4,0.15,11098.81,1200.47,10.82,Medium
+ORD-00693,2024-08-08,2024,8,Aug,2024-08,Customer_197,Consumer,Keyboard,Technology,North,1,0.0,2637.71,629.4,23.86,Low
+ORD-00847,2024-08-08,2024,8,Aug,2024-08,Customer_051,Corporate,Headphones,Technology,West,4,0.2,11910.69,-52.9,-0.44,Medium
+ORD-00199,2024-08-08,2024,8,Aug,2024-08,Customer_014,Home Office,Headphones,Technology,East,3,0.25,8406.52,-68.73,-0.82,Low
+ORD-00058,2024-08-08,2024,8,Aug,2024-08,Customer_235,Home Office,Keyboard,Technology,North,6,0.0,16491.1,3237.83,19.63,Medium
+ORD-00724,2024-08-08,2024,8,Aug,2024-08,Customer_277,Consumer,Notebook,Office Supplies,West,2,0.1,461.12,96.43,20.91,Low
+ORD-00635,2024-08-08,2024,8,Aug,2024-08,Customer_095,Consumer,Monitor,Technology,South,2,0.2,31173.05,1728.5,5.54,Medium
+ORD-01430,2024-08-09,2024,8,Aug,2024-08,Customer_119,Consumer,Office Chair,Furniture,East,3,0.25,18958.34,-1469.1,-7.75,Medium
+ORD-00805,2024-08-09,2024,8,Aug,2024-08,Customer_054,Consumer,Laptop,Technology,East,6,0.1,320893.29,51391.15,16.02,Very High
+ORD-00268,2024-08-09,2024,8,Aug,2024-08,Customer_296,Consumer,Folders,Office Supplies,North,2,0.25,356.8,6.09,1.71,Low
+ORD-00132,2024-08-10,2024,8,Aug,2024-08,Customer_030,Corporate,Office Chair,Furniture,West,3,0.2,22104.39,-629.4,-2.85,Medium
+ORD-00587,2024-08-11,2024,8,Aug,2024-08,Customer_029,Home Office,Bookshelf,Furniture,South,5,0.15,35549.54,115.2,0.32,Medium
+ORD-01020,2024-08-13,2024,8,Aug,2024-08,Customer_041,Corporate,Printer Paper,Office Supplies,North,4,0.05,1782.29,468.65,26.29,Low
+ORD-00475,2024-08-15,2024,8,Aug,2024-08,Customer_131,Consumer,Laptop,Technology,West,7,0.15,410059.34,30629.61,7.47,Very High
+ORD-01335,2024-08-15,2024,8,Aug,2024-08,Customer_002,Consumer,Mouse,Technology,East,6,0.2,5414.67,80.35,1.48,Low
+ORD-00007,2024-08-16,2024,8,Aug,2024-08,Customer_242,Home Office,Cabinet,Furniture,North,4,0.1,41371.15,3127.12,7.56,Medium
+ORD-00544,2024-08-16,2024,8,Aug,2024-08,Customer_007,Consumer,Monitor,Technology,North,2,0.0,37195.92,7882.33,21.19,Medium
+ORD-00222,2024-08-17,2024,8,Aug,2024-08,Customer_040,Consumer,Stapler,Office Supplies,North,3,0.1,778.08,162.13,20.84,Low
+ORD-00306,2024-08-17,2024,8,Aug,2024-08,Customer_230,Corporate,Printer Paper,Office Supplies,West,1,0.2,388.48,40.68,10.47,Low
+ORD-01050,2024-08-17,2024,8,Aug,2024-08,Customer_102,Corporate,Laptop,Technology,South,1,0.1,55742.5,8861.99,15.9,High
+ORD-00027,2024-08-18,2024,8,Aug,2024-08,Customer_199,Corporate,Mouse,Technology,South,3,0.1,2977.21,346.02,11.62,Low
+ORD-00987,2024-08-19,2024,8,Aug,2024-08,Customer_246,Consumer,Stapler,Office Supplies,West,5,0.2,1274.03,82.7,6.49,Low
+ORD-00114,2024-08-19,2024,8,Aug,2024-08,Customer_009,Consumer,Bookshelf,Furniture,East,7,0.05,48082.52,7690.37,15.99,Medium
+ORD-00914,2024-08-20,2024,8,Aug,2024-08,Customer_181,Consumer,Cabinet,Furniture,West,3,0.2,30488.82,99.03,0.32,Medium
+ORD-01452,2024-08-20,2024,8,Aug,2024-08,Customer_044,Corporate,Headphones,Technology,South,1,0.15,2900.68,230.53,7.95,Low
+ORD-00163,2024-08-20,2024,8,Aug,2024-08,Customer_128,Consumer,Webcam,Technology,South,2,0.0,6206.72,1422.28,22.92,Low
+ORD-01272,2024-08-21,2024,8,Aug,2024-08,Customer_057,Consumer,Desk,Furniture,West,1,0.25,11888.76,-947.89,-7.97,Medium
+ORD-00645,2024-08-22,2024,8,Aug,2024-08,Customer_155,Corporate,Cabinet,Furniture,North,6,0.2,53245.61,353.04,0.66,High
+ORD-00183,2024-08-22,2024,8,Aug,2024-08,Customer_031,Consumer,Office Chair,Furniture,East,7,0.2,51300.46,-688.0,-1.34,High
+ORD-00269,2024-08-22,2024,8,Aug,2024-08,Customer_169,Corporate,Pen Set,Office Supplies,North,1,0.1,166.43,34.26,20.59,Low
+ORD-00588,2024-08-22,2024,8,Aug,2024-08,Customer_232,Home Office,Bookshelf,Furniture,South,7,0.1,53100.0,5618.41,10.58,High
+ORD-01394,2024-08-22,2024,8,Aug,2024-08,Customer_182,Consumer,Folders,Office Supplies,South,7,0.1,1455.18,288.74,19.84,Low
+ORD-00140,2024-08-22,2024,8,Aug,2024-08,Customer_140,Corporate,Webcam,Technology,North,1,0.1,2717.22,421.22,15.5,Low
+ORD-01377,2024-08-22,2024,8,Aug,2024-08,Customer_008,Corporate,Pen Set,Office Supplies,East,3,0.15,487.34,70.89,14.55,Low
+ORD-00101,2024-08-23,2024,8,Aug,2024-08,Customer_263,Consumer,Pen Set,Office Supplies,South,3,0.05,519.31,116.53,22.44,Low
+ORD-00526,2024-08-23,2024,8,Aug,2024-08,Customer_084,Corporate,Folders,Office Supplies,South,3,0.0,691.4,206.69,29.89,Low
+ORD-00660,2024-08-23,2024,8,Aug,2024-08,Customer_041,Consumer,Printer Paper,Office Supplies,West,5,0.1,2003.37,399.11,19.92,Low
+ORD-00819,2024-08-23,2024,8,Aug,2024-08,Customer_090,Home Office,Stapler,Office Supplies,West,3,0.05,921.07,212.9,23.11,Low
+ORD-00719,2024-08-23,2024,8,Aug,2024-08,Customer_008,Corporate,Printer Paper,Office Supplies,South,4,0.0,1926.59,589.78,30.61,Low
+ORD-00553,2024-08-24,2024,8,Aug,2024-08,Customer_078,Corporate,Webcam,Technology,East,1,0.15,2533.19,232.67,9.18,Low
+ORD-00432,2024-08-26,2024,8,Aug,2024-08,Customer_118,Consumer,Laptop,Technology,East,3,0.2,155196.37,3023.69,1.95,Very High
+ORD-00971,2024-08-26,2024,8,Aug,2024-08,Customer_175,Corporate,Desk,Furniture,West,5,0.15,64457.92,918.44,1.42,High
+ORD-00879,2024-08-26,2024,8,Aug,2024-08,Customer_220,Home Office,Cabinet,Furniture,East,6,0.2,60145.48,-805.55,-1.34,High
+ORD-00256,2024-08-29,2024,8,Aug,2024-08,Customer_257,Corporate,Folders,Office Supplies,East,5,0.0,1158.31,337.16,29.11,Low
+ORD-00190,2024-08-29,2024,8,Aug,2024-08,Customer_112,Home Office,Cabinet,Furniture,West,7,0.15,68120.48,4188.64,6.15,High
+ORD-00774,2024-08-29,2024,8,Aug,2024-08,Customer_219,Consumer,Headphones,Technology,East,5,0.1,14273.52,1447.96,10.14,Medium
+ORD-00713,2024-08-30,2024,8,Aug,2024-08,Customer_057,Corporate,Monitor,Technology,North,4,0.25,49713.47,51.09,0.1,Medium
+ORD-00834,2024-08-30,2024,8,Aug,2024-08,Customer_165,Corporate,Pen Set,Office Supplies,West,5,0.0,967.32,270.15,27.93,Low
+ORD-00155,2024-08-31,2024,8,Aug,2024-08,Customer_274,Consumer,Cabinet,Furniture,West,3,0.25,28853.94,-3899.91,-13.52,Medium
+ORD-00990,2024-08-31,2024,8,Aug,2024-08,Customer_079,Consumer,Bookshelf,Furniture,East,3,0.25,17312.29,-2334.72,-13.49,Medium
+ORD-00270,2024-08-31,2024,8,Aug,2024-08,Customer_039,Consumer,Stapler,Office Supplies,West,4,0.05,1219.92,299.32,24.54,Low
+ORD-01249,2024-09-01,2024,9,Sep,2024-09,Customer_192,Corporate,Printer Paper,Office Supplies,West,6,0.0,2786.43,833.14,29.9,Low
+ORD-00604,2024-09-01,2024,9,Sep,2024-09,Customer_066,Consumer,Laptop,Technology,East,6,0.2,318439.97,15997.25,5.02,Very High
+ORD-00246,2024-09-02,2024,9,Sep,2024-09,Customer_198,Corporate,Headphones,Technology,North,3,0.2,7601.08,355.94,4.68,Low
+ORD-00423,2024-09-02,2024,9,Sep,2024-09,Customer_004,Consumer,Printer Paper,Office Supplies,North,4,0.05,1851.59,414.91,22.41,Low
+ORD-00493,2024-09-02,2024,9,Sep,2024-09,Customer_227,Corporate,Webcam,Technology,North,5,0.05,15166.68,2522.88,16.63,Medium
+ORD-00539,2024-09-03,2024,9,Sep,2024-09,Customer_190,Corporate,Printer Paper,Office Supplies,North,3,0.25,1105.91,28.89,2.61,Low
+ORD-00974,2024-09-03,2024,9,Sep,2024-09,Customer_151,Consumer,Desk,Furniture,North,6,0.05,87794.58,13892.79,15.82,High
+ORD-01004,2024-09-03,2024,9,Sep,2024-09,Customer_031,Consumer,Table,Furniture,West,5,0.1,64256.24,6877.58,10.7,High
+ORD-01143,2024-09-04,2024,9,Sep,2024-09,Customer_144,Consumer,Office Chair,Furniture,North,4,0.05,37292.18,4950.38,13.27,Medium
+ORD-00572,2024-09-04,2024,9,Sep,2024-09,Customer_215,Consumer,Printer Paper,Office Supplies,East,5,0.05,2287.92,589.85,25.78,Low
+ORD-00128,2024-09-04,2024,9,Sep,2024-09,Customer_074,Home Office,Headphones,Technology,North,6,0.0,22064.72,4329.61,19.62,Medium
+ORD-00364,2024-09-04,2024,9,Sep,2024-09,Customer_159,Consumer,Keyboard,Technology,East,1,0.1,2461.47,384.01,15.6,Low
+ORD-00478,2024-09-05,2024,9,Sep,2024-09,Customer_048,Home Office,Printer Paper,Office Supplies,North,3,0.0,1350.81,364.85,27.01,Low
+ORD-00608,2024-09-05,2024,9,Sep,2024-09,Customer_057,Consumer,Table,Furniture,South,2,0.1,26944.75,3238.32,12.02,Medium
+ORD-00302,2024-09-06,2024,9,Sep,2024-09,Customer_156,Consumer,Folders,Office Supplies,South,1,0.1,185.25,35.71,19.28,Low
+ORD-00918,2024-09-06,2024,9,Sep,2024-09,Customer_201,Corporate,Cabinet,Furniture,North,5,0.2,43969.41,622.32,1.42,Medium
+ORD-00142,2024-09-06,2024,9,Sep,2024-09,Customer_187,Corporate,Office Chair,Furniture,West,5,0.2,38114.17,-52.61,-0.14,Medium
+ORD-00760,2024-09-08,2024,9,Sep,2024-09,Customer_013,Consumer,Mouse,Technology,East,4,0.25,3532.96,-90.8,-2.57,Low
+ORD-00481,2024-09-09,2024,9,Sep,2024-09,Customer_179,Corporate,Pen Set,Office Supplies,North,7,0.05,1156.38,266.36,23.03,Low
+ORD-00882,2024-09-09,2024,9,Sep,2024-09,Customer_295,Corporate,Printer Paper,Office Supplies,West,5,0.1,1981.34,405.38,20.46,Low
+ORD-01308,2024-09-09,2024,9,Sep,2024-09,Customer_157,Consumer,Laptop,Technology,North,5,0.25,242288.35,-18045.7,-7.45,Very High
+ORD-00089,2024-09-09,2024,9,Sep,2024-09,Customer_013,Consumer,Stapler,Office Supplies,East,3,0.2,718.52,46.73,6.5,Low
+ORD-00943,2024-09-11,2024,9,Sep,2024-09,Customer_081,Consumer,Folders,Office Supplies,West,7,0.0,1507.37,463.96,30.78,Low
+ORD-00542,2024-09-11,2024,9,Sep,2024-09,Customer_067,Corporate,Office Chair,Furniture,West,1,0.05,7734.83,1243.51,16.08,Low
+ORD-00299,2024-09-11,2024,9,Sep,2024-09,Customer_140,Corporate,Desk,Furniture,South,4,0.1,57808.33,4835.35,8.36,High
+ORD-00968,2024-09-11,2024,9,Sep,2024-09,Customer_140,Corporate,Keyboard,Technology,North,7,0.25,13168.02,-400.92,-3.04,Medium
+ORD-01055,2024-09-12,2024,9,Sep,2024-09,Customer_114,Consumer,Bookshelf,Furniture,South,5,0.25,27376.23,-1642.95,-6.0,Medium
+ORD-00902,2024-09-12,2024,9,Sep,2024-09,Customer_048,Corporate,Table,Furniture,North,7,0.2,85487.86,297.42,0.35,High
+ORD-00784,2024-09-12,2024,9,Sep,2024-09,Customer_266,Consumer,Laptop,Technology,South,1,0.25,52460.12,-540.99,-1.03,High
+ORD-00794,2024-09-12,2024,9,Sep,2024-09,Customer_199,Consumer,Notebook,Office Supplies,South,2,0.2,384.22,43.05,11.2,Low
+ORD-01245,2024-09-12,2024,9,Sep,2024-09,Customer_040,Corporate,Office Chair,Furniture,North,4,0.2,30042.28,470.96,1.57,Medium
+ORD-00779,2024-09-13,2024,9,Sep,2024-09,Customer_134,Corporate,Headphones,Technology,South,5,0.0,17760.62,3633.03,20.46,Medium
+ORD-00832,2024-09-13,2024,9,Sep,2024-09,Customer_209,Consumer,Desk,Furniture,South,4,0.2,50120.81,86.86,0.17,High
+ORD-00244,2024-09-13,2024,9,Sep,2024-09,Customer_143,Corporate,Webcam,Technology,South,5,0.25,10336.07,-338.09,-3.27,Medium
+ORD-00276,2024-09-14,2024,9,Sep,2024-09,Customer_006,Corporate,Notebook,Office Supplies,North,3,0.1,694.44,133.98,19.29,Low
+ORD-00775,2024-09-14,2024,9,Sep,2024-09,Customer_147,Consumer,Office Chair,Furniture,North,7,0.2,45421.39,-2746.3,-6.05,Medium
+ORD-00650,2024-09-16,2024,9,Sep,2024-09,Customer_295,Consumer,Printer Paper,Office Supplies,North,5,0.05,2233.99,570.15,25.52,Low
+ORD-01363,2024-09-16,2024,9,Sep,2024-09,Customer_071,Home Office,Webcam,Technology,West,3,0.15,7020.58,327.66,4.67,Low
+ORD-00318,2024-09-16,2024,9,Sep,2024-09,Customer_125,Consumer,Desk,Furniture,South,6,0.05,92312.22,14204.71,15.39,High
+ORD-01027,2024-09-17,2024,9,Sep,2024-09,Customer_121,Consumer,Cabinet,Furniture,South,1,0.05,11000.84,1761.41,16.01,Medium
+ORD-01296,2024-09-18,2024,9,Sep,2024-09,Customer_203,Corporate,Cabinet,Furniture,South,5,0.05,53765.12,8019.34,14.92,High
+ORD-00869,2024-09-18,2024,9,Sep,2024-09,Customer_257,Consumer,Stapler,Office Supplies,East,1,0.05,258.38,61.42,23.77,Low
+ORD-00643,2024-09-18,2024,9,Sep,2024-09,Customer_149,Consumer,Monitor,Technology,North,1,0.2,15179.21,949.15,6.25,Medium
+ORD-01445,2024-09-19,2024,9,Sep,2024-09,Customer_090,Consumer,Table,Furniture,South,4,0.05,57037.5,9733.04,17.06,High
+ORD-01292,2024-09-20,2024,9,Sep,2024-09,Customer_034,Consumer,Mouse,Technology,West,7,0.0,8172.92,1743.3,21.33,Low
+ORD-00113,2024-09-20,2024,9,Sep,2024-09,Customer_096,Home Office,Folders,Office Supplies,North,2,0.2,359.09,43.24,12.04,Low
+ORD-00072,2024-09-20,2024,9,Sep,2024-09,Customer_222,Corporate,Cabinet,Furniture,East,6,0.2,62450.58,-1579.87,-2.53,High
+ORD-00706,2024-09-22,2024,9,Sep,2024-09,Customer_190,Corporate,Office Chair,Furniture,West,7,0.05,64139.36,10755.17,16.77,High
+ORD-01366,2024-09-22,2024,9,Sep,2024-09,Customer_157,Corporate,Laptop,Technology,East,2,0.15,114367.92,12439.62,10.88,High
+ORD-00054,2024-09-22,2024,9,Sep,2024-09,Customer_048,Consumer,Desk,Furniture,West,3,0.0,48925.15,9005.82,18.41,Medium
+ORD-00340,2024-09-23,2024,9,Sep,2024-09,Customer_262,Consumer,Pen Set,Office Supplies,West,6,0.15,850.76,118.94,13.98,Low
+ORD-00082,2024-09-24,2024,9,Sep,2024-09,Customer_102,Corporate,Office Chair,Furniture,East,7,0.2,50224.33,-2361.92,-4.7,High
+ORD-00169,2024-09-25,2024,9,Sep,2024-09,Customer_063,Consumer,Printer Paper,Office Supplies,South,5,0.2,1662.81,215.85,12.98,Low
+ORD-00792,2024-09-26,2024,9,Sep,2024-09,Customer_289,Consumer,Mouse,Technology,South,1,0.1,1101.26,139.21,12.64,Low
+ORD-01173,2024-09-27,2024,9,Sep,2024-09,Customer_101,Consumer,Pen Set,Office Supplies,West,5,0.15,835.52,131.83,15.78,Low
+ORD-00570,2024-09-28,2024,9,Sep,2024-09,Customer_067,Consumer,Monitor,Technology,North,4,0.1,71156.13,7039.16,9.89,High
+ORD-01183,2024-09-28,2024,9,Sep,2024-09,Customer_225,Consumer,Pen Set,Office Supplies,East,6,0.25,781.07,32.89,4.21,Low
+ORD-01102,2024-09-29,2024,9,Sep,2024-09,Customer_131,Corporate,Bookshelf,Furniture,East,1,0.2,6305.27,-21.02,-0.33,Low
+ORD-01281,2024-09-30,2024,9,Sep,2024-09,Customer_168,Corporate,Desk,Furniture,West,4,0.1,50408.03,4460.57,8.85,High
+ORD-00746,2024-09-30,2024,9,Sep,2024-09,Customer_088,Consumer,Bookshelf,Furniture,North,3,0.0,22091.38,3888.25,17.6,Medium
+ORD-00807,2024-10-01,2024,10,Oct,2024-10,Customer_069,Corporate,Cabinet,Furniture,North,6,0.15,56074.68,2262.12,4.03,High
+ORD-01399,2024-10-01,2024,10,Oct,2024-10,Customer_271,Consumer,Desk,Furniture,East,5,0.05,65846.89,11124.23,16.89,High
+ORD-01391,2024-10-02,2024,10,Oct,2024-10,Customer_053,Home Office,Pen Set,Office Supplies,North,3,0.0,549.69,168.98,30.74,Low
+ORD-01010,2024-10-02,2024,10,Oct,2024-10,Customer_216,Home Office,Laptop,Technology,South,7,0.25,336268.8,-19264.53,-5.73,Very High
+ORD-01334,2024-10-03,2024,10,Oct,2024-10,Customer_198,Corporate,Office Chair,Furniture,West,3,0.2,21257.56,-615.56,-2.9,Medium
+ORD-00961,2024-10-03,2024,10,Oct,2024-10,Customer_039,Consumer,Pen Set,Office Supplies,North,1,0.1,158.42,36.4,22.98,Low
+ORD-00633,2024-10-03,2024,10,Oct,2024-10,Customer_042,Consumer,Bookshelf,Furniture,South,4,0.05,27541.38,4133.73,15.01,Medium
+ORD-00046,2024-10-04,2024,10,Oct,2024-10,Customer_090,Corporate,Pen Set,Office Supplies,South,2,0.25,292.48,12.13,4.15,Low
+ORD-00408,2024-10-04,2024,10,Oct,2024-10,Customer_245,Consumer,Pen Set,Office Supplies,East,3,0.05,539.47,116.23,21.55,Low
+ORD-00636,2024-10-05,2024,10,Oct,2024-10,Customer_167,Consumer,Printer Paper,Office Supplies,East,2,0.0,961.6,243.01,25.27,Low
+ORD-01496,2024-10-07,2024,10,Oct,2024-10,Customer_141,Consumer,Table,Furniture,North,3,0.05,37791.86,4980.33,13.18,Medium
+ORD-00606,2024-10-07,2024,10,Oct,2024-10,Customer_162,Home Office,Office Chair,Furniture,South,4,0.15,32332.04,322.37,1.0,Medium
+ORD-00741,2024-10-07,2024,10,Oct,2024-10,Customer_203,Consumer,Cabinet,Furniture,East,2,0.0,25757.62,5442.94,21.13,Medium
+ORD-01285,2024-10-09,2024,10,Oct,2024-10,Customer_055,Home Office,Laptop,Technology,North,7,0.0,442754.2,99389.75,22.45,Very High
+ORD-00322,2024-10-10,2024,10,Oct,2024-10,Customer_161,Consumer,Mouse,Technology,South,5,0.2,4683.71,85.12,1.82,Low
+ORD-00771,2024-10-10,2024,10,Oct,2024-10,Customer_140,Home Office,Mouse,Technology,South,1,0.1,1060.92,155.27,14.64,Low
+ORD-00159,2024-10-11,2024,10,Oct,2024-10,Customer_058,Home Office,Office Chair,Furniture,North,3,0.0,26583.12,4576.28,17.21,Medium
+ORD-01252,2024-10-13,2024,10,Oct,2024-10,Customer_179,Consumer,Office Chair,Furniture,North,7,0.0,60100.98,10165.59,16.91,High
+ORD-00188,2024-10-13,2024,10,Oct,2024-10,Customer_174,Home Office,Table,Furniture,West,7,0.0,88955.42,14959.15,16.82,High
+ORD-01289,2024-10-13,2024,10,Oct,2024-10,Customer_245,Corporate,Mouse,Technology,North,7,0.05,8766.56,1333.46,15.21,Low
+ORD-00171,2024-10-13,2024,10,Oct,2024-10,Customer_293,Home Office,Keyboard,Technology,West,7,0.2,13138.44,614.59,4.68,Medium
+ORD-00298,2024-10-13,2024,10,Oct,2024-10,Customer_205,Consumer,Laptop,Technology,South,6,0.05,383453.62,74575.33,19.45,Very High
+ORD-00849,2024-10-14,2024,10,Oct,2024-10,Customer_251,Corporate,Monitor,Technology,East,7,0.15,109120.4,11808.33,10.82,High
+ORD-00168,2024-10-14,2024,10,Oct,2024-10,Customer_078,Corporate,Laptop,Technology,South,5,0.2,260217.29,1425.8,0.55,Very High
+ORD-01184,2024-10-14,2024,10,Oct,2024-10,Customer_032,Corporate,Mouse,Technology,South,5,0.0,5881.32,1141.61,19.41,Low
+ORD-00919,2024-10-15,2024,10,Oct,2024-10,Customer_041,Consumer,Laptop,Technology,North,7,0.1,404718.91,64931.66,16.04,Very High
+ORD-00126,2024-10-15,2024,10,Oct,2024-10,Customer_183,Consumer,Folders,Office Supplies,East,3,0.15,550.81,80.44,14.6,Low
+ORD-01045,2024-10-15,2024,10,Oct,2024-10,Customer_085,Consumer,Notebook,Office Supplies,North,4,0.1,921.24,195.37,21.21,Low
+ORD-00560,2024-10-16,2024,10,Oct,2024-10,Customer_156,Consumer,Keyboard,Technology,East,3,0.1,6966.62,962.45,13.82,Low
+ORD-00095,2024-10-16,2024,10,Oct,2024-10,Customer_266,Consumer,Printer Paper,Office Supplies,South,4,0.05,1568.01,394.65,25.17,Low
+ORD-00381,2024-10-16,2024,10,Oct,2024-10,Customer_074,Consumer,Webcam,Technology,East,4,0.1,11460.56,1214.08,10.59,Medium
+ORD-00984,2024-10-17,2024,10,Oct,2024-10,Customer_282,Home Office,Stapler,Office Supplies,South,6,0.25,1329.91,77.27,5.81,Low
+ORD-01336,2024-10-18,2024,10,Oct,2024-10,Customer_210,Home Office,Mouse,Technology,North,7,0.0,8864.85,1946.39,21.96,Low
+ORD-01170,2024-10-18,2024,10,Oct,2024-10,Customer_113,Home Office,Laptop,Technology,East,7,0.1,419652.42,47176.16,11.24,Very High
+ORD-01018,2024-10-18,2024,10,Oct,2024-10,Customer_287,Consumer,Mouse,Technology,West,3,0.2,2759.52,-38.15,-1.38,Low
+ORD-01192,2024-10-19,2024,10,Oct,2024-10,Customer_050,Corporate,Office Chair,Furniture,North,4,0.15,31651.65,1471.82,4.65,Medium
+ORD-01261,2024-10-19,2024,10,Oct,2024-10,Customer_222,Corporate,Keyboard,Technology,North,6,0.2,12902.03,99.8,0.77,Medium
+ORD-00181,2024-10-19,2024,10,Oct,2024-10,Customer_285,Consumer,Office Chair,Furniture,North,4,0.15,32473.89,1972.33,6.07,Medium
+ORD-01097,2024-10-20,2024,10,Oct,2024-10,Customer_159,Consumer,Folders,Office Supplies,East,1,0.05,228.38,49.59,21.71,Low
+ORD-01346,2024-10-20,2024,10,Oct,2024-10,Customer_159,Corporate,Printer Paper,Office Supplies,West,5,0.25,1537.35,116.48,7.58,Low
+ORD-00867,2024-10-20,2024,10,Oct,2024-10,Customer_262,Consumer,Laptop,Technology,West,7,0.1,387075.44,57278.05,14.8,Very High
+ORD-00068,2024-10-21,2024,10,Oct,2024-10,Customer_036,Consumer,Bookshelf,Furniture,East,1,0.0,7644.92,1474.03,19.28,Low
+ORD-01214,2024-10-22,2024,10,Oct,2024-10,Customer_182,Home Office,Table,Furniture,West,7,0.1,82194.0,4823.88,5.87,High
+ORD-01328,2024-10-22,2024,10,Oct,2024-10,Customer_212,Home Office,Laptop,Technology,West,6,0.0,363472.76,82406.53,22.67,Very High
+ORD-01197,2024-10-22,2024,10,Oct,2024-10,Customer_173,Corporate,Monitor,Technology,West,4,0.15,65317.59,5814.78,8.9,High
+ORD-00134,2024-10-22,2024,10,Oct,2024-10,Customer_232,Corporate,Pen Set,Office Supplies,West,1,0.05,186.1,49.34,26.51,Low
+ORD-00476,2024-10-23,2024,10,Oct,2024-10,Customer_152,Home Office,Webcam,Technology,West,7,0.05,21722.14,4208.19,19.37,Medium
+ORD-00583,2024-10-23,2024,10,Oct,2024-10,Customer_173,Corporate,Laptop,Technology,West,4,0.0,257436.06,58732.75,22.81,Very High
+ORD-00149,2024-10-24,2024,10,Oct,2024-10,Customer_038,Consumer,Desk,Furniture,East,2,0.0,31004.94,5264.58,16.98,Medium
+ORD-00011,2024-10-25,2024,10,Oct,2024-10,Customer_071,Home Office,Pen Set,Office Supplies,South,1,0.0,172.13,50.24,29.19,Low
+ORD-00497,2024-10-25,2024,10,Oct,2024-10,Customer_130,Corporate,Printer Paper,Office Supplies,South,5,0.2,1947.26,134.14,6.89,Low
+ORD-00690,2024-10-27,2024,10,Oct,2024-10,Customer_054,Consumer,Cabinet,Furniture,West,6,0.1,68517.14,4047.94,5.91,High
+ORD-00946,2024-10-27,2024,10,Oct,2024-10,Customer_074,Home Office,Notebook,Office Supplies,South,7,0.05,1765.08,451.59,25.58,Low
+ORD-00728,2024-10-27,2024,10,Oct,2024-10,Customer_104,Corporate,Pen Set,Office Supplies,West,6,0.1,1068.19,209.84,19.64,Low
+ORD-01147,2024-10-28,2024,10,Oct,2024-10,Customer_147,Consumer,Webcam,Technology,North,6,0.1,16943.67,1716.28,10.13,Medium
+ORD-01207,2024-10-28,2024,10,Oct,2024-10,Customer_007,Home Office,Monitor,Technology,South,6,0.1,100700.13,16146.71,16.03,High
+ORD-01437,2024-10-28,2024,10,Oct,2024-10,Customer_052,Home Office,Headphones,Technology,West,4,0.0,13686.63,2809.45,20.53,Medium
+ORD-00410,2024-10-29,2024,10,Oct,2024-10,Customer_124,Consumer,Office Chair,Furniture,South,6,0.1,52786.51,6476.54,12.27,High
+ORD-01251,2024-10-29,2024,10,Oct,2024-10,Customer_249,Corporate,Cabinet,Furniture,South,2,0.0,22742.55,4436.82,19.51,Medium
+ORD-00979,2024-10-31,2024,10,Oct,2024-10,Customer_287,Consumer,Desk,Furniture,North,3,0.25,32878.82,-3670.39,-11.16,Medium
+ORD-00281,2024-10-31,2024,10,Oct,2024-10,Customer_047,Corporate,Stapler,Office Supplies,South,4,0.2,878.4,73.31,8.35,Low
+ORD-01475,2024-10-31,2024,10,Oct,2024-10,Customer_158,Home Office,Table,Furniture,North,6,0.05,81083.48,12674.21,15.63,High
+ORD-01090,2024-10-31,2024,10,Oct,2024-10,Customer_285,Consumer,Notebook,Office Supplies,West,2,0.25,341.17,4.78,1.4,Low
+ORD-00555,2024-11-01,2024,11,Nov,2024-11,Customer_275,Corporate,Laptop,Technology,West,4,0.15,219392.26,10426.25,4.75,Very High
+ORD-00053,2024-11-01,2024,11,Nov,2024-11,Customer_202,Corporate,Cabinet,Furniture,East,2,0.05,24616.55,2922.32,11.87,Medium
+ORD-00339,2024-11-01,2024,11,Nov,2024-11,Customer_157,Consumer,Pen Set,Office Supplies,West,3,0.1,469.17,99.68,21.25,Low
+ORD-01341,2024-11-01,2024,11,Nov,2024-11,Customer_279,Consumer,Printer Paper,Office Supplies,South,4,0.1,1624.74,284.74,17.53,Low
+ORD-01206,2024-11-02,2024,11,Nov,2024-11,Customer_282,Corporate,Cabinet,Furniture,South,3,0.0,37901.78,7300.22,19.26,Medium
+ORD-00415,2024-11-02,2024,11,Nov,2024-11,Customer_280,Consumer,Stapler,Office Supplies,East,4,0.0,1319.3,378.59,28.7,Low
+ORD-01163,2024-11-02,2024,11,Nov,2024-11,Customer_014,Corporate,Pen Set,Office Supplies,North,1,0.2,138.92,16.07,11.57,Low
+ORD-00638,2024-11-03,2024,11,Nov,2024-11,Customer_099,Consumer,Folders,Office Supplies,East,3,0.25,462.82,30.91,6.68,Low
+ORD-01253,2024-11-03,2024,11,Nov,2024-11,Customer_296,Corporate,Pen Set,Office Supplies,East,7,0.15,980.84,176.4,17.98,Low
+ORD-00880,2024-11-04,2024,11,Nov,2024-11,Customer_136,Consumer,Pen Set,Office Supplies,West,4,0.0,648.57,165.48,25.51,Low
+ORD-00571,2024-11-04,2024,11,Nov,2024-11,Customer_098,Consumer,Folders,Office Supplies,East,6,0.05,1132.14,301.88,26.66,Low
+ORD-00483,2024-11-05,2024,11,Nov,2024-11,Customer_275,Consumer,Bookshelf,Furniture,East,5,0.1,39270.73,4101.16,10.44,Medium
+ORD-00752,2024-11-07,2024,11,Nov,2024-11,Customer_196,Consumer,Bookshelf,Furniture,West,7,0.15,44314.31,245.06,0.55,Medium
+ORD-00777,2024-11-07,2024,11,Nov,2024-11,Customer_028,Corporate,Stapler,Office Supplies,South,2,0.2,451.6,30.73,6.8,Low
+ORD-00448,2024-11-07,2024,11,Nov,2024-11,Customer_030,Home Office,Folders,Office Supplies,North,4,0.0,918.96,243.49,26.5,Low
+ORD-00906,2024-11-08,2024,11,Nov,2024-11,Customer_046,Consumer,Pen Set,Office Supplies,South,4,0.15,657.66,82.51,12.55,Low
+ORD-00546,2024-11-08,2024,11,Nov,2024-11,Customer_206,Consumer,Keyboard,Technology,West,2,0.2,4214.81,63.37,1.5,Low
+ORD-00947,2024-11-08,2024,11,Nov,2024-11,Customer_273,Consumer,Laptop,Technology,North,2,0.15,112334.62,11711.98,10.43,High
+ORD-00802,2024-11-09,2024,11,Nov,2024-11,Customer_015,Corporate,Bookshelf,Furniture,East,5,0.15,32550.88,767.75,2.36,Medium
+ORD-00894,2024-11-09,2024,11,Nov,2024-11,Customer_274,Consumer,Monitor,Technology,South,3,0.25,41722.18,-317.66,-0.76,Medium
+ORD-00198,2024-11-10,2024,11,Nov,2024-11,Customer_161,Consumer,Bookshelf,Furniture,North,2,0.25,13100.9,-696.1,-5.31,Medium
+ORD-00646,2024-11-10,2024,11,Nov,2024-11,Customer_229,Consumer,Monitor,Technology,East,5,0.05,78399.65,14473.31,18.46,High
+ORD-00184,2024-11-11,2024,11,Nov,2024-11,Customer_279,Corporate,Printer Paper,Office Supplies,South,3,0.25,990.53,52.61,5.31,Low
+ORD-00625,2024-11-11,2024,11,Nov,2024-11,Customer_036,Consumer,Office Chair,Furniture,East,7,0.1,52908.28,4353.81,8.23,High
+ORD-00409,2024-11-11,2024,11,Nov,2024-11,Customer_138,Corporate,Cabinet,Furniture,West,1,0.1,10854.61,1109.07,10.22,Medium
+ORD-01063,2024-11-12,2024,11,Nov,2024-11,Customer_108,Consumer,Notebook,Office Supplies,South,4,0.05,1029.11,225.44,21.91,Low
+ORD-00940,2024-11-12,2024,11,Nov,2024-11,Customer_134,Corporate,Mouse,Technology,South,2,0.2,2100.06,-22.83,-1.09,Low
+ORD-00026,2024-11-13,2024,11,Nov,2024-11,Customer_268,Home Office,Office Chair,Furniture,South,2,0.2,15525.48,-889.03,-5.73,Medium
+ORD-00330,2024-11-14,2024,11,Nov,2024-11,Customer_157,Consumer,Keyboard,Technology,West,6,0.1,13765.05,1455.38,10.57,Medium
+ORD-00594,2024-11-15,2024,11,Nov,2024-11,Customer_175,Consumer,Bookshelf,Furniture,South,6,0.0,51913.88,10805.18,20.81,High
+ORD-00515,2024-11-15,2024,11,Nov,2024-11,Customer_040,Consumer,Webcam,Technology,North,2,0.1,5097.65,525.75,10.31,Low
+ORD-00209,2024-11-15,2024,11,Nov,2024-11,Customer_114,Home Office,Desk,Furniture,South,6,0.2,72582.86,73.29,0.1,High
+ORD-00762,2024-11-15,2024,11,Nov,2024-11,Customer_230,Consumer,Webcam,Technology,West,5,0.2,11392.21,586.19,5.15,Medium
+ORD-00143,2024-11-15,2024,11,Nov,2024-11,Customer_001,Corporate,Webcam,Technology,East,6,0.25,12908.42,-46.0,-0.36,Medium
+ORD-00022,2024-11-16,2024,11,Nov,2024-11,Customer_248,Consumer,Bookshelf,Furniture,West,3,0.2,17818.56,-524.42,-2.94,Medium
+ORD-00001,2024-11-16,2024,11,Nov,2024-11,Customer_210,Home Office,Headphones,Technology,East,1,0.0,3832.94,780.79,20.37,Low
+ORD-00102,2024-11-16,2024,11,Nov,2024-11,Customer_299,Consumer,Cabinet,Furniture,East,7,0.15,75893.04,320.76,0.42,High
+ORD-01085,2024-11-16,2024,11,Nov,2024-11,Customer_272,Consumer,Stapler,Office Supplies,South,5,0.2,1274.68,116.8,9.16,Low
+ORD-01402,2024-11-17,2024,11,Nov,2024-11,Customer_094,Corporate,Laptop,Technology,North,6,0.1,360098.19,59111.32,16.42,Very High
+ORD-00578,2024-11-18,2024,11,Nov,2024-11,Customer_041,Corporate,Headphones,Technology,West,5,0.25,13073.97,-261.68,-2.0,Medium
+ORD-00498,2024-11-18,2024,11,Nov,2024-11,Customer_252,Corporate,Mouse,Technology,South,1,0.15,1060.8,67.91,6.4,Low
+ORD-01364,2024-11-18,2024,11,Nov,2024-11,Customer_180,Corporate,Folders,Office Supplies,South,1,0.05,216.29,49.76,23.01,Low
+ORD-00535,2024-11-18,2024,11,Nov,2024-11,Customer_057,Consumer,Stapler,Office Supplies,West,4,0.2,962.07,124.6,12.95,Low
+ORD-00273,2024-11-20,2024,11,Nov,2024-11,Customer_022,Consumer,Cabinet,Furniture,North,3,0.2,31063.98,468.96,1.51,Medium
+ORD-00154,2024-11-20,2024,11,Nov,2024-11,Customer_257,Home Office,Stapler,Office Supplies,South,6,0.05,1725.24,418.75,24.27,Low
+ORD-00396,2024-11-21,2024,11,Nov,2024-11,Customer_253,Corporate,Table,Furniture,East,1,0.25,9789.74,-1170.17,-11.95,Low
+ORD-00014,2024-11-21,2024,11,Nov,2024-11,Customer_091,Consumer,Cabinet,Furniture,South,2,0.15,19836.2,1331.36,6.71,Medium
+ORD-00205,2024-11-21,2024,11,Nov,2024-11,Customer_184,Home Office,Cabinet,Furniture,East,6,0.0,67068.34,13366.6,19.93,High
+ORD-00259,2024-11-22,2024,11,Nov,2024-11,Customer_027,Consumer,Office Chair,Furniture,West,4,0.05,33796.18,4057.87,12.01,Medium
+ORD-01172,2024-11-23,2024,11,Nov,2024-11,Customer_007,Consumer,Pen Set,Office Supplies,South,3,0.25,385.49,12.66,3.28,Low
+ORD-01288,2024-11-23,2024,11,Nov,2024-11,Customer_267,Corporate,Office Chair,Furniture,East,1,0.05,9360.91,1058.26,11.31,Low
+ORD-00602,2024-11-23,2024,11,Nov,2024-11,Customer_210,Consumer,Notebook,Office Supplies,East,6,0.05,1410.57,374.56,26.55,Low
+ORD-00016,2024-11-24,2024,11,Nov,2024-11,Customer_029,Consumer,Headphones,Technology,West,1,0.25,2601.78,-39.64,-1.52,Low
+ORD-00907,2024-11-25,2024,11,Nov,2024-11,Customer_192,Consumer,Webcam,Technology,South,7,0.25,16465.21,-651.55,-3.96,Medium
+ORD-00294,2024-11-26,2024,11,Nov,2024-11,Customer_098,Home Office,Laptop,Technology,North,4,0.1,256372.54,34629.57,13.51,Very High
+ORD-00938,2024-11-26,2024,11,Nov,2024-11,Customer_036,Consumer,Desk,Furniture,North,1,0.25,11110.9,-1221.99,-11.0,Medium
+ORD-00380,2024-11-26,2024,11,Nov,2024-11,Customer_119,Home Office,Cabinet,Furniture,North,2,0.15,18792.24,1060.97,5.65,Medium
+ORD-00447,2024-11-27,2024,11,Nov,2024-11,Customer_058,Consumer,Pen Set,Office Supplies,West,5,0.1,749.88,140.91,18.79,Low
+ORD-00851,2024-11-28,2024,11,Nov,2024-11,Customer_014,Consumer,Pen Set,Office Supplies,North,6,0.1,999.42,196.94,19.71,Low
+ORD-00858,2024-11-28,2024,11,Nov,2024-11,Customer_171,Consumer,Table,Furniture,East,5,0.0,63853.42,11499.2,18.01,High
+ORD-00204,2024-11-29,2024,11,Nov,2024-11,Customer_109,Consumer,Printer Paper,Office Supplies,South,2,0.1,743.54,168.82,22.7,Low
+ORD-00955,2024-11-29,2024,11,Nov,2024-11,Customer_267,Corporate,Office Chair,Furniture,North,1,0.15,8146.46,461.87,5.67,Low
+ORD-00290,2024-11-29,2024,11,Nov,2024-11,Customer_244,Consumer,Desk,Furniture,South,6,0.1,81493.15,6688.36,8.21,High
+ORD-00411,2024-11-30,2024,11,Nov,2024-11,Customer_075,Consumer,Stapler,Office Supplies,West,4,0.0,1132.03,331.67,29.3,Low
+ORD-00324,2024-11-30,2024,11,Nov,2024-11,Customer_169,Consumer,Table,Furniture,West,4,0.0,58817.02,10557.44,17.95,High
+ORD-01019,2024-11-30,2024,11,Nov,2024-11,Customer_092,Home Office,Pen Set,Office Supplies,West,4,0.1,669.46,149.72,22.36,Low
+ORD-00750,2024-12-02,2024,12,Dec,2024-12,Customer_153,Corporate,Pen Set,Office Supplies,West,1,0.05,157.42,35.04,22.26,Low
+ORD-00436,2024-12-02,2024,12,Dec,2024-12,Customer_276,Corporate,Webcam,Technology,North,5,0.05,15351.69,3152.97,20.54,Medium
+ORD-00145,2024-12-02,2024,12,Dec,2024-12,Customer_180,Corporate,Cabinet,Furniture,East,5,0.1,58860.66,5906.86,10.04,High
+ORD-00687,2024-12-03,2024,12,Dec,2024-12,Customer_219,Home Office,Office Chair,Furniture,South,7,0.1,57773.93,5403.93,9.35,High
+ORD-00665,2024-12-04,2024,12,Dec,2024-12,Customer_241,Home Office,Pen Set,Office Supplies,West,4,0.0,665.92,189.65,28.48,Low
+ORD-01187,2024-12-04,2024,12,Dec,2024-12,Customer_036,Corporate,Pen Set,Office Supplies,East,6,0.15,948.72,153.41,16.17,Low
+ORD-00609,2024-12-05,2024,12,Dec,2024-12,Customer_084,Home Office,Notebook,Office Supplies,East,7,0.25,1414.27,80.13,5.67,Low
+ORD-01386,2024-12-05,2024,12,Dec,2024-12,Customer_046,Consumer,Desk,Furniture,West,1,0.05,13009.7,2125.88,16.34,Medium
+ORD-01298,2024-12-06,2024,12,Dec,2024-12,Customer_036,Consumer,Pen Set,Office Supplies,West,6,0.05,928.44,247.69,26.68,Low
+ORD-00127,2024-12-07,2024,12,Dec,2024-12,Customer_114,Consumer,Table,Furniture,East,3,0.1,35011.18,3972.43,11.35,Medium
+ORD-00630,2024-12-07,2024,12,Dec,2024-12,Customer_276,Corporate,Desk,Furniture,West,4,0.1,58050.25,6584.13,11.34,High
+ORD-00255,2024-12-07,2024,12,Dec,2024-12,Customer_239,Consumer,Pen Set,Office Supplies,North,3,0.05,477.45,122.94,25.75,Low
+ORD-01469,2024-12-08,2024,12,Dec,2024-12,Customer_296,Consumer,Headphones,Technology,North,6,0.15,19078.73,1657.76,8.69,Medium
+ORD-00123,2024-12-08,2024,12,Dec,2024-12,Customer_264,Corporate,Monitor,Technology,South,5,0.1,81275.72,9474.66,11.66,High
+ORD-00176,2024-12-09,2024,12,Dec,2024-12,Customer_281,Consumer,Folders,Office Supplies,North,6,0.0,1244.81,342.4,27.51,Low
+ORD-00627,2024-12-10,2024,12,Dec,2024-12,Customer_275,Home Office,Monitor,Technology,North,4,0.05,63670.05,10472.94,16.45,High
+ORD-00282,2024-12-10,2024,12,Dec,2024-12,Customer_094,Corporate,Webcam,Technology,East,4,0.25,9419.62,-274.11,-2.91,Low
+ORD-00929,2024-12-10,2024,12,Dec,2024-12,Customer_176,Consumer,Bookshelf,Furniture,South,2,0.25,11584.77,-1161.56,-10.03,Medium
+ORD-00465,2024-12-10,2024,12,Dec,2024-12,Customer_166,Home Office,Table,Furniture,South,4,0.05,53082.7,8959.94,16.88,High
+ORD-01480,2024-12-10,2024,12,Dec,2024-12,Customer_146,Corporate,Stapler,Office Supplies,North,6,0.15,1583.29,219.68,13.87,Low
+ORD-01457,2024-12-10,2024,12,Dec,2024-12,Customer_277,Consumer,Desk,Furniture,North,3,0.0,46642.24,8001.31,17.15,Medium
+ORD-00664,2024-12-11,2024,12,Dec,2024-12,Customer_082,Consumer,Laptop,Technology,North,3,0.25,158488.09,-2582.45,-1.63,Very High
+ORD-01280,2024-12-12,2024,12,Dec,2024-12,Customer_202,Consumer,Webcam,Technology,East,2,0.15,4592.49,338.26,7.37,Low
+ORD-00548,2024-12-13,2024,12,Dec,2024-12,Customer_125,Corporate,Cabinet,Furniture,East,6,0.1,62082.41,5790.61,9.33,High
+ORD-01423,2024-12-13,2024,12,Dec,2024-12,Customer_041,Corporate,Headphones,Technology,East,2,0.1,6092.78,829.41,13.61,Low
+ORD-00467,2024-12-14,2024,12,Dec,2024-12,Customer_069,Consumer,Laptop,Technology,North,1,0.05,65003.13,9704.2,14.93,High
+ORD-00472,2024-12-15,2024,12,Dec,2024-12,Customer_283,Consumer,Printer Paper,Office Supplies,West,1,0.05,406.63,86.14,21.18,Low
+ORD-00611,2024-12-15,2024,12,Dec,2024-12,Customer_259,Home Office,Table,Furniture,South,5,0.05,60409.48,8663.9,14.34,High
+ORD-00219,2024-12-15,2024,12,Dec,2024-12,Customer_083,Consumer,Pen Set,Office Supplies,West,3,0.05,474.76,113.5,23.91,Low
+ORD-00350,2024-12-17,2024,12,Dec,2024-12,Customer_015,Corporate,Printer Paper,Office Supplies,South,1,0.1,411.72,80.1,19.45,Low
+ORD-00317,2024-12-18,2024,12,Dec,2024-12,Customer_027,Home Office,Webcam,Technology,South,7,0.0,22804.46,4380.2,19.21,Medium
+ORD-00505,2024-12-19,2024,12,Dec,2024-12,Customer_005,Consumer,Table,Furniture,West,7,0.1,82279.64,6083.55,7.39,High
+ORD-00212,2024-12-20,2024,12,Dec,2024-12,Customer_127,Consumer,Webcam,Technology,North,7,0.0,21390.42,5068.99,23.7,Medium
+ORD-00527,2024-12-21,2024,12,Dec,2024-12,Customer_029,Consumer,Printer Paper,Office Supplies,East,6,0.05,2797.02,657.65,23.51,Low
+ORD-01049,2024-12-22,2024,12,Dec,2024-12,Customer_271,Consumer,Mouse,Technology,West,5,0.1,5167.86,553.63,10.71,Low
+ORD-00726,2024-12-22,2024,12,Dec,2024-12,Customer_105,Consumer,Desk,Furniture,South,1,0.15,11919.88,345.86,2.9,Medium
+ORD-01243,2024-12-23,2024,12,Dec,2024-12,Customer_108,Consumer,Headphones,Technology,East,4,0.0,12916.07,3021.82,23.4,Medium
+ORD-00891,2024-12-23,2024,12,Dec,2024-12,Customer_068,Home Office,Table,Furniture,West,6,0.05,73018.43,10391.59,14.23,High
+ORD-01065,2024-12-23,2024,12,Dec,2024-12,Customer_095,Consumer,Bookshelf,Furniture,South,5,0.1,36742.89,2045.28,5.57,Medium
+ORD-01310,2024-12-24,2024,12,Dec,2024-12,Customer_184,Consumer,Printer Paper,Office Supplies,South,7,0.0,2937.4,855.78,29.13,Low
+ORD-00021,2024-12-24,2024,12,Dec,2024-12,Customer_172,Home Office,Keyboard,Technology,East,2,0.1,4290.28,622.14,14.5,Low
+ORD-00261,2024-12-25,2024,12,Dec,2024-12,Customer_181,Corporate,Folders,Office Supplies,West,5,0.2,804.65,79.56,9.89,Low
+ORD-00052,2024-12-25,2024,12,Dec,2024-12,Customer_280,Corporate,Stapler,Office Supplies,East,1,0.0,277.03,84.15,30.38,Low
+ORD-00374,2024-12-25,2024,12,Dec,2024-12,Customer_082,Corporate,Folders,Office Supplies,East,1,0.1,186.02,32.91,17.69,Low
+ORD-00401,2024-12-25,2024,12,Dec,2024-12,Customer_179,Consumer,Table,Furniture,North,4,0.0,53141.37,10162.33,19.12,High
+ORD-01149,2024-12-25,2024,12,Dec,2024-12,Customer_252,Consumer,Printer Paper,Office Supplies,North,2,0.0,883.91,230.17,26.04,Low
+ORD-01321,2024-12-26,2024,12,Dec,2024-12,Customer_076,Consumer,Monitor,Technology,West,6,0.1,99023.59,13403.31,13.54,High
+ORD-00225,2024-12-26,2024,12,Dec,2024-12,Customer_171,Consumer,Bookshelf,Furniture,South,4,0.1,30738.89,3609.16,11.74,Medium
+ORD-00480,2024-12-27,2024,12,Dec,2024-12,Customer_169,Consumer,Monitor,Technology,North,4,0.1,67106.14,8170.66,12.18,High
+ORD-00640,2024-12-27,2024,12,Dec,2024-12,Customer_161,Corporate,Laptop,Technology,West,3,0.05,197420.81,29231.47,14.81,Very High
+ORD-00332,2024-12-28,2024,12,Dec,2024-12,Customer_010,Home Office,Headphones,Technology,West,6,0.0,20593.75,5069.99,24.62,Medium
+ORD-00191,2024-12-28,2024,12,Dec,2024-12,Customer_290,Corporate,Cabinet,Furniture,North,2,0.25,19280.31,-1272.68,-6.6,Medium
+ORD-01198,2024-12-28,2024,12,Dec,2024-12,Customer_033,Corporate,Bookshelf,Furniture,East,2,0.05,14202.55,2055.45,14.47,Medium
+ORD-01348,2024-12-28,2024,12,Dec,2024-12,Customer_176,Consumer,Table,Furniture,South,6,0.1,79711.51,6762.57,8.48,High
+ORD-01306,2024-12-28,2024,12,Dec,2024-12,Customer_095,Corporate,Cabinet,Furniture,North,6,0.0,71070.18,10722.71,15.09,High
+ORD-01482,2024-12-29,2024,12,Dec,2024-12,Customer_071,Home Office,Bookshelf,Furniture,North,5,0.0,36890.98,7258.69,19.68,Medium
+ORD-01315,2024-12-30,2024,12,Dec,2024-12,Customer_289,Consumer,Monitor,Technology,East,4,0.1,62885.54,10437.47,16.6,High
+ORD-00901,2024-12-30,2024,12,Dec,2024-12,Customer_049,Corporate,Pen Set,Office Supplies,West,5,0.15,702.1,98.19,13.99,Low
+ORD-00182,2024-12-30,2024,12,Dec,2024-12,Customer_292,Consumer,Folders,Office Supplies,South,3,0.1,581.83,113.21,19.46,Low
+ORD-01270,2024-12-30,2024,12,Dec,2024-12,Customer_015,Consumer,Laptop,Technology,North,5,0.15,291549.94,33939.78,11.64,Very High
+ORD-01379,2024-12-31,2024,12,Dec,2024-12,Customer_138,Consumer,Bookshelf,Furniture,North,1,0.2,6785.22,17.85,0.26,Low
+ORD-00383,2024-12-31,2024,12,Dec,2024-12,Customer_246,Consumer,Mouse,Technology,North,6,0.2,5577.27,8.67,0.16,Low
+ORD-00983,2024-12-31,2024,12,Dec,2024-12,Customer_099,Consumer,Monitor,Technology,South,7,0.15,98718.72,11297.55,11.44,High
+ORD-00689,2024-12-31,2024,12,Dec,2024-12,Customer_166,Corporate,Monitor,Technology,East,7,0.15,102272.96,7184.38,7.02,High
+ORD-00939,2025-01-01,2025,1,Jan,2025-01,Customer_270,Corporate,Printer Paper,Office Supplies,West,6,0.15,2309.91,330.55,14.31,Low
+ORD-00865,2025-01-01,2025,1,Jan,2025-01,Customer_164,Consumer,Monitor,Technology,South,2,0.2,27217.4,1683.18,6.18,Medium
+ORD-00296,2025-01-01,2025,1,Jan,2025-01,Customer_078,Home Office,Webcam,Technology,East,7,0.1,20259.03,2773.89,13.69,Medium
+ORD-00725,2025-01-02,2025,1,Jan,2025-01,Customer_104,Consumer,Desk,Furniture,North,3,0.1,40546.44,2172.79,5.36,Medium
+ORD-00681,2025-01-02,2025,1,Jan,2025-01,Customer_153,Home Office,Mouse,Technology,West,6,0.1,6185.15,756.58,12.23,Low
+ORD-00083,2025-01-03,2025,1,Jan,2025-01,Customer_177,Home Office,Folders,Office Supplies,South,3,0.2,511.17,51.16,10.01,Low
+ORD-00903,2025-01-04,2025,1,Jan,2025-01,Customer_212,Corporate,Headphones,Technology,North,3,0.1,9639.62,1465.13,15.2,Low
+ORD-00656,2025-01-04,2025,1,Jan,2025-01,Customer_194,Home Office,Cabinet,Furniture,North,1,0.2,9092.07,-224.87,-2.47,Low
+ORD-01488,2025-01-04,2025,1,Jan,2025-01,Customer_039,Consumer,Desk,Furniture,West,2,0.1,25972.23,1427.09,5.49,Medium
+ORD-00455,2025-01-05,2025,1,Jan,2025-01,Customer_078,Home Office,Notebook,Office Supplies,North,6,0.1,1261.92,288.11,22.83,Low
+ORD-00830,2025-01-06,2025,1,Jan,2025-01,Customer_212,Corporate,Printer Paper,Office Supplies,East,7,0.2,2299.53,187.74,8.16,Low
+ORD-01431,2025-01-06,2025,1,Jan,2025-01,Customer_049,Consumer,Cabinet,Furniture,North,1,0.25,8285.7,-871.24,-10.51,Low
+ORD-00607,2025-01-06,2025,1,Jan,2025-01,Customer_080,Corporate,Keyboard,Technology,South,3,0.2,5424.94,264.36,4.87,Low
+ORD-01193,2025-01-07,2025,1,Jan,2025-01,Customer_043,Corporate,Table,Furniture,North,6,0.0,76452.58,11735.69,15.35,High
+ORD-00890,2025-01-07,2025,1,Jan,2025-01,Customer_146,Consumer,Laptop,Technology,East,6,0.05,366961.45,67263.66,18.33,Very High
+ORD-00954,2025-01-07,2025,1,Jan,2025-01,Customer_205,Consumer,Monitor,Technology,East,5,0.0,88842.41,17373.83,19.56,High
+ORD-00385,2025-01-08,2025,1,Jan,2025-01,Customer_115,Home Office,Monitor,Technology,South,3,0.2,47407.2,-200.93,-0.42,Medium
+ORD-00105,2025-01-11,2025,1,Jan,2025-01,Customer_016,Consumer,Printer Paper,Office Supplies,South,1,0.0,439.61,134.22,30.53,Low
+ORD-01405,2025-01-11,2025,1,Jan,2025-01,Customer_068,Corporate,Printer Paper,Office Supplies,East,2,0.15,797.25,103.05,12.93,Low
+ORD-00291,2025-01-11,2025,1,Jan,2025-01,Customer_127,Consumer,Laptop,Technology,East,6,0.0,412060.0,79277.86,19.24,Very High
+ORD-00367,2025-01-12,2025,1,Jan,2025-01,Customer_119,Corporate,Headphones,Technology,North,3,0.0,9659.9,2031.75,21.03,Low
+ORD-00688,2025-01-12,2025,1,Jan,2025-01,Customer_153,Corporate,Bookshelf,Furniture,North,7,0.25,41395.44,-2110.84,-5.1,Medium
+ORD-01450,2025-01-13,2025,1,Jan,2025-01,Customer_003,Home Office,Notebook,Office Supplies,East,6,0.0,1475.11,398.08,26.99,Low
+ORD-00782,2025-01-13,2025,1,Jan,2025-01,Customer_190,Consumer,Office Chair,Furniture,West,3,0.0,29400.2,5855.72,19.92,Medium
+ORD-01314,2025-01-14,2025,1,Jan,2025-01,Customer_147,Consumer,Monitor,Technology,West,5,0.0,91177.11,21508.16,23.59,High
+ORD-01301,2025-01-14,2025,1,Jan,2025-01,Customer_215,Consumer,Desk,Furniture,West,2,0.2,25099.54,-13.17,-0.05,Medium
+ORD-00622,2025-01-14,2025,1,Jan,2025-01,Customer_055,Home Office,Table,Furniture,East,4,0.0,57746.67,12091.69,20.94,High
+ORD-00557,2025-01-16,2025,1,Jan,2025-01,Customer_187,Home Office,Bookshelf,Furniture,East,7,0.05,52136.71,8453.98,16.22,High
+ORD-00323,2025-01-16,2025,1,Jan,2025-01,Customer_239,Home Office,Webcam,Technology,South,7,0.0,20702.22,4298.3,20.76,Medium
+ORD-00243,2025-01-16,2025,1,Jan,2025-01,Customer_239,Consumer,Headphones,Technology,South,3,0.25,8224.39,-614.9,-7.48,Low
+ORD-00042,2025-01-17,2025,1,Jan,2025-01,Customer_251,Consumer,Keyboard,Technology,West,1,0.0,2712.42,664.58,24.5,Low
+ORD-01228,2025-01-17,2025,1,Jan,2025-01,Customer_262,Consumer,Stapler,Office Supplies,North,3,0.1,741.47,135.35,18.25,Low
+ORD-01344,2025-01-18,2025,1,Jan,2025-01,Customer_213,Consumer,Cabinet,Furniture,South,6,0.15,61077.36,3915.49,6.41,High
+ORD-00395,2025-01-18,2025,1,Jan,2025-01,Customer_276,Corporate,Cabinet,Furniture,East,6,0.0,69347.01,14427.43,20.8,High
+ORD-00672,2025-01-18,2025,1,Jan,2025-01,Customer_294,Corporate,Keyboard,Technology,North,4,0.1,8716.17,1238.55,14.21,Low
+ORD-01028,2025-01-19,2025,1,Jan,2025-01,Customer_167,Consumer,Cabinet,Furniture,South,5,0.1,57196.53,3183.14,5.57,High
+ORD-00267,2025-01-19,2025,1,Jan,2025-01,Customer_258,Corporate,Webcam,Technology,North,6,0.25,12700.42,-538.18,-4.24,Medium
+ORD-01101,2025-01-20,2025,1,Jan,2025-01,Customer_193,Corporate,Notebook,Office Supplies,North,7,0.1,1577.98,347.82,22.04,Low
+ORD-01094,2025-01-20,2025,1,Jan,2025-01,Customer_065,Consumer,Pen Set,Office Supplies,South,4,0.2,609.8,48.84,8.01,Low
+ORD-00412,2025-01-21,2025,1,Jan,2025-01,Customer_049,Consumer,Keyboard,Technology,South,1,0.0,2524.84,582.39,23.07,Low
+ORD-01017,2025-01-22,2025,1,Jan,2025-01,Customer_269,Home Office,Stapler,Office Supplies,North,5,0.1,1401.31,304.49,21.73,Low
+ORD-00147,2025-01-22,2025,1,Jan,2025-01,Customer_091,Corporate,Webcam,Technology,South,2,0.25,4379.7,-262.1,-5.98,Low
+ORD-01333,2025-01-22,2025,1,Jan,2025-01,Customer_018,Corporate,Printer Paper,Office Supplies,East,7,0.0,3213.74,876.92,27.29,Low
+ORD-00959,2025-01-23,2025,1,Jan,2025-01,Customer_048,Corporate,Office Chair,Furniture,South,4,0.0,38565.71,7419.0,19.24,Medium
+ORD-00469,2025-01-24,2025,1,Jan,2025-01,Customer_032,Consumer,Keyboard,Technology,South,7,0.15,13487.49,1332.89,9.88,Medium
+ORD-01425,2025-01-24,2025,1,Jan,2025-01,Customer_029,Corporate,Notebook,Office Supplies,North,5,0.25,906.88,26.36,2.91,Low
+ORD-01404,2025-01-24,2025,1,Jan,2025-01,Customer_116,Consumer,Folders,Office Supplies,East,2,0.0,476.04,133.4,28.02,Low
+ORD-01128,2025-01-25,2025,1,Jan,2025-01,Customer_031,Home Office,Cabinet,Furniture,North,3,0.0,35160.84,5969.4,16.98,Medium
+ORD-00854,2025-01-25,2025,1,Jan,2025-01,Customer_291,Home Office,Office Chair,Furniture,East,2,0.05,17974.48,2652.11,14.75,Medium
+ORD-00047,2025-01-25,2025,1,Jan,2025-01,Customer_196,Home Office,Pen Set,Office Supplies,South,4,0.2,579.77,52.43,9.04,Low
+ORD-00814,2025-01-25,2025,1,Jan,2025-01,Customer_225,Home Office,Laptop,Technology,North,2,0.05,114210.1,17431.76,15.26,High
+ORD-00138,2025-01-26,2025,1,Jan,2025-01,Customer_040,Consumer,Bookshelf,Furniture,South,3,0.0,26170.8,4741.59,18.12,Medium
+ORD-00044,2025-01-26,2025,1,Jan,2025-01,Customer_258,Corporate,Notebook,Office Supplies,West,7,0.1,1538.8,294.02,19.11,Low
+ORD-01054,2025-01-26,2025,1,Jan,2025-01,Customer_165,Home Office,Webcam,Technology,West,3,0.0,8242.6,1578.21,19.15,Low
+ORD-01435,2025-01-26,2025,1,Jan,2025-01,Customer_150,Consumer,Printer Paper,Office Supplies,South,2,0.15,789.28,129.69,16.43,Low
+ORD-00996,2025-01-27,2025,1,Jan,2025-01,Customer_180,Consumer,Printer Paper,Office Supplies,North,4,0.15,1613.73,261.94,16.23,Low
+ORD-01058,2025-01-27,2025,1,Jan,2025-01,Customer_097,Consumer,Headphones,Technology,West,2,0.1,6353.02,1061.28,16.71,Low
+ORD-00399,2025-01-28,2025,1,Jan,2025-01,Customer_116,Home Office,Headphones,Technology,East,4,0.2,10248.31,64.49,0.63,Medium
+ORD-01481,2025-01-29,2025,1,Jan,2025-01,Customer_204,Consumer,Table,Furniture,East,6,0.0,79278.44,12750.71,16.08,High
+ORD-00152,2025-01-30,2025,1,Jan,2025-01,Customer_286,Corporate,Pen Set,Office Supplies,West,6,0.15,873.04,126.1,14.44,Low
+ORD-01397,2025-02-01,2025,2,Feb,2025-02,Customer_033,Corporate,Headphones,Technology,South,2,0.0,7220.49,1501.4,20.79,Low
+ORD-00577,2025-02-02,2025,2,Feb,2025-02,Customer_118,Consumer,Stapler,Office Supplies,North,1,0.05,304.77,76.03,24.95,Low
+ORD-00474,2025-02-02,2025,2,Feb,2025-02,Customer_088,Corporate,Folders,Office Supplies,East,4,0.0,921.79,279.25,30.29,Low
+ORD-00442,2025-02-03,2025,2,Feb,2025-02,Customer_263,Home Office,Bookshelf,Furniture,East,3,0.25,19260.94,-2580.36,-13.4,Medium
+ORD-01416,2025-02-03,2025,2,Feb,2025-02,Customer_096,Corporate,Headphones,Technology,North,4,0.2,10321.2,150.15,1.45,Medium
+ORD-00969,2025-02-03,2025,2,Feb,2025-02,Customer_217,Consumer,Pen Set,Office Supplies,North,4,0.1,632.99,121.86,19.25,Low
+ORD-00337,2025-02-04,2025,2,Feb,2025-02,Customer_239,Consumer,Pen Set,Office Supplies,South,2,0.1,324.04,54.67,16.87,Low
+ORD-01268,2025-02-05,2025,2,Feb,2025-02,Customer_005,Home Office,Cabinet,Furniture,West,2,0.2,17367.01,-155.47,-0.9,Medium
+ORD-01056,2025-02-05,2025,2,Feb,2025-02,Customer_011,Consumer,Headphones,Technology,South,4,0.05,12663.76,2670.23,21.09,Medium
+ORD-01095,2025-02-06,2025,2,Feb,2025-02,Customer_298,Consumer,Laptop,Technology,South,2,0.15,120117.97,13019.39,10.84,High
+ORD-00088,2025-02-07,2025,2,Feb,2025-02,Customer_291,Corporate,Printer Paper,Office Supplies,East,3,0.25,969.62,21.38,2.2,Low
+ORD-00758,2025-02-08,2025,2,Feb,2025-02,Customer_218,Corporate,Notebook,Office Supplies,East,6,0.05,1285.99,301.04,23.41,Low
+ORD-00616,2025-02-08,2025,2,Feb,2025-02,Customer_282,Consumer,Laptop,Technology,South,6,0.15,332849.55,20128.52,6.05,Very High
+ORD-00972,2025-02-09,2025,2,Feb,2025-02,Customer_123,Consumer,Notebook,Office Supplies,North,4,0.15,848.82,136.75,16.11,Low
+ORD-00012,2025-02-10,2025,2,Feb,2025-02,Customer_200,Corporate,Cabinet,Furniture,North,7,0.1,80347.99,9092.41,11.32,High
+ORD-00326,2025-02-10,2025,2,Feb,2025-02,Customer_259,Consumer,Laptop,Technology,North,2,0.15,108736.92,11444.53,10.52,High
+ORD-00403,2025-02-11,2025,2,Feb,2025-02,Customer_180,Consumer,Office Chair,Furniture,South,6,0.1,52714.6,5501.05,10.44,High
+ORD-00491,2025-02-11,2025,2,Feb,2025-02,Customer_075,Home Office,Printer Paper,Office Supplies,North,4,0.0,1822.3,528.22,28.99,Low
+ORD-01331,2025-02-12,2025,2,Feb,2025-02,Customer_172,Consumer,Pen Set,Office Supplies,East,7,0.0,1371.19,353.37,25.77,Low
+ORD-00376,2025-02-13,2025,2,Feb,2025-02,Customer_087,Consumer,Keyboard,Technology,East,1,0.05,2176.65,390.0,17.92,Low
+ORD-00174,2025-02-13,2025,2,Feb,2025-02,Customer_082,Consumer,Headphones,Technology,South,6,0.1,18199.75,2345.76,12.89,Medium
+ORD-00881,2025-02-14,2025,2,Feb,2025-02,Customer_172,Consumer,Headphones,Technology,North,2,0.2,5770.67,98.14,1.7,Low
+ORD-00148,2025-02-14,2025,2,Feb,2025-02,Customer_153,Corporate,Bookshelf,Furniture,West,5,0.25,29515.81,-3134.5,-10.62,Medium
+ORD-00247,2025-02-15,2025,2,Feb,2025-02,Customer_017,Consumer,Stapler,Office Supplies,South,4,0.05,1223.24,330.95,27.06,Low
+ORD-00361,2025-02-15,2025,2,Feb,2025-02,Customer_188,Consumer,Office Chair,Furniture,South,6,0.25,37673.04,-4878.47,-12.95,Medium
+ORD-01479,2025-02-16,2025,2,Feb,2025-02,Customer_249,Consumer,Bookshelf,Furniture,North,3,0.05,22764.62,3020.57,13.27,Medium
+ORD-01250,2025-02-18,2025,2,Feb,2025-02,Customer_209,Consumer,Stapler,Office Supplies,West,5,0.2,1266.9,122.55,9.67,Low
+ORD-00185,2025-02-18,2025,2,Feb,2025-02,Customer_198,Consumer,Keyboard,Technology,West,3,0.1,6507.97,937.34,14.4,Low
+ORD-00800,2025-02-19,2025,2,Feb,2025-02,Customer_275,Corporate,Office Chair,Furniture,West,5,0.1,41103.19,3728.52,9.07,Medium
+ORD-00009,2025-02-19,2025,2,Feb,2025-02,Customer_035,Consumer,Bookshelf,Furniture,East,2,0.15,13521.38,409.15,3.03,Medium
+ORD-01216,2025-02-19,2025,2,Feb,2025-02,Customer_284,Consumer,Desk,Furniture,South,2,0.2,22982.61,-628.87,-2.74,Medium
+ORD-00111,2025-02-19,2025,2,Feb,2025-02,Customer_255,Corporate,Desk,Furniture,North,5,0.0,80300.54,13826.61,17.22,High
+ORD-00501,2025-02-20,2025,2,Feb,2025-02,Customer_194,Consumer,Printer Paper,Office Supplies,West,5,0.15,1938.17,296.88,15.32,Low
+ORD-01024,2025-02-20,2025,2,Feb,2025-02,Customer_280,Corporate,Bookshelf,Furniture,North,1,0.1,7513.82,833.95,11.1,Low
+ORD-01169,2025-02-21,2025,2,Feb,2025-02,Customer_118,Corporate,Stapler,Office Supplies,North,2,0.05,599.11,144.7,24.15,Low
+ORD-01474,2025-02-21,2025,2,Feb,2025-02,Customer_214,Home Office,Bookshelf,Furniture,East,2,0.2,12406.75,-319.24,-2.57,Medium
+ORD-01087,2025-02-22,2025,2,Feb,2025-02,Customer_296,Home Office,Mouse,Technology,South,1,0.2,876.52,34.04,3.88,Low
+ORD-01340,2025-02-22,2025,2,Feb,2025-02,Customer_300,Consumer,Webcam,Technology,East,4,0.0,11605.34,2790.66,24.05,Medium
+ORD-00534,2025-02-22,2025,2,Feb,2025-02,Customer_051,Corporate,Webcam,Technology,South,7,0.25,14978.31,-879.2,-5.87,Medium
+ORD-01092,2025-02-22,2025,2,Feb,2025-02,Customer_010,Consumer,Folders,Office Supplies,East,1,0.25,159.3,3.87,2.43,Low
+ORD-00382,2025-02-23,2025,2,Feb,2025-02,Customer_185,Consumer,Office Chair,Furniture,East,3,0.1,23807.41,2165.01,9.09,Medium
+ORD-01042,2025-02-23,2025,2,Feb,2025-02,Customer_111,Consumer,Notebook,Office Supplies,South,2,0.05,506.25,133.48,26.37,Low
+ORD-01059,2025-02-24,2025,2,Feb,2025-02,Customer_064,Corporate,Webcam,Technology,East,4,0.2,10055.55,568.92,5.66,Medium
+ORD-00525,2025-02-24,2025,2,Feb,2025-02,Customer_184,Consumer,Pen Set,Office Supplies,North,6,0.05,994.37,223.22,22.45,Low
+ORD-01161,2025-02-26,2025,2,Feb,2025-02,Customer_059,Corporate,Desk,Furniture,West,7,0.25,76484.72,-6599.2,-8.63,High
+ORD-00017,2025-02-26,2025,2,Feb,2025-02,Customer_257,Consumer,Pen Set,Office Supplies,West,4,0.2,601.28,63.07,10.49,Low
+ORD-01456,2025-02-27,2025,2,Feb,2025-02,Customer_073,Consumer,Notebook,Office Supplies,East,3,0.05,776.42,205.92,26.52,Low
+ORD-00031,2025-02-28,2025,2,Feb,2025-02,Customer_242,Consumer,Stapler,Office Supplies,West,7,0.15,1870.32,332.81,17.79,Low
+ORD-01472,2025-03-01,2025,3,Mar,2025-03,Customer_074,Home Office,Printer Paper,Office Supplies,South,6,0.15,2345.93,350.98,14.96,Low
+ORD-01199,2025-03-01,2025,3,Mar,2025-03,Customer_170,Consumer,Webcam,Technology,South,5,0.15,12584.13,1084.65,8.62,Medium
+ORD-00242,2025-03-01,2025,3,Mar,2025-03,Customer_237,Consumer,Printer Paper,Office Supplies,East,6,0.25,1922.42,41.98,2.18,Low
+ORD-00018,2025-03-02,2025,3,Mar,2025-03,Customer_026,Corporate,Mouse,Technology,North,5,0.1,4904.94,656.04,13.38,Low
+ORD-01487,2025-03-02,2025,3,Mar,2025-03,Customer_061,Consumer,Bookshelf,Furniture,West,1,0.2,6619.97,-245.4,-3.71,Low
+ORD-00117,2025-03-02,2025,3,Mar,2025-03,Customer_270,Consumer,Table,Furniture,East,5,0.2,56405.44,-1973.45,-3.5,High
+ORD-00697,2025-03-02,2025,3,Mar,2025-03,Customer_167,Corporate,Cabinet,Furniture,North,3,0.05,35434.15,5124.15,14.46,Medium
+ORD-00363,2025-03-03,2025,3,Mar,2025-03,Customer_114,Corporate,Webcam,Technology,West,2,0.0,6011.68,1319.87,21.96,Low
+ORD-01352,2025-03-04,2025,3,Mar,2025-03,Customer_264,Home Office,Monitor,Technology,West,3,0.0,51556.25,12445.01,24.14,High
+ORD-00520,2025-03-05,2025,3,Mar,2025-03,Customer_247,Consumer,Printer Paper,Office Supplies,South,4,0.05,1814.15,435.43,24.0,Low
+ORD-01145,2025-03-05,2025,3,Mar,2025-03,Customer_216,Home Office,Table,Furniture,North,4,0.15,46280.74,3411.26,7.37,Medium
+ORD-00419,2025-03-05,2025,3,Mar,2025-03,Customer_210,Consumer,Headphones,Technology,South,3,0.15,8403.13,653.08,7.77,Low
+ORD-00479,2025-03-06,2025,3,Mar,2025-03,Customer_118,Corporate,Stapler,Office Supplies,North,3,0.0,830.9,254.73,30.66,Low
+ORD-01357,2025-03-06,2025,3,Mar,2025-03,Customer_049,Consumer,Webcam,Technology,South,2,0.0,5529.59,1051.94,19.02,Low
+ORD-00586,2025-03-07,2025,3,Mar,2025-03,Customer_207,Corporate,Monitor,Technology,North,3,0.25,38839.83,-2066.62,-5.32,Medium
+ORD-01148,2025-03-07,2025,3,Mar,2025-03,Customer_170,Consumer,Printer Paper,Office Supplies,North,2,0.05,769.69,169.26,21.99,Low
+ORD-00020,2025-03-07,2025,3,Mar,2025-03,Customer_288,Consumer,Desk,Furniture,East,2,0.1,28526.77,3403.34,11.93,Medium
+ORD-01205,2025-03-08,2025,3,Mar,2025-03,Customer_008,Consumer,Table,Furniture,East,2,0.2,23050.86,-1073.52,-4.66,Medium
+ORD-00766,2025-03-10,2025,3,Mar,2025-03,Customer_110,Consumer,Webcam,Technology,East,5,0.2,12347.05,715.8,5.8,Medium
+ORD-01267,2025-03-11,2025,3,Mar,2025-03,Customer_142,Consumer,Folders,Office Supplies,South,4,0.0,863.49,246.58,28.56,Low
+ORD-01427,2025-03-12,2025,3,Mar,2025-03,Customer_288,Corporate,Table,Furniture,South,6,0.2,71423.42,-845.6,-1.18,High
+ORD-00451,2025-03-12,2025,3,Mar,2025-03,Customer_038,Consumer,Office Chair,Furniture,North,6,0.05,49573.75,8254.95,16.65,Medium
+ORD-00438,2025-03-12,2025,3,Mar,2025-03,Customer_074,Consumer,Desk,Furniture,North,1,0.2,11697.41,-240.67,-2.06,Medium
+ORD-00920,2025-03-13,2025,3,Mar,2025-03,Customer_153,Consumer,Table,Furniture,East,1,0.05,14242.52,1875.2,13.17,Medium
+ORD-01062,2025-03-13,2025,3,Mar,2025-03,Customer_250,Home Office,Office Chair,Furniture,South,7,0.15,55857.93,3548.37,6.35,High
+ORD-00941,2025-03-15,2025,3,Mar,2025-03,Customer_054,Corporate,Table,Furniture,West,2,0.1,23976.82,2998.99,12.51,Medium
+ORD-00838,2025-03-15,2025,3,Mar,2025-03,Customer_194,Consumer,Pen Set,Office Supplies,South,3,0.2,446.95,50.1,11.21,Low
+ORD-00292,2025-03-15,2025,3,Mar,2025-03,Customer_086,Corporate,Laptop,Technology,West,7,0.2,373635.45,-3166.44,-0.85,Very High
+ORD-01120,2025-03-16,2025,3,Mar,2025-03,Customer_079,Consumer,Cabinet,Furniture,South,2,0.15,21384.75,1039.94,4.86,Medium
+ORD-00036,2025-03-16,2025,3,Mar,2025-03,Customer_113,Consumer,Folders,Office Supplies,West,1,0.1,204.02,36.0,17.65,Low
+ORD-01473,2025-03-17,2025,3,Mar,2025-03,Customer_037,Corporate,Table,Furniture,South,3,0.15,33073.25,2375.71,7.18,Medium
+ORD-00427,2025-03-18,2025,3,Mar,2025-03,Customer_073,Consumer,Notebook,Office Supplies,East,6,0.0,1514.67,453.74,29.96,Low
+ORD-01390,2025-03-18,2025,3,Mar,2025-03,Customer_073,Home Office,Keyboard,Technology,South,1,0.05,2425.91,364.02,15.01,Low
+ORD-01030,2025-03-18,2025,3,Mar,2025-03,Customer_164,Consumer,Table,Furniture,West,5,0.0,65431.11,11248.1,17.19,High
+ORD-00193,2025-03-19,2025,3,Mar,2025-03,Customer_111,Consumer,Table,Furniture,East,7,0.1,81468.56,5491.38,6.74,High
+ORD-01177,2025-03-19,2025,3,Mar,2025-03,Customer_034,Home Office,Table,Furniture,South,1,0.25,10542.1,-1139.23,-10.81,Medium
+ORD-01401,2025-03-19,2025,3,Mar,2025-03,Customer_220,Corporate,Laptop,Technology,East,1,0.05,66300.98,11035.69,16.64,High
+ORD-01162,2025-03-20,2025,3,Mar,2025-03,Customer_195,Consumer,Stapler,Office Supplies,North,7,0.25,1669.59,25.21,1.51,Low
+ORD-01241,2025-03-20,2025,3,Mar,2025-03,Customer_260,Corporate,Laptop,Technology,South,3,0.05,171446.31,27514.42,16.05,Very High
+ORD-00823,2025-03-20,2025,3,Mar,2025-03,Customer_148,Consumer,Laptop,Technology,South,6,0.05,337389.24,69682.17,20.65,Very High
+ORD-01037,2025-03-21,2025,3,Mar,2025-03,Customer_015,Corporate,Webcam,Technology,South,5,0.1,14601.71,1732.54,11.87,Medium
+ORD-00885,2025-03-21,2025,3,Mar,2025-03,Customer_041,Home Office,Stapler,Office Supplies,West,2,0.05,568.4,153.32,26.97,Low
+ORD-00258,2025-03-21,2025,3,Mar,2025-03,Customer_041,Corporate,Mouse,Technology,South,7,0.15,7389.54,509.5,6.89,Low
+ORD-00069,2025-03-22,2025,3,Mar,2025-03,Customer_124,Corporate,Bookshelf,Furniture,West,7,0.1,47553.7,3920.91,8.25,Medium
+ORD-00674,2025-03-22,2025,3,Mar,2025-03,Customer_171,Home Office,Desk,Furniture,South,4,0.05,55230.33,7213.19,13.06,High
+ORD-00731,2025-03-22,2025,3,Mar,2025-03,Customer_281,Corporate,Office Chair,Furniture,South,3,0.0,29302.51,5079.41,17.33,Medium
+ORD-01409,2025-03-23,2025,3,Mar,2025-03,Customer_151,Corporate,Stapler,Office Supplies,North,2,0.0,600.07,183.23,30.53,Low
+ORD-00720,2025-03-24,2025,3,Mar,2025-03,Customer_269,Consumer,Printer Paper,Office Supplies,South,3,0.05,1381.13,312.36,22.62,Low
+ORD-00715,2025-03-25,2025,3,Mar,2025-03,Customer_199,Consumer,Pen Set,Office Supplies,East,4,0.2,537.6,71.42,13.28,Low
+ORD-01256,2025-03-25,2025,3,Mar,2025-03,Customer_099,Corporate,Monitor,Technology,North,3,0.2,46529.6,-125.42,-0.27,Medium
+ORD-00065,2025-03-25,2025,3,Mar,2025-03,Customer_266,Consumer,Office Chair,Furniture,North,2,0.15,14299.77,955.28,6.68,Medium
+ORD-00414,2025-03-26,2025,3,Mar,2025-03,Customer_297,Corporate,Folders,Office Supplies,East,4,0.0,963.51,286.21,29.7,Low
+ORD-01490,2025-03-26,2025,3,Mar,2025-03,Customer_034,Consumer,Desk,Furniture,West,4,0.2,47288.25,-1611.98,-3.41,Medium
+ORD-00679,2025-03-26,2025,3,Mar,2025-03,Customer_034,Home Office,Bookshelf,Furniture,East,7,0.05,53517.08,7825.58,14.62,High
+ORD-01218,2025-03-26,2025,3,Mar,2025-03,Customer_291,Consumer,Laptop,Technology,South,6,0.1,325460.37,35857.92,11.02,Very High
+ORD-00644,2025-03-27,2025,3,Mar,2025-03,Customer_040,Consumer,Printer Paper,Office Supplies,West,1,0.1,397.84,87.52,22.0,Low
+ORD-00496,2025-03-28,2025,3,Mar,2025-03,Customer_094,Consumer,Headphones,Technology,North,4,0.25,10372.35,-369.26,-3.56,Medium
+ORD-00518,2025-03-29,2025,3,Mar,2025-03,Customer_136,Consumer,Webcam,Technology,East,6,0.2,14885.12,301.71,2.03,Medium
+ORD-01274,2025-03-29,2025,3,Mar,2025-03,Customer_130,Consumer,Mouse,Technology,South,6,0.05,6888.36,1359.59,19.74,Low
+ORD-00658,2025-03-30,2025,3,Mar,2025-03,Customer_296,Home Office,Keyboard,Technology,South,5,0.15,11049.84,1054.52,9.54,Medium
+ORD-01392,2025-03-30,2025,3,Mar,2025-03,Customer_154,Corporate,Office Chair,Furniture,South,3,0.1,24670.32,1935.08,7.84,Medium
+ORD-01135,2025-03-30,2025,3,Mar,2025-03,Customer_109,Consumer,Monitor,Technology,North,6,0.15,92051.0,6923.28,7.52,High
+ORD-01322,2025-03-31,2025,3,Mar,2025-03,Customer_073,Home Office,Pen Set,Office Supplies,South,2,0.05,356.02,80.19,22.52,Low
+ORD-01316,2025-04-01,2025,4,Apr,2025-04,Customer_074,Consumer,Folders,Office Supplies,West,2,0.2,383.36,41.63,10.86,Low
+ORD-01495,2025-04-01,2025,4,Apr,2025-04,Customer_199,Home Office,Pen Set,Office Supplies,West,5,0.0,936.9,275.78,29.44,Low
+ORD-01367,2025-04-01,2025,4,Apr,2025-04,Customer_168,Corporate,Office Chair,Furniture,South,7,0.05,63569.86,10561.63,16.61,High
+ORD-01491,2025-04-02,2025,4,Apr,2025-04,Customer_149,Consumer,Laptop,Technology,West,2,0.05,135757.64,26693.59,19.66,High
+ORD-00960,2025-04-02,2025,4,Apr,2025-04,Customer_222,Home Office,Mouse,Technology,North,5,0.2,4920.21,142.4,2.89,Low
+ORD-00591,2025-04-02,2025,4,Apr,2025-04,Customer_154,Consumer,Cabinet,Furniture,West,1,0.1,9764.0,865.74,8.87,Low
+ORD-00787,2025-04-02,2025,4,Apr,2025-04,Customer_109,Home Office,Office Chair,Furniture,South,4,0.0,35280.18,5688.6,16.12,Medium
+ORD-00985,2025-04-03,2025,4,Apr,2025-04,Customer_097,Corporate,Stapler,Office Supplies,South,4,0.0,1130.4,339.01,29.99,Low
+ORD-00950,2025-04-03,2025,4,Apr,2025-04,Customer_022,Consumer,Pen Set,Office Supplies,East,1,0.0,195.0,56.72,29.09,Low
+ORD-01361,2025-04-03,2025,4,Apr,2025-04,Customer_154,Consumer,Folders,Office Supplies,West,6,0.0,1339.47,374.36,27.95,Low
+ORD-01039,2025-04-04,2025,4,Apr,2025-04,Customer_108,Home Office,Pen Set,Office Supplies,South,5,0.2,780.24,104.93,13.45,Low
+ORD-00377,2025-04-05,2025,4,Apr,2025-04,Customer_129,Corporate,Folders,Office Supplies,East,2,0.1,372.97,66.89,17.93,Low
+ORD-00254,2025-04-05,2025,4,Apr,2025-04,Customer_192,Home Office,Headphones,Technology,North,3,0.1,9852.1,1349.55,13.7,Low
+ORD-01422,2025-04-06,2025,4,Apr,2025-04,Customer_002,Corporate,Desk,Furniture,North,7,0.25,83700.69,-7713.02,-9.22,High
+ORD-01374,2025-04-07,2025,4,Apr,2025-04,Customer_016,Consumer,Headphones,Technology,West,3,0.1,8524.22,1390.11,16.31,Low
+ORD-00761,2025-04-07,2025,4,Apr,2025-04,Customer_013,Home Office,Office Chair,Furniture,West,3,0.0,25090.51,4347.95,17.33,Medium
+ORD-00010,2025-04-08,2025,4,Apr,2025-04,Customer_168,Corporate,Headphones,Technology,East,1,0.05,3012.99,551.69,18.31,Low
+ORD-01110,2025-04-08,2025,4,Apr,2025-04,Customer_219,Consumer,Pen Set,Office Supplies,South,6,0.1,1064.87,199.93,18.78,Low
+ORD-00435,2025-04-08,2025,4,Apr,2025-04,Customer_278,Consumer,Monitor,Technology,East,2,0.2,28496.93,157.81,0.55,Medium
+ORD-01436,2025-04-09,2025,4,Apr,2025-04,Customer_289,Consumer,Printer Paper,Office Supplies,East,7,0.15,2410.43,446.52,18.52,Low
+ORD-00641,2025-04-09,2025,4,Apr,2025-04,Customer_073,Corporate,Bookshelf,Furniture,West,5,0.2,30593.29,-1456.79,-4.76,Medium
+ORD-00872,2025-04-10,2025,4,Apr,2025-04,Customer_166,Consumer,Mouse,Technology,North,4,0.05,4874.39,764.95,15.69,Low
+ORD-01407,2025-04-11,2025,4,Apr,2025-04,Customer_166,Consumer,Notebook,Office Supplies,West,4,0.2,782.37,85.08,10.87,Low
+ORD-01284,2025-04-11,2025,4,Apr,2025-04,Customer_180,Home Office,Printer Paper,Office Supplies,South,4,0.2,1376.92,90.43,6.57,Low
+ORD-00821,2025-04-12,2025,4,Apr,2025-04,Customer_270,Corporate,Headphones,Technology,North,3,0.15,8153.24,861.1,10.56,Low
+ORD-01191,2025-04-12,2025,4,Apr,2025-04,Customer_176,Consumer,Monitor,Technology,North,5,0.05,88662.41,13955.47,15.74,High
+ORD-00077,2025-04-12,2025,4,Apr,2025-04,Customer_063,Consumer,Pen Set,Office Supplies,West,5,0.1,755.53,167.26,22.14,Low
+ORD-00804,2025-04-13,2025,4,Apr,2025-04,Customer_004,Corporate,Monitor,Technology,East,7,0.15,112130.48,7022.17,6.26,High
+ORD-00234,2025-04-13,2025,4,Apr,2025-04,Customer_295,Corporate,Folders,Office Supplies,East,1,0.1,194.17,33.57,17.29,Low
+ORD-01016,2025-04-13,2025,4,Apr,2025-04,Customer_102,Corporate,Office Chair,Furniture,West,2,0.0,19648.51,3427.96,17.45,Medium
+ORD-00729,2025-04-14,2025,4,Apr,2025-04,Customer_259,Home Office,Headphones,Technology,West,7,0.15,19969.33,2344.1,11.74,Medium
+ORD-01356,2025-04-14,2025,4,Apr,2025-04,Customer_287,Corporate,Pen Set,Office Supplies,West,1,0.25,132.21,0.75,0.57,Low
+ORD-01345,2025-04-16,2025,4,Apr,2025-04,Customer_107,Consumer,Cabinet,Furniture,West,5,0.05,62265.83,6971.86,11.2,High
+ORD-00982,2025-04-18,2025,4,Apr,2025-04,Customer_205,Corporate,Notebook,Office Supplies,South,4,0.15,839.44,136.91,16.31,Low
+ORD-00071,2025-04-18,2025,4,Apr,2025-04,Customer_095,Corporate,Cabinet,Furniture,East,5,0.1,48471.79,-939.2,-1.94,Medium
+ORD-00214,2025-04-18,2025,4,Apr,2025-04,Customer_129,Corporate,Folders,Office Supplies,East,7,0.15,1402.26,202.01,14.41,Low
+ORD-01118,2025-04-18,2025,4,Apr,2025-04,Customer_096,Corporate,Printer Paper,Office Supplies,East,7,0.05,3284.49,853.57,25.99,Low
+ORD-01126,2025-04-18,2025,4,Apr,2025-04,Customer_292,Corporate,Notebook,Office Supplies,North,1,0.25,179.0,13.63,7.61,Low
+ORD-00462,2025-04-18,2025,4,Apr,2025-04,Customer_132,Consumer,Office Chair,Furniture,South,2,0.0,18065.9,3725.99,20.62,Medium
+ORD-01305,2025-04-19,2025,4,Apr,2025-04,Customer_221,Consumer,Desk,Furniture,North,1,0.1,13735.73,1695.65,12.34,Medium
+ORD-01229,2025-04-19,2025,4,Apr,2025-04,Customer_124,Consumer,Stapler,Office Supplies,West,1,0.1,245.73,52.31,21.29,Low
+ORD-00406,2025-04-19,2025,4,Apr,2025-04,Customer_112,Consumer,Cabinet,Furniture,West,4,0.0,50754.63,9358.92,18.44,High
+ORD-01458,2025-04-20,2025,4,Apr,2025-04,Customer_127,Corporate,Headphones,Technology,West,2,0.1,6554.09,842.78,12.86,Low
+ORD-00576,2025-04-20,2025,4,Apr,2025-04,Customer_145,Corporate,Webcam,Technology,South,5,0.25,11274.47,-315.02,-2.79,Medium
+ORD-00287,2025-04-20,2025,4,Apr,2025-04,Customer_266,Consumer,Folders,Office Supplies,South,3,0.1,551.43,122.54,22.22,Low
+ORD-00210,2025-04-21,2025,4,Apr,2025-04,Customer_131,Corporate,Desk,Furniture,North,2,0.05,29764.87,4753.67,15.97,Medium
+ORD-01210,2025-04-21,2025,4,Apr,2025-04,Customer_117,Corporate,Table,Furniture,North,1,0.1,12656.65,1253.42,9.9,Medium
+ORD-00543,2025-04-21,2025,4,Apr,2025-04,Customer_234,Corporate,Mouse,Technology,North,4,0.1,4124.3,688.43,16.69,Low
+ORD-00162,2025-04-21,2025,4,Apr,2025-04,Customer_300,Home Office,Headphones,Technology,West,1,0.1,2894.98,340.26,11.75,Low
+ORD-00989,2025-04-22,2025,4,Apr,2025-04,Customer_179,Consumer,Pen Set,Office Supplies,North,5,0.2,761.9,80.57,10.57,Low
+ORD-00426,2025-04-22,2025,4,Apr,2025-04,Customer_215,Corporate,Table,Furniture,North,2,0.2,22908.95,-156.1,-0.68,Medium
+ORD-01204,2025-04-23,2025,4,Apr,2025-04,Customer_103,Home Office,Webcam,Technology,East,2,0.1,5713.24,867.14,15.18,Low
+ORD-00970,2025-04-23,2025,4,Apr,2025-04,Customer_136,Corporate,Laptop,Technology,East,1,0.15,58103.73,3308.04,5.69,High
+ORD-00308,2025-04-24,2025,4,Apr,2025-04,Customer_232,Consumer,Laptop,Technology,South,5,0.2,265325.33,-752.23,-0.28,Very High
+ORD-00488,2025-04-25,2025,4,Apr,2025-04,Customer_154,Consumer,Notebook,Office Supplies,West,4,0.0,959.9,283.59,29.54,Low
+ORD-00639,2025-04-25,2025,4,Apr,2025-04,Customer_071,Home Office,Office Chair,Furniture,South,7,0.25,45157.93,-4798.92,-10.63,Medium
+ORD-01060,2025-04-25,2025,4,Apr,2025-04,Customer_062,Home Office,Mouse,Technology,East,4,0.2,3810.42,215.18,5.65,Low
+ORD-00624,2025-04-26,2025,4,Apr,2025-04,Customer_224,Home Office,Printer Paper,Office Supplies,West,7,0.0,3134.46,861.62,27.49,Low
+ORD-01455,2025-04-27,2025,4,Apr,2025-04,Customer_183,Home Office,Desk,Furniture,East,3,0.05,38895.37,6545.61,16.83,Medium
+ORD-01443,2025-04-27,2025,4,Apr,2025-04,Customer_292,Consumer,Webcam,Technology,South,7,0.0,19876.76,3783.78,19.04,Medium
+ORD-00637,2025-04-27,2025,4,Apr,2025-04,Customer_101,Corporate,Cabinet,Furniture,West,2,0.0,24403.5,5121.12,20.99,Medium
+ORD-00653,2025-04-27,2025,4,Apr,2025-04,Customer_012,Corporate,Laptop,Technology,East,2,0.1,118775.53,17455.41,14.7,High
+ORD-01072,2025-04-28,2025,4,Apr,2025-04,Customer_151,Consumer,Printer Paper,Office Supplies,East,1,0.2,337.55,35.12,10.4,Low
+ORD-01230,2025-04-28,2025,4,Apr,2025-04,Customer_067,Consumer,Table,Furniture,South,7,0.2,74641.35,200.46,0.27,High
+ORD-00796,2025-04-28,2025,4,Apr,2025-04,Customer_059,Consumer,Pen Set,Office Supplies,East,6,0.2,803.18,108.15,13.47,Low
+ORD-00215,2025-04-28,2025,4,Apr,2025-04,Customer_289,Corporate,Keyboard,Technology,South,7,0.1,15514.01,1732.8,11.17,Medium
+ORD-00315,2025-04-28,2025,4,Apr,2025-04,Customer_282,Consumer,Monitor,Technology,North,3,0.2,40486.82,1570.29,3.88,Medium
+ORD-00349,2025-04-29,2025,4,Apr,2025-04,Customer_227,Consumer,Mouse,Technology,North,5,0.25,4194.35,-63.92,-1.52,Low
+ORD-00420,2025-05-01,2025,5,May,2025-05,Customer_097,Consumer,Folders,Office Supplies,West,6,0.0,1252.58,385.99,30.82,Low
+ORD-00855,2025-05-01,2025,5,May,2025-05,Customer_162,Corporate,Notebook,Office Supplies,North,1,0.2,193.46,17.02,8.8,Low
+ORD-01142,2025-05-01,2025,5,May,2025-05,Customer_169,Home Office,Table,Furniture,West,2,0.25,19294.53,-2415.06,-12.52,Medium
+ORD-00757,2025-05-02,2025,5,May,2025-05,Customer_176,Corporate,Table,Furniture,South,7,0.25,69698.73,-5056.07,-7.25,High
+ORD-01174,2025-05-02,2025,5,May,2025-05,Customer_072,Corporate,Webcam,Technology,West,2,0.0,6422.32,1383.26,21.54,Low
+ORD-00852,2025-05-02,2025,5,May,2025-05,Customer_005,Consumer,Laptop,Technology,South,7,0.0,454777.93,105431.59,23.18,Very High
+ORD-01343,2025-05-03,2025,5,May,2025-05,Customer_260,Corporate,Headphones,Technology,North,7,0.2,20258.37,246.12,1.21,Medium
+ORD-00094,2025-05-05,2025,5,May,2025-05,Customer_256,Consumer,Folders,Office Supplies,East,3,0.05,671.31,170.71,25.43,Low
+ORD-00519,2025-05-05,2025,5,May,2025-05,Customer_057,Corporate,Folders,Office Supplies,North,2,0.0,480.93,131.92,27.43,Low
+ORD-00023,2025-05-05,2025,5,May,2025-05,Customer_198,Consumer,Laptop,Technology,East,2,0.15,116437.11,12941.91,11.11,High
+ORD-01186,2025-05-06,2025,5,May,2025-05,Customer_001,Consumer,Printer Paper,Office Supplies,West,7,0.05,3115.07,774.36,24.86,Low
+ORD-01099,2025-05-06,2025,5,May,2025-05,Customer_111,Consumer,Printer Paper,Office Supplies,South,3,0.0,1329.42,379.26,28.53,Low
+ORD-00417,2025-05-06,2025,5,May,2025-05,Customer_047,Consumer,Bookshelf,Furniture,North,3,0.05,24416.03,4126.02,16.9,Medium
+ORD-01307,2025-05-08,2025,5,May,2025-05,Customer_216,Consumer,Pen Set,Office Supplies,North,7,0.05,1185.39,296.49,25.01,Low
+ORD-01297,2025-05-09,2025,5,May,2025-05,Customer_038,Corporate,Stapler,Office Supplies,North,4,0.2,996.12,133.29,13.38,Low
+ORD-01311,2025-05-09,2025,5,May,2025-05,Customer_049,Consumer,Monitor,Technology,South,2,0.25,29686.73,-1156.82,-3.9,Medium
+ORD-00948,2025-05-09,2025,5,May,2025-05,Customer_265,Consumer,Cabinet,Furniture,East,5,0.15,53983.16,2893.04,5.36,High
+ORD-00967,2025-05-09,2025,5,May,2025-05,Customer_193,Consumer,Table,Furniture,West,6,0.2,66875.16,-3425.3,-5.12,High
+ORD-01254,2025-05-10,2025,5,May,2025-05,Customer_203,Corporate,Webcam,Technology,East,1,0.0,2969.02,597.96,20.14,Low
+ORD-00146,2025-05-10,2025,5,May,2025-05,Customer_013,Home Office,Office Chair,Furniture,North,5,0.1,43679.15,3087.87,7.07,Medium
+ORD-00040,2025-05-11,2025,5,May,2025-05,Customer_096,Consumer,Bookshelf,Furniture,East,6,0.1,46440.04,2939.44,6.33,Medium
+ORD-00177,2025-05-11,2025,5,May,2025-05,Customer_030,Consumer,Office Chair,Furniture,South,7,0.05,58925.13,9381.21,15.92,High
+ORD-01449,2025-05-12,2025,5,May,2025-05,Customer_014,Consumer,Headphones,Technology,South,7,0.0,26094.43,6031.33,23.11,Medium
+ORD-00502,2025-05-12,2025,5,May,2025-05,Customer_288,Consumer,Table,Furniture,East,4,0.15,52245.18,-56.22,-0.11,High
+ORD-01080,2025-05-13,2025,5,May,2025-05,Customer_090,Home Office,Desk,Furniture,East,1,0.05,15259.59,1673.65,10.97,Medium
+ORD-00651,2025-05-13,2025,5,May,2025-05,Customer_203,Consumer,Laptop,Technology,South,4,0.05,259157.55,41783.72,16.12,Very High
+ORD-01369,2025-05-13,2025,5,May,2025-05,Customer_023,Consumer,Office Chair,Furniture,North,5,0.15,34911.02,1974.35,5.66,Medium
+ORD-00005,2025-05-13,2025,5,May,2025-05,Customer_291,Corporate,Office Chair,Furniture,East,3,0.05,24985.46,3471.59,13.89,Medium
+ORD-00702,2025-05-13,2025,5,May,2025-05,Customer_037,Consumer,Office Chair,Furniture,North,6,0.1,47505.46,2695.09,5.67,Medium
+ORD-00685,2025-05-14,2025,5,May,2025-05,Customer_006,Consumer,Office Chair,Furniture,North,6,0.05,55972.22,8371.17,14.96,High
+ORD-01236,2025-05-14,2025,5,May,2025-05,Customer_139,Consumer,Pen Set,Office Supplies,East,3,0.15,442.69,54.24,12.25,Low
+ORD-01089,2025-05-14,2025,5,May,2025-05,Customer_254,Corporate,Desk,Furniture,East,7,0.05,104575.69,17151.98,16.4,High
+ORD-00922,2025-05-14,2025,5,May,2025-05,Customer_089,Corporate,Bookshelf,Furniture,North,1,0.05,7586.06,1156.72,15.25,Low
+ORD-00610,2025-05-15,2025,5,May,2025-05,Customer_127,Corporate,Table,Furniture,West,3,0.2,35569.49,-1638.64,-4.61,Medium
+ORD-00817,2025-05-15,2025,5,May,2025-05,Customer_060,Consumer,Webcam,Technology,West,3,0.2,7915.33,445.87,5.63,Low
+ORD-00057,2025-05-15,2025,5,May,2025-05,Customer_137,Consumer,Bookshelf,Furniture,North,1,0.2,6138.06,-132.59,-2.16,Low
+ORD-00257,2025-05-17,2025,5,May,2025-05,Customer_089,Home Office,Pen Set,Office Supplies,South,1,0.15,146.57,21.88,14.93,Low
+ORD-01239,2025-05-17,2025,5,May,2025-05,Customer_267,Corporate,Bookshelf,Furniture,South,2,0.0,15518.71,2299.12,14.82,Medium
+ORD-00772,2025-05-17,2025,5,May,2025-05,Customer_205,Consumer,Monitor,Technology,South,4,0.05,66815.97,13507.79,20.22,High
+ORD-00615,2025-05-17,2025,5,May,2025-05,Customer_215,Consumer,Printer Paper,Office Supplies,South,2,0.25,654.79,50.72,7.75,Low
+ORD-01180,2025-05-17,2025,5,May,2025-05,Customer_231,Consumer,Table,Furniture,North,4,0.05,55960.96,7397.37,13.22,High
+ORD-00623,2025-05-19,2025,5,May,2025-05,Customer_095,Home Office,Table,Furniture,North,4,0.1,52836.24,5687.16,10.76,High
+ORD-01358,2025-05-19,2025,5,May,2025-05,Customer_190,Corporate,Desk,Furniture,South,5,0.05,72380.69,9277.28,12.82,High
+ORD-00453,2025-05-19,2025,5,May,2025-05,Customer_057,Consumer,Mouse,Technology,North,1,0.0,1224.99,232.3,18.96,Low
+ORD-01269,2025-05-19,2025,5,May,2025-05,Customer_148,Consumer,Folders,Office Supplies,North,3,0.15,610.07,87.75,14.38,Low
+ORD-00700,2025-05-20,2025,5,May,2025-05,Customer_067,Consumer,Desk,Furniture,East,1,0.1,14549.73,983.22,6.76,Medium
+ORD-00116,2025-05-20,2025,5,May,2025-05,Customer_153,Consumer,Notebook,Office Supplies,East,6,0.25,1013.4,78.16,7.71,Low
+ORD-00965,2025-05-20,2025,5,May,2025-05,Customer_082,Consumer,Printer Paper,Office Supplies,North,4,0.2,1558.07,162.72,10.44,Low
+ORD-01125,2025-05-21,2025,5,May,2025-05,Customer_013,Consumer,Printer Paper,Office Supplies,East,7,0.05,2743.23,657.17,23.96,Low
+ORD-00889,2025-05-22,2025,5,May,2025-05,Customer_131,Consumer,Bookshelf,Furniture,South,4,0.1,27164.04,2285.79,8.41,Medium
+ORD-00699,2025-05-22,2025,5,May,2025-05,Customer_300,Consumer,Notebook,Office Supplies,North,5,0.05,1135.37,278.87,24.56,Low
+ORD-01219,2025-05-22,2025,5,May,2025-05,Customer_080,Corporate,Headphones,Technology,North,6,0.15,16200.73,1694.67,10.46,Medium
+ORD-01468,2025-05-23,2025,5,May,2025-05,Customer_182,Home Office,Desk,Furniture,East,6,0.05,80162.94,12993.73,16.21,High
+ORD-01176,2025-05-24,2025,5,May,2025-05,Customer_285,Consumer,Office Chair,Furniture,West,1,0.15,7238.22,418.13,5.78,Low
+ORD-00798,2025-05-24,2025,5,May,2025-05,Customer_098,Consumer,Stapler,Office Supplies,South,5,0.15,1330.26,162.83,12.24,Low
+ORD-00457,2025-05-25,2025,5,May,2025-05,Customer_117,Corporate,Mouse,Technology,South,6,0.1,5953.95,936.57,15.73,Low
+ORD-00097,2025-05-26,2025,5,May,2025-05,Customer_118,Corporate,Webcam,Technology,West,1,0.25,2248.61,-21.54,-0.96,Low
+ORD-00978,2025-05-27,2025,5,May,2025-05,Customer_217,Home Office,Folders,Office Supplies,East,1,0.05,213.23,57.06,26.76,Low
+ORD-01091,2025-05-27,2025,5,May,2025-05,Customer_174,Home Office,Bookshelf,Furniture,East,5,0.0,36020.63,6490.99,18.02,Medium
+ORD-00949,2025-05-27,2025,5,May,2025-05,Customer_116,Corporate,Office Chair,Furniture,West,1,0.0,9572.86,1907.68,19.93,Low
+ORD-00086,2025-05-28,2025,5,May,2025-05,Customer_295,Corporate,Desk,Furniture,North,5,0.15,63463.2,959.42,1.51,High
+ORD-01460,2025-05-28,2025,5,May,2025-05,Customer_209,Corporate,Mouse,Technology,North,1,0.0,1094.27,227.19,20.76,Low
+ORD-00581,2025-05-28,2025,5,May,2025-05,Customer_176,Consumer,Table,Furniture,East,4,0.0,59238.39,11512.73,19.43,High
+ORD-00714,2025-05-28,2025,5,May,2025-05,Customer_179,Consumer,Table,Furniture,South,5,0.05,62089.58,8620.17,13.88,High
+ORD-00327,2025-05-28,2025,5,May,2025-05,Customer_029,Consumer,Pen Set,Office Supplies,East,5,0.2,758.05,92.19,12.16,Low
+ORD-00934,2025-05-29,2025,5,May,2025-05,Customer_135,Consumer,Table,Furniture,South,4,0.0,51776.98,9024.13,17.43,High
+ORD-01271,2025-05-30,2025,5,May,2025-05,Customer_074,Corporate,Headphones,Technology,North,2,0.1,5820.89,881.5,15.14,Low
+ORD-00392,2025-05-30,2025,5,May,2025-05,Customer_028,Corporate,Mouse,Technology,South,7,0.2,6283.17,27.3,0.43,Low
+ORD-01324,2025-05-30,2025,5,May,2025-05,Customer_046,Home Office,Office Chair,Furniture,East,3,0.15,22811.1,183.84,0.81,Medium
+ORD-00552,2025-05-30,2025,5,May,2025-05,Customer_141,Consumer,Keyboard,Technology,East,1,0.0,2587.95,594.59,22.98,Low
+ORD-00826,2025-05-31,2025,5,May,2025-05,Customer_218,Corporate,Office Chair,Furniture,East,3,0.0,29675.84,4379.29,14.76,Medium
+ORD-00115,2025-05-31,2025,5,May,2025-05,Customer_096,Corporate,Cabinet,Furniture,West,6,0.2,58680.93,332.48,0.57,High
+ORD-01426,2025-06-01,2025,6,Jun,2025-06,Customer_032,Home Office,Notebook,Office Supplies,East,1,0.0,239.05,73.66,30.81,Low
+ORD-00592,2025-06-01,2025,6,Jun,2025-06,Customer_118,Corporate,Webcam,Technology,West,5,0.1,12240.41,1731.35,14.14,Medium
+ORD-01127,2025-06-01,2025,6,Jun,2025-06,Customer_108,Consumer,Monitor,Technology,East,5,0.05,80700.81,13348.55,16.54,High
+ORD-00136,2025-06-02,2025,6,Jun,2025-06,Customer_263,Home Office,Monitor,Technology,West,5,0.05,86027.54,16816.07,19.55,High
+ORD-01152,2025-06-02,2025,6,Jun,2025-06,Customer_194,Home Office,Desk,Furniture,West,1,0.05,14375.71,1713.14,11.92,Medium
+ORD-00454,2025-06-02,2025,6,Jun,2025-06,Customer_204,Home Office,Cabinet,Furniture,North,4,0.0,51523.25,9731.56,18.89,High
+ORD-01350,2025-06-02,2025,6,Jun,2025-06,Customer_163,Consumer,Desk,Furniture,South,2,0.1,25635.91,2562.99,10.0,Medium
+ORD-00250,2025-06-02,2025,6,Jun,2025-06,Customer_224,Corporate,Table,Furniture,South,3,0.1,37619.57,3482.35,9.26,Medium
+ORD-01040,2025-06-02,2025,6,Jun,2025-06,Customer_118,Corporate,Pen Set,Office Supplies,West,1,0.15,156.43,21.38,13.67,Low
+ORD-01021,2025-06-04,2025,6,Jun,2025-06,Customer_029,Corporate,Bookshelf,Furniture,South,3,0.2,20060.05,-237.15,-1.18,Medium
+ORD-01064,2025-06-05,2025,6,Jun,2025-06,Customer_015,Consumer,Folders,Office Supplies,West,6,0.15,1153.92,186.69,16.18,Low
+ORD-00953,2025-06-06,2025,6,Jun,2025-06,Customer_144,Home Office,Pen Set,Office Supplies,East,7,0.05,1279.54,320.06,25.01,Low
+ORD-00924,2025-06-06,2025,6,Jun,2025-06,Customer_167,Consumer,Headphones,Technology,South,1,0.2,2659.73,17.54,0.66,Low
+ORD-00839,2025-06-06,2025,6,Jun,2025-06,Customer_059,Consumer,Table,Furniture,South,2,0.15,22797.62,1474.21,6.47,Medium
+ORD-01461,2025-06-07,2025,6,Jun,2025-06,Customer_213,Corporate,Table,Furniture,South,6,0.2,70215.63,-3125.77,-4.45,High
+ORD-00378,2025-06-07,2025,6,Jun,2025-06,Customer_173,Corporate,Office Chair,Furniture,East,7,0.2,48293.79,-2718.58,-5.63,Medium
+ORD-00056,2025-06-07,2025,6,Jun,2025-06,Customer_036,Home Office,Table,Furniture,North,3,0.2,34521.14,207.21,0.6,Medium
+ORD-00316,2025-06-08,2025,6,Jun,2025-06,Customer_047,Consumer,Mouse,Technology,South,4,0.0,5279.77,1176.26,22.28,Low
+ORD-00471,2025-06-09,2025,6,Jun,2025-06,Customer_148,Corporate,Desk,Furniture,East,4,0.1,59036.01,4144.79,7.02,High
+ORD-00351,2025-06-09,2025,6,Jun,2025-06,Customer_238,Corporate,Cabinet,Furniture,East,2,0.15,20553.03,556.95,2.71,Medium
+ORD-01355,2025-06-09,2025,6,Jun,2025-06,Customer_108,Home Office,Desk,Furniture,West,4,0.25,46245.69,-5321.81,-11.51,Medium
+ORD-00575,2025-06-10,2025,6,Jun,2025-06,Customer_059,Consumer,Notebook,Office Supplies,South,7,0.05,1796.29,402.6,22.41,Low
+ORD-00769,2025-06-10,2025,6,Jun,2025-06,Customer_249,Consumer,Monitor,Technology,East,5,0.05,88863.67,14247.65,16.03,High
+ORD-00087,2025-06-10,2025,6,Jun,2025-06,Customer_235,Home Office,Table,Furniture,East,5,0.2,51677.97,-2276.82,-4.41,High
+ORD-00314,2025-06-10,2025,6,Jun,2025-06,Customer_180,Consumer,Bookshelf,Furniture,South,3,0.2,17539.3,-456.09,-2.6,Medium
+ORD-01290,2025-06-11,2025,6,Jun,2025-06,Customer_229,Corporate,Bookshelf,Furniture,West,2,0.2,11579.45,110.13,0.95,Medium
+ORD-00991,2025-06-11,2025,6,Jun,2025-06,Customer_210,Corporate,Pen Set,Office Supplies,South,2,0.15,318.65,39.98,12.55,Low
+ORD-01375,2025-06-12,2025,6,Jun,2025-06,Customer_220,Consumer,Mouse,Technology,West,6,0.25,5662.63,-360.64,-6.37,Low
+ORD-00354,2025-06-12,2025,6,Jun,2025-06,Customer_111,Corporate,Folders,Office Supplies,North,2,0.0,408.58,121.63,29.77,Low
+ORD-01378,2025-06-12,2025,6,Jun,2025-06,Customer_269,Consumer,Pen Set,Office Supplies,West,7,0.0,1351.6,378.62,28.01,Low
+ORD-00626,2025-06-12,2025,6,Jun,2025-06,Customer_269,Consumer,Monitor,Technology,South,6,0.0,108475.14,25082.22,23.12,High
+ORD-01279,2025-06-12,2025,6,Jun,2025-06,Customer_048,Consumer,Notebook,Office Supplies,West,4,0.05,950.22,239.87,25.24,Low
+ORD-00049,2025-06-13,2025,6,Jun,2025-06,Customer_281,Consumer,Office Chair,Furniture,East,4,0.0,39303.94,6298.93,16.03,Medium
+ORD-00598,2025-06-13,2025,6,Jun,2025-06,Customer_210,Consumer,Folders,Office Supplies,North,7,0.1,1502.09,270.92,18.04,Low
+ORD-00120,2025-06-13,2025,6,Jun,2025-06,Customer_228,Corporate,Stapler,Office Supplies,East,2,0.25,442.73,17.21,3.89,Low
+ORD-01434,2025-06-13,2025,6,Jun,2025-06,Customer_300,Consumer,Headphones,Technology,West,5,0.25,14166.05,-710.77,-5.02,Medium
+ORD-01372,2025-06-14,2025,6,Jun,2025-06,Customer_159,Corporate,Pen Set,Office Supplies,East,2,0.05,355.02,88.28,24.87,Low
+ORD-00456,2025-06-14,2025,6,Jun,2025-06,Customer_043,Home Office,Notebook,Office Supplies,West,2,0.05,446.03,120.78,27.08,Low
+ORD-01337,2025-06-14,2025,6,Jun,2025-06,Customer_094,Corporate,Pen Set,Office Supplies,East,2,0.25,278.03,8.86,3.19,Low
+ORD-00717,2025-06-14,2025,6,Jun,2025-06,Customer_088,Consumer,Monitor,Technology,West,1,0.1,16156.94,2041.29,12.63,Medium
+ORD-01022,2025-06-15,2025,6,Jun,2025-06,Customer_168,Corporate,Cabinet,Furniture,South,2,0.2,21117.16,-663.95,-3.14,Medium
+ORD-00773,2025-06-16,2025,6,Jun,2025-06,Customer_050,Consumer,Mouse,Technology,South,2,0.05,2425.06,470.97,19.42,Low
+ORD-01231,2025-06-16,2025,6,Jun,2025-06,Customer_021,Corporate,Laptop,Technology,North,7,0.0,467180.06,100706.44,21.56,Very High
+ORD-00235,2025-06-16,2025,6,Jun,2025-06,Customer_030,Corporate,Monitor,Technology,West,7,0.1,106608.76,16540.06,15.51,High
+ORD-00055,2025-06-16,2025,6,Jun,2025-06,Customer_281,Corporate,Pen Set,Office Supplies,North,7,0.2,1003.84,109.32,10.89,Low
+ORD-00584,2025-06-16,2025,6,Jun,2025-06,Customer_163,Consumer,Desk,Furniture,South,4,0.25,45353.48,-4697.21,-10.36,Medium
+ORD-00755,2025-06-17,2025,6,Jun,2025-06,Customer_091,Home Office,Notebook,Office Supplies,East,3,0.25,548.82,34.61,6.31,Low
+ORD-01066,2025-06-17,2025,6,Jun,2025-06,Customer_035,Home Office,Mouse,Technology,East,6,0.15,6098.1,469.77,7.7,Low
+ORD-01182,2025-06-17,2025,6,Jun,2025-06,Customer_147,Consumer,Notebook,Office Supplies,East,7,0.0,1916.17,511.57,26.7,Low
+ORD-00353,2025-06-19,2025,6,Jun,2025-06,Customer_179,Home Office,Monitor,Technology,North,3,0.15,44418.27,3833.24,8.63,Medium
+ORD-00064,2025-06-20,2025,6,Jun,2025-06,Customer_082,Consumer,Office Chair,Furniture,West,1,0.15,8384.71,223.75,2.67,Low
+ORD-01073,2025-06-20,2025,6,Jun,2025-06,Customer_255,Home Office,Printer Paper,Office Supplies,East,5,0.15,1944.49,283.8,14.6,Low
+ORD-00048,2025-06-20,2025,6,Jun,2025-06,Customer_209,Consumer,Monitor,Technology,North,5,0.2,66702.28,1072.46,1.61,High
+ORD-00927,2025-06-20,2025,6,Jun,2025-06,Customer_267,Home Office,Folders,Office Supplies,West,6,0.05,1293.89,350.87,27.12,Low
+ORD-00216,2025-06-21,2025,6,Jun,2025-06,Customer_065,Consumer,Bookshelf,Furniture,North,4,0.2,23711.51,-6.73,-0.03,Medium
+ORD-00405,2025-06-21,2025,6,Jun,2025-06,Customer_136,Consumer,Folders,Office Supplies,East,7,0.1,1476.48,277.92,18.82,Low
+ORD-01057,2025-06-22,2025,6,Jun,2025-06,Customer_270,Home Office,Monitor,Technology,North,7,0.1,109304.3,10785.75,9.87,High
+ORD-01220,2025-06-23,2025,6,Jun,2025-06,Customer_034,Consumer,Folders,Office Supplies,North,6,0.25,913.21,53.57,5.87,Low
+ORD-01106,2025-06-23,2025,6,Jun,2025-06,Customer_028,Consumer,Desk,Furniture,East,2,0.1,27041.51,2486.78,9.2,Medium
+ORD-00619,2025-06-25,2025,6,Jun,2025-06,Customer_277,Home Office,Laptop,Technology,North,2,0.0,141432.73,34931.13,24.7,High
+ORD-00935,2025-06-26,2025,6,Jun,2025-06,Customer_075,Home Office,Mouse,Technology,West,2,0.25,1806.48,-36.01,-1.99,Low
+ORD-01222,2025-06-26,2025,6,Jun,2025-06,Customer_183,Corporate,Printer Paper,Office Supplies,West,3,0.15,1216.16,168.68,13.87,Low
+ORD-00824,2025-06-27,2025,6,Jun,2025-06,Customer_141,Home Office,Webcam,Technology,South,6,0.1,15741.24,1971.9,12.53,Medium
+ORD-01023,2025-06-27,2025,6,Jun,2025-06,Customer_287,Home Office,Folders,Office Supplies,North,7,0.05,1365.11,323.35,23.69,Low
+ORD-01257,2025-06-27,2025,6,Jun,2025-06,Customer_178,Corporate,Monitor,Technology,East,3,0.1,49574.54,7862.26,15.86,Medium
+ORD-00739,2025-06-28,2025,6,Jun,2025-06,Customer_100,Consumer,Desk,Furniture,South,7,0.15,91493.44,848.09,0.93,High
+ORD-00825,2025-06-28,2025,6,Jun,2025-06,Customer_263,Home Office,Desk,Furniture,West,2,0.05,28654.03,4468.28,15.59,Medium
+ORD-00512,2025-06-28,2025,6,Jun,2025-06,Customer_230,Consumer,Desk,Furniture,East,1,0.2,11764.08,-508.72,-4.32,Medium
+ORD-00499,2025-06-28,2025,6,Jun,2025-06,Customer_150,Consumer,Headphones,Technology,South,5,0.15,13394.87,753.07,5.62,Medium
+ORD-00785,2025-06-28,2025,6,Jun,2025-06,Customer_199,Consumer,Bookshelf,Furniture,East,7,0.05,51321.18,5745.59,11.2,High
+ORD-00217,2025-06-29,2025,6,Jun,2025-06,Customer_082,Home Office,Cabinet,Furniture,North,6,0.0,78567.07,15923.18,20.27,High
+ORD-00923,2025-06-29,2025,6,Jun,2025-06,Customer_218,Consumer,Headphones,Technology,West,1,0.1,3284.11,500.51,15.24,Low
+ORD-00988,2025-06-29,2025,6,Jun,2025-06,Customer_200,Corporate,Desk,Furniture,South,5,0.2,62996.78,-3567.58,-5.66,High
+ORD-01275,2025-06-29,2025,6,Jun,2025-06,Customer_225,Consumer,Webcam,Technology,West,5,0.0,14533.47,3251.5,22.37,Medium
+ORD-00233,2025-06-29,2025,6,Jun,2025-06,Customer_057,Consumer,Keyboard,Technology,South,2,0.05,4664.55,841.01,18.03,Low
+ORD-00342,2025-06-30,2025,6,Jun,2025-06,Customer_178,Consumer,Laptop,Technology,South,6,0.2,303214.35,19147.1,6.31,Very High
+ORD-00320,2025-06-30,2025,6,Jun,2025-06,Customer_041,Home Office,Folders,Office Supplies,West,4,0.05,813.99,195.24,23.99,Low
+ORD-01276,2025-06-30,2025,6,Jun,2025-06,Customer_114,Home Office,Bookshelf,Furniture,South,6,0.05,46607.9,7081.94,15.19,Medium
+ORD-01247,2025-07-02,2025,7,Jul,2025-07,Customer_278,Corporate,Stapler,Office Supplies,South,4,0.25,874.66,60.12,6.87,Low
+ORD-00962,2025-07-02,2025,7,Jul,2025-07,Customer_242,Corporate,Monitor,Technology,North,5,0.1,86736.16,9784.36,11.28,High
+ORD-01151,2025-07-02,2025,7,Jul,2025-07,Customer_211,Home Office,Pen Set,Office Supplies,South,6,0.25,824.36,28.09,3.41,Low
+ORD-00537,2025-07-02,2025,7,Jul,2025-07,Customer_104,Consumer,Printer Paper,Office Supplies,North,3,0.05,1225.59,264.93,21.62,Low
+ORD-00344,2025-07-03,2025,7,Jul,2025-07,Customer_242,Home Office,Headphones,Technology,East,3,0.05,10086.48,1939.17,19.23,Medium
+ORD-00812,2025-07-04,2025,7,Jul,2025-07,Customer_261,Consumer,Printer Paper,Office Supplies,South,6,0.1,2271.23,442.03,19.46,Low
+ORD-01349,2025-07-04,2025,7,Jul,2025-07,Customer_054,Corporate,Pen Set,Office Supplies,East,4,0.15,666.87,92.71,13.9,Low
+ORD-01471,2025-07-04,2025,7,Jul,2025-07,Customer_105,Home Office,Monitor,Technology,North,7,0.0,130176.31,26693.35,20.51,High
+ORD-00503,2025-07-05,2025,7,Jul,2025-07,Customer_052,Corporate,Table,Furniture,West,6,0.1,79612.49,6955.63,8.74,High
+ORD-01013,2025-07-06,2025,7,Jul,2025-07,Customer_082,Corporate,Stapler,Office Supplies,East,2,0.05,550.41,133.93,24.33,Low
+ORD-00629,2025-07-06,2025,7,Jul,2025-07,Customer_234,Consumer,Office Chair,Furniture,South,6,0.2,45330.63,653.09,1.44,Medium
+ORD-00531,2025-07-07,2025,7,Jul,2025-07,Customer_227,Home Office,Folders,Office Supplies,North,5,0.2,938.5,78.29,8.34,Low
+ORD-00265,2025-07-08,2025,7,Jul,2025-07,Customer_272,Consumer,Keyboard,Technology,South,2,0.1,4730.48,516.03,10.91,Low
+ORD-00271,2025-07-08,2025,7,Jul,2025-07,Customer_007,Corporate,Monitor,Technology,North,2,0.05,31990.69,5397.12,16.87,Medium
+ORD-01381,2025-07-08,2025,7,Jul,2025-07,Customer_251,Consumer,Desk,Furniture,South,3,0.0,47166.4,7048.75,14.94,Medium
+ORD-00458,2025-07-09,2025,7,Jul,2025-07,Customer_276,Home Office,Table,Furniture,East,6,0.15,77515.25,3234.14,4.17,High
+ORD-00818,2025-07-11,2025,7,Jul,2025-07,Customer_021,Consumer,Notebook,Office Supplies,East,3,0.2,636.05,46.13,7.25,Low
+ORD-01146,2025-07-11,2025,7,Jul,2025-07,Customer_100,Corporate,Desk,Furniture,East,3,0.15,35918.95,1922.97,5.35,Medium
+ORD-00223,2025-07-11,2025,7,Jul,2025-07,Customer_150,Home Office,Pen Set,Office Supplies,East,3,0.15,492.71,58.7,11.91,Low
+ORD-00156,2025-07-12,2025,7,Jul,2025-07,Customer_145,Corporate,Headphones,Technology,West,1,0.1,2986.34,368.19,12.33,Low
+ORD-01088,2025-07-14,2025,7,Jul,2025-07,Customer_201,Corporate,Folders,Office Supplies,South,1,0.1,194.17,34.99,18.02,Low
+ORD-00898,2025-07-15,2025,7,Jul,2025-07,Customer_117,Consumer,Office Chair,Furniture,South,6,0.0,57657.2,10148.6,17.6,High
+ORD-00648,2025-07-16,2025,7,Jul,2025-07,Customer_197,Consumer,Printer Paper,Office Supplies,East,5,0.1,2026.28,458.42,22.62,Low
+ORD-01478,2025-07-17,2025,7,Jul,2025-07,Customer_006,Home Office,Headphones,Technology,South,6,0.25,15408.51,-1049.64,-6.81,Medium
+ORD-01096,2025-07-17,2025,7,Jul,2025-07,Customer_190,Consumer,Bookshelf,Furniture,West,3,0.1,23725.14,2672.87,11.27,Medium
+ORD-00908,2025-07-17,2025,7,Jul,2025-07,Customer_229,Home Office,Stapler,Office Supplies,West,1,0.1,257.77,51.56,20.0,Low
+ORD-00356,2025-07-17,2025,7,Jul,2025-07,Customer_034,Home Office,Pen Set,Office Supplies,West,5,0.15,835.24,133.28,15.96,Low
+ORD-00092,2025-07-18,2025,7,Jul,2025-07,Customer_222,Home Office,Stapler,Office Supplies,East,6,0.2,1310.1,156.05,11.91,Low
+ORD-00973,2025-07-18,2025,7,Jul,2025-07,Customer_286,Corporate,Webcam,Technology,South,1,0.1,2855.56,446.49,15.64,Low
+ORD-00993,2025-07-18,2025,7,Jul,2025-07,Customer_215,Corporate,Pen Set,Office Supplies,West,7,0.15,1154.61,169.12,14.65,Low
+ORD-00112,2025-07-18,2025,7,Jul,2025-07,Customer_077,Home Office,Office Chair,Furniture,West,3,0.25,20065.55,-2054.3,-10.24,Medium
+ORD-00930,2025-07-18,2025,7,Jul,2025-07,Customer_283,Consumer,Table,Furniture,West,7,0.0,99739.67,17460.11,17.51,High
+ORD-01312,2025-07-18,2025,7,Jul,2025-07,Customer_129,Consumer,Keyboard,Technology,East,4,0.0,9801.85,1860.48,18.98,Low
+ORD-00716,2025-07-19,2025,7,Jul,2025-07,Customer_211,Corporate,Bookshelf,Furniture,East,6,0.1,40909.93,3541.68,8.66,Medium
+ORD-01319,2025-07-19,2025,7,Jul,2025-07,Customer_118,Corporate,Folders,Office Supplies,North,2,0.0,465.75,127.8,27.44,Low
+ORD-00231,2025-07-20,2025,7,Jul,2025-07,Customer_114,Corporate,Pen Set,Office Supplies,West,5,0.2,678.68,92.09,13.57,Low
+ORD-01483,2025-07-20,2025,7,Jul,2025-07,Customer_077,Corporate,Headphones,Technology,West,3,0.1,8533.27,1030.21,12.07,Low
+ORD-01332,2025-07-20,2025,7,Jul,2025-07,Customer_223,Consumer,Pen Set,Office Supplies,West,1,0.05,158.54,36.67,23.13,Low
+ORD-00763,2025-07-20,2025,7,Jul,2025-07,Customer_200,Corporate,Desk,Furniture,South,6,0.2,68790.68,-815.45,-1.19,High
+ORD-00843,2025-07-21,2025,7,Jul,2025-07,Customer_253,Consumer,Office Chair,Furniture,East,1,0.1,7389.03,477.32,6.46,Low
+ORD-00864,2025-07-22,2025,7,Jul,2025-07,Customer_159,Home Office,Notebook,Office Supplies,West,6,0.1,1321.04,298.36,22.59,Low
+ORD-01140,2025-07-23,2025,7,Jul,2025-07,Customer_252,Home Office,Notebook,Office Supplies,North,6,0.25,1215.7,53.85,4.43,Low
+ORD-01076,2025-07-23,2025,7,Jul,2025-07,Customer_115,Corporate,Monitor,Technology,East,6,0.0,99595.62,24476.93,24.58,High
+ORD-00240,2025-07-24,2025,7,Jul,2025-07,Customer_219,Home Office,Office Chair,Furniture,North,1,0.1,8710.22,756.81,8.69,Low
+ORD-01116,2025-07-24,2025,7,Jul,2025-07,Customer_284,Consumer,Stapler,Office Supplies,East,3,0.0,833.93,229.24,27.49,Low
+ORD-00393,2025-07-25,2025,7,Jul,2025-07,Customer_056,Consumer,Pen Set,Office Supplies,South,6,0.1,881.2,191.73,21.76,Low
+ORD-00124,2025-07-25,2025,7,Jul,2025-07,Customer_032,Corporate,Cabinet,Furniture,East,4,0.25,38632.12,-4612.94,-11.94,Medium
+ORD-00050,2025-07-25,2025,7,Jul,2025-07,Customer_284,Corporate,Bookshelf,Furniture,South,7,0.05,54158.41,8925.58,16.48,High
+ORD-00437,2025-07-25,2025,7,Jul,2025-07,Customer_149,Corporate,Stapler,Office Supplies,North,7,0.15,1660.64,285.99,17.22,Low
+ORD-00756,2025-07-27,2025,7,Jul,2025-07,Customer_093,Corporate,Notebook,Office Supplies,North,6,0.15,1232.19,192.76,15.64,Low
+ORD-01031,2025-07-28,2025,7,Jul,2025-07,Customer_181,Corporate,Bookshelf,Furniture,West,7,0.2,40931.64,-1663.98,-4.07,Medium
+ORD-00489,2025-07-28,2025,7,Jul,2025-07,Customer_256,Consumer,Cabinet,Furniture,North,1,0.2,9297.16,-353.65,-3.8,Low
+ORD-00952,2025-07-29,2025,7,Jul,2025-07,Customer_100,Consumer,Folders,Office Supplies,East,3,0.2,489.54,36.63,7.48,Low
+ORD-01259,2025-07-29,2025,7,Jul,2025-07,Customer_265,Home Office,Notebook,Office Supplies,North,7,0.2,1537.82,144.22,9.38,Low
+ORD-00886,2025-07-29,2025,7,Jul,2025-07,Customer_138,Consumer,Keyboard,Technology,South,7,0.25,13140.54,-523.79,-3.99,Medium
+ORD-00926,2025-07-30,2025,7,Jul,2025-07,Customer_075,Consumer,Laptop,Technology,West,4,0.05,259714.22,47068.03,18.12,Very High
+ORD-01494,2025-07-30,2025,7,Jul,2025-07,Customer_112,Consumer,Folders,Office Supplies,South,1,0.2,176.95,21.84,12.34,Low
+ORD-00428,2025-07-31,2025,7,Jul,2025-07,Customer_093,Home Office,Mouse,Technology,East,1,0.1,1093.61,147.87,13.52,Low
+ORD-01393,2025-08-01,2025,8,Aug,2025-08,Customer_269,Corporate,Folders,Office Supplies,North,7,0.2,1141.63,76.63,6.71,Low
+ORD-00540,2025-08-01,2025,8,Aug,2025-08,Customer_212,Consumer,Table,Furniture,South,4,0.0,58889.84,8816.03,14.97,High
+ORD-00226,2025-08-01,2025,8,Aug,2025-08,Customer_299,Home Office,Pen Set,Office Supplies,North,6,0.2,931.37,105.59,11.34,Low
+ORD-01123,2025-08-01,2025,8,Aug,2025-08,Customer_073,Consumer,Monitor,Technology,West,3,0.2,45283.9,733.41,1.62,Medium
+ORD-00495,2025-08-01,2025,8,Aug,2025-08,Customer_237,Consumer,Laptop,Technology,North,4,0.0,248986.36,50872.25,20.43,Very High
+ORD-01225,2025-08-02,2025,8,Aug,2025-08,Customer_284,Corporate,Stapler,Office Supplies,North,6,0.2,1411.26,95.32,6.75,Low
+ORD-00203,2025-08-03,2025,8,Aug,2025-08,Customer_164,Corporate,Office Chair,Furniture,West,3,0.2,23638.19,-988.0,-4.18,Medium
+ORD-00121,2025-08-04,2025,8,Aug,2025-08,Customer_123,Corporate,Notebook,Office Supplies,North,3,0.0,808.45,231.25,28.6,Low
+ORD-01000,2025-08-04,2025,8,Aug,2025-08,Customer_221,Home Office,Mouse,Technology,West,7,0.1,8110.16,945.25,11.66,Low
+ORD-00846,2025-08-05,2025,8,Aug,2025-08,Customer_261,Corporate,Bookshelf,Furniture,East,6,0.05,45287.65,7731.68,17.07,Medium
+ORD-00545,2025-08-05,2025,8,Aug,2025-08,Customer_042,Corporate,Table,Furniture,South,6,0.15,65139.58,2646.5,4.06,High
+ORD-00533,2025-08-06,2025,8,Aug,2025-08,Customer_075,Home Office,Folders,Office Supplies,West,5,0.15,983.04,121.28,12.34,Low
+ORD-00379,2025-08-06,2025,8,Aug,2025-08,Customer_254,Corporate,Cabinet,Furniture,West,2,0.25,17712.59,-2139.51,-12.08,Medium
+ORD-00966,2025-08-06,2025,8,Aug,2025-08,Customer_125,Home Office,Notebook,Office Supplies,South,2,0.05,431.68,102.13,23.66,Low
+ORD-00073,2025-08-06,2025,8,Aug,2025-08,Customer_252,Consumer,Printer Paper,Office Supplies,South,4,0.1,1495.54,340.07,22.74,Low
+ORD-00809,2025-08-06,2025,8,Aug,2025-08,Customer_225,Consumer,Folders,Office Supplies,West,6,0.1,1072.86,212.62,19.82,Low
+ORD-00748,2025-08-07,2025,8,Aug,2025-08,Customer_122,Home Office,Monitor,Technology,West,2,0.1,33776.88,4206.35,12.45,Medium
+ORD-00208,2025-08-07,2025,8,Aug,2025-08,Customer_260,Corporate,Pen Set,Office Supplies,East,5,0.25,654.47,46.76,7.14,Low
+ORD-00513,2025-08-07,2025,8,Aug,2025-08,Customer_146,Consumer,Table,Furniture,West,1,0.2,10735.41,-535.89,-4.99,Medium
+ORD-01211,2025-08-08,2025,8,Aug,2025-08,Customer_008,Consumer,Keyboard,Technology,North,6,0.05,13485.46,2153.14,15.97,Medium
+ORD-00676,2025-08-10,2025,8,Aug,2025-08,Customer_182,Consumer,Pen Set,Office Supplies,East,1,0.1,156.05,27.05,17.33,Low
+ORD-00601,2025-08-11,2025,8,Aug,2025-08,Customer_185,Consumer,Pen Set,Office Supplies,North,1,0.2,151.23,18.5,12.23,Low
+ORD-00514,2025-08-11,2025,8,Aug,2025-08,Customer_014,Consumer,Monitor,Technology,North,2,0.25,28995.07,-2083.38,-7.19,Medium
+ORD-00694,2025-08-11,2025,8,Aug,2025-08,Customer_027,Consumer,Cabinet,Furniture,North,7,0.25,62534.39,-6548.89,-10.47,High
+ORD-00307,2025-08-11,2025,8,Aug,2025-08,Customer_279,Consumer,Headphones,Technology,East,1,0.0,3845.99,781.3,20.31,Low
+ORD-01194,2025-08-12,2025,8,Aug,2025-08,Customer_158,Consumer,Table,Furniture,East,4,0.2,46365.04,302.64,0.65,Medium
+ORD-00096,2025-08-12,2025,8,Aug,2025-08,Customer_089,Home Office,Cabinet,Furniture,South,5,0.1,50077.67,4178.06,8.34,High
+ORD-00197,2025-08-13,2025,8,Aug,2025-08,Customer_025,Home Office,Keyboard,Technology,North,2,0.15,4565.7,331.01,7.25,Low
+ORD-01370,2025-08-14,2025,8,Aug,2025-08,Customer_098,Home Office,Table,Furniture,West,1,0.1,13288.84,1532.85,11.53,Medium
+ORD-00277,2025-08-14,2025,8,Aug,2025-08,Customer_031,Corporate,Cabinet,Furniture,East,1,0.1,11023.36,1184.29,10.74,Medium
+ORD-00712,2025-08-15,2025,8,Aug,2025-08,Customer_274,Home Office,Desk,Furniture,West,1,0.05,13710.61,2197.5,16.03,Medium
+ORD-00884,2025-08-15,2025,8,Aug,2025-08,Customer_060,Corporate,Printer Paper,Office Supplies,South,5,0.15,1996.44,337.46,16.9,Low
+ORD-00387,2025-08-15,2025,8,Aug,2025-08,Customer_141,Corporate,Keyboard,Technology,East,1,0.2,1891.98,95.94,5.07,Low
+ORD-00461,2025-08-15,2025,8,Aug,2025-08,Customer_209,Corporate,Pen Set,Office Supplies,East,3,0.0,573.25,154.66,26.98,Low
+ORD-01302,2025-08-15,2025,8,Aug,2025-08,Customer_296,Consumer,Bookshelf,Furniture,South,5,0.1,35983.2,3265.32,9.07,Medium
+ORD-01175,2025-08-15,2025,8,Aug,2025-08,Customer_236,Consumer,Keyboard,Technology,West,7,0.05,18024.43,3500.13,19.42,Medium
+ORD-00915,2025-08-16,2025,8,Aug,2025-08,Customer_063,Consumer,Mouse,Technology,East,3,0.0,3617.74,864.83,23.91,Low
+ORD-01388,2025-08-16,2025,8,Aug,2025-08,Customer_258,Consumer,Cabinet,Furniture,East,1,0.2,8643.31,-207.43,-2.4,Low
+ORD-00703,2025-08-17,2025,8,Aug,2025-08,Customer_201,Corporate,Pen Set,Office Supplies,North,1,0.25,132.51,6.42,4.84,Low
+ORD-01362,2025-08-18,2025,8,Aug,2025-08,Customer_163,Consumer,Laptop,Technology,East,3,0.15,181075.4,14994.35,8.28,Very High
+ORD-01339,2025-08-19,2025,8,Aug,2025-08,Customer_232,Corporate,Cabinet,Furniture,South,1,0.2,8801.62,-362.36,-4.12,Low
+ORD-00957,2025-08-20,2025,8,Aug,2025-08,Customer_084,Consumer,Webcam,Technology,West,1,0.05,2635.2,433.17,16.44,Low
+ORD-00141,2025-08-20,2025,8,Aug,2025-08,Customer_141,Corporate,Folders,Office Supplies,North,3,0.0,715.53,206.88,28.91,Low
+ORD-01299,2025-08-21,2025,8,Aug,2025-08,Customer_128,Corporate,Desk,Furniture,East,6,0.15,77135.11,4916.02,6.37,High
+ORD-00386,2025-08-21,2025,8,Aug,2025-08,Customer_118,Consumer,Laptop,Technology,West,7,0.2,377741.16,8478.87,2.24,Very High
+ORD-00617,2025-08-21,2025,8,Aug,2025-08,Customer_186,Consumer,Monitor,Technology,West,4,0.25,57108.89,-3964.63,-6.94,High
+ORD-00828,2025-08-21,2025,8,Aug,2025-08,Customer_040,Corporate,Printer Paper,Office Supplies,West,3,0.0,1423.42,388.27,27.28,Low
+ORD-00241,2025-08-21,2025,8,Aug,2025-08,Customer_087,Corporate,Stapler,Office Supplies,North,5,0.0,1421.5,397.79,27.98,Low
+ORD-01411,2025-08-22,2025,8,Aug,2025-08,Customer_075,Corporate,Notebook,Office Supplies,West,2,0.05,461.48,102.54,22.22,Low
+ORD-00091,2025-08-23,2025,8,Aug,2025-08,Customer_112,Consumer,Webcam,Technology,South,1,0.0,2765.57,578.17,20.91,Low
+ORD-00618,2025-08-24,2025,8,Aug,2025-08,Customer_186,Corporate,Pen Set,Office Supplies,East,1,0.0,169.26,46.89,27.7,Low
+ORD-00730,2025-08-25,2025,8,Aug,2025-08,Customer_050,Consumer,Stapler,Office Supplies,East,7,0.05,1998.99,443.16,22.17,Low
+ORD-00754,2025-08-25,2025,8,Aug,2025-08,Customer_115,Home Office,Table,Furniture,East,3,0.2,34119.72,-1467.63,-4.3,Medium
+ORD-00450,2025-08-26,2025,8,Aug,2025-08,Customer_221,Corporate,Laptop,Technology,South,1,0.15,59210.7,6250.66,10.56,High
+ORD-00075,2025-08-26,2025,8,Aug,2025-08,Customer_112,Home Office,Notebook,Office Supplies,South,3,0.0,765.13,231.0,30.19,Low
+ORD-00334,2025-08-26,2025,8,Aug,2025-08,Customer_129,Consumer,Keyboard,Technology,South,6,0.15,13689.0,1258.4,9.19,Medium
+ORD-01203,2025-08-27,2025,8,Aug,2025-08,Customer_258,Home Office,Laptop,Technology,South,7,0.05,397110.68,76796.76,19.34,Very High
+ORD-00580,2025-08-27,2025,8,Aug,2025-08,Customer_088,Home Office,Bookshelf,Furniture,East,2,0.25,11748.28,-1404.86,-11.96,Medium
+ORD-00348,2025-08-27,2025,8,Aug,2025-08,Customer_176,Corporate,Headphones,Technology,North,7,0.05,24193.31,3603.15,14.89,Medium
+ORD-00260,2025-08-28,2025,8,Aug,2025-08,Customer_229,Corporate,Pen Set,Office Supplies,West,1,0.1,161.97,31.15,19.23,Low
+ORD-00362,2025-08-28,2025,8,Aug,2025-08,Customer_187,Corporate,Webcam,Technology,West,4,0.15,10588.61,1247.86,11.78,Medium
+ORD-00634,2025-08-29,2025,8,Aug,2025-08,Customer_173,Consumer,Folders,Office Supplies,West,6,0.15,1195.77,204.25,17.08,Low
+ORD-00338,2025-08-29,2025,8,Aug,2025-08,Customer_144,Consumer,Office Chair,Furniture,East,3,0.2,22313.72,-896.74,-4.02,Medium
+ORD-00164,2025-08-30,2025,8,Aug,2025-08,Customer_125,Home Office,Headphones,Technology,East,7,0.05,24433.26,3888.57,15.92,Medium
+ORD-00200,2025-09-01,2025,9,Sep,2025-09,Customer_161,Consumer,Laptop,Technology,North,6,0.25,296445.71,-9323.16,-3.14,Very High
+ORD-01295,2025-09-01,2025,9,Sep,2025-09,Customer_276,Home Office,Laptop,Technology,South,4,0.1,247466.98,38227.32,15.45,Very High
+ORD-01497,2025-09-01,2025,9,Sep,2025-09,Customer_021,Consumer,Headphones,Technology,East,7,0.1,21757.98,3358.19,15.43,Medium
+ORD-00541,2025-09-02,2025,9,Sep,2025-09,Customer_068,Home Office,Office Chair,Furniture,South,3,0.1,26379.39,1459.93,5.53,Medium
+ORD-01014,2025-09-02,2025,9,Sep,2025-09,Customer_203,Corporate,Printer Paper,Office Supplies,East,7,0.05,2979.86,751.17,25.21,Low
+ORD-00059,2025-09-02,2025,9,Sep,2025-09,Customer_300,Consumer,Pen Set,Office Supplies,West,5,0.15,787.97,142.38,18.07,Low
+ORD-01286,2025-09-02,2025,9,Sep,2025-09,Customer_292,Consumer,Folders,Office Supplies,North,1,0.15,200.97,34.2,17.02,Low
+ORD-00892,2025-09-03,2025,9,Sep,2025-09,Customer_193,Corporate,Stapler,Office Supplies,North,7,0.0,1905.63,501.56,26.32,Low
+ORD-00394,2025-09-03,2025,9,Sep,2025-09,Customer_265,Consumer,Headphones,Technology,East,4,0.2,12028.09,114.54,0.95,Medium
+ORD-01213,2025-09-03,2025,9,Sep,2025-09,Customer_020,Home Office,Cabinet,Furniture,East,6,0.2,60004.99,-58.57,-0.1,High
+ORD-00620,2025-09-05,2025,9,Sep,2025-09,Customer_006,Consumer,Printer Paper,Office Supplies,North,2,0.0,902.03,236.38,26.21,Low
+ORD-01159,2025-09-05,2025,9,Sep,2025-09,Customer_181,Corporate,Pen Set,Office Supplies,West,3,0.05,488.39,105.02,21.5,Low
+ORD-00791,2025-09-06,2025,9,Sep,2025-09,Customer_105,Corporate,Pen Set,Office Supplies,South,6,0.2,907.57,103.97,11.46,Low
+ORD-00842,2025-09-07,2025,9,Sep,2025-09,Customer_290,Consumer,Office Chair,Furniture,East,1,0.15,7677.14,65.15,0.85,Low
+ORD-00735,2025-09-07,2025,9,Sep,2025-09,Customer_169,Corporate,Pen Set,Office Supplies,South,1,0.05,185.69,46.86,25.24,Low
+ORD-01035,2025-09-09,2025,9,Sep,2025-09,Customer_087,Corporate,Printer Paper,Office Supplies,South,1,0.15,406.98,63.2,15.53,Low
+ORD-01303,2025-09-09,2025,9,Sep,2025-09,Customer_171,Consumer,Keyboard,Technology,South,1,0.15,2274.27,169.06,7.43,Low
+ORD-00400,2025-09-10,2025,9,Sep,2025-09,Customer_189,Corporate,Webcam,Technology,West,4,0.05,11809.23,1903.49,16.12,Medium
+ORD-01139,2025-09-11,2025,9,Sep,2025-09,Customer_013,Consumer,Printer Paper,Office Supplies,East,3,0.15,1067.18,161.41,15.12,Low
+ORD-01171,2025-09-12,2025,9,Sep,2025-09,Customer_278,Consumer,Headphones,Technology,West,5,0.25,13175.27,-663.75,-5.04,Medium
+ORD-00647,2025-09-12,2025,9,Sep,2025-09,Customer_168,Corporate,Stapler,Office Supplies,West,1,0.15,264.25,45.17,17.09,Low
+ORD-00284,2025-09-13,2025,9,Sep,2025-09,Customer_186,Consumer,Desk,Furniture,North,5,0.25,53526.31,-5899.03,-11.02,High
+ORD-00859,2025-09-15,2025,9,Sep,2025-09,Customer_258,Corporate,Cabinet,Furniture,West,1,0.2,9990.22,151.54,1.52,Low
+ORD-00297,2025-09-16,2025,9,Sep,2025-09,Customer_160,Consumer,Monitor,Technology,South,3,0.25,37960.51,-891.18,-2.35,Medium
+ORD-01326,2025-09-16,2025,9,Sep,2025-09,Customer_095,Consumer,Laptop,Technology,East,3,0.25,159405.05,-12900.03,-8.09,Very High
+ORD-01108,2025-09-17,2025,9,Sep,2025-09,Customer_271,Consumer,Table,Furniture,South,2,0.2,22061.7,-1291.45,-5.85,Medium
+ORD-01380,2025-09-17,2025,9,Sep,2025-09,Customer_128,Home Office,Cabinet,Furniture,North,1,0.0,13034.81,2435.29,18.68,Medium
+ORD-00093,2025-09-18,2025,9,Sep,2025-09,Customer_155,Consumer,Mouse,Technology,North,7,0.15,6468.28,579.52,8.96,Low
+ORD-00369,2025-09-19,2025,9,Sep,2025-09,Customer_278,Consumer,Headphones,Technology,West,1,0.0,3735.34,920.43,24.64,Low
+ORD-00178,2025-09-20,2025,9,Sep,2025-09,Customer_109,Consumer,Laptop,Technology,East,3,0.0,189437.42,44456.42,23.47,Very High
+ORD-00336,2025-09-21,2025,9,Sep,2025-09,Customer_027,Home Office,Laptop,Technology,West,1,0.0,59231.75,11723.95,19.79,High
+ORD-00797,2025-09-21,2025,9,Sep,2025-09,Customer_039,Consumer,Printer Paper,Office Supplies,South,1,0.25,349.43,4.57,1.31,Low
+ORD-00942,2025-09-22,2025,9,Sep,2025-09,Customer_077,Corporate,Webcam,Technology,West,5,0.15,12583.74,756.08,6.01,Medium
+ORD-00508,2025-09-22,2025,9,Sep,2025-09,Customer_104,Corporate,Webcam,Technology,South,2,0.1,5175.87,582.78,11.26,Low
+ORD-00589,2025-09-23,2025,9,Sep,2025-09,Customer_146,Consumer,Printer Paper,Office Supplies,South,4,0.25,1430.52,14.7,1.03,Low
+ORD-00904,2025-09-23,2025,9,Sep,2025-09,Customer_180,Consumer,Keyboard,Technology,East,5,0.05,12698.03,2206.35,17.38,Medium
+ORD-00649,2025-09-23,2025,9,Sep,2025-09,Customer_110,Consumer,Mouse,Technology,South,1,0.0,1087.11,205.95,18.94,Low
+ORD-00561,2025-09-24,2025,9,Sep,2025-09,Customer_277,Consumer,Desk,Furniture,West,2,0.05,28842.33,3873.92,13.43,Medium
+ORD-01190,2025-09-24,2025,9,Sep,2025-09,Customer_210,Consumer,Folders,Office Supplies,South,6,0.15,1189.62,183.91,15.46,Low
+ORD-00827,2025-09-24,2025,9,Sep,2025-09,Customer_222,Consumer,Keyboard,Technology,North,1,0.2,2125.87,1.45,0.07,Low
+ORD-01413,2025-09-24,2025,9,Sep,2025-09,Customer_233,Corporate,Desk,Furniture,East,4,0.0,64981.57,11378.09,17.51,High
+ORD-00925,2025-09-24,2025,9,Sep,2025-09,Customer_183,Consumer,Table,Furniture,West,1,0.25,10643.72,-635.02,-5.97,Medium
+ORD-01224,2025-09-24,2025,9,Sep,2025-09,Customer_125,Consumer,Desk,Furniture,West,4,0.1,58299.07,5372.36,9.22,High
+ORD-00202,2025-09-25,2025,9,Sep,2025-09,Customer_250,Corporate,Laptop,Technology,East,4,0.25,208344.03,-16019.45,-7.69,Very High
+ORD-00910,2025-09-26,2025,9,Sep,2025-09,Customer_130,Consumer,Office Chair,Furniture,West,5,0.05,43206.55,5309.64,12.29,Medium
+ORD-00764,2025-09-26,2025,9,Sep,2025-09,Customer_090,Corporate,Notebook,Office Supplies,East,6,0.0,1567.02,416.32,26.57,Low
+ORD-00325,2025-09-26,2025,9,Sep,2025-09,Customer_184,Corporate,Headphones,Technology,West,7,0.2,20942.42,-79.29,-0.38,Medium
+ORD-00811,2025-09-26,2025,9,Sep,2025-09,Customer_165,Consumer,Stapler,Office Supplies,East,5,0.1,1459.02,323.09,22.14,Low
+ORD-01046,2025-09-26,2025,9,Sep,2025-09,Customer_138,Home Office,Office Chair,Furniture,West,1,0.05,7776.19,1312.81,16.88,Low
+ORD-00440,2025-09-26,2025,9,Sep,2025-09,Customer_102,Home Office,Cabinet,Furniture,North,5,0.15,52109.84,2775.01,5.33,High
+ORD-01189,2025-09-27,2025,9,Sep,2025-09,Customer_129,Consumer,Table,Furniture,North,6,0.0,84741.95,17680.82,20.86,High
+ORD-01325,2025-09-28,2025,9,Sep,2025-09,Customer_228,Consumer,Table,Furniture,South,6,0.25,64528.99,-6592.06,-10.22,High
+ORD-01304,2025-09-28,2025,9,Sep,2025-09,Customer_258,Consumer,Webcam,Technology,West,2,0.25,4281.48,-210.52,-4.92,Low
+ORD-01166,2025-09-28,2025,9,Sep,2025-09,Customer_073,Consumer,Webcam,Technology,South,6,0.05,16728.98,2935.37,17.55,Medium
+ORD-00029,2025-09-30,2025,9,Sep,2025-09,Customer_094,Consumer,Bookshelf,Furniture,East,2,0.2,14007.88,-351.05,-2.51,Medium
+ORD-00863,2025-10-01,2025,10,Oct,2025-10,Customer_086,Home Office,Folders,Office Supplies,South,2,0.05,411.8,100.87,24.49,Low
+ORD-00131,2025-10-01,2025,10,Oct,2025-10,Customer_296,Home Office,Headphones,Technology,South,1,0.25,2862.82,-12.53,-0.44,Low
+ORD-00913,2025-10-02,2025,10,Oct,2025-10,Customer_039,Consumer,Office Chair,Furniture,North,2,0.25,12694.43,-781.37,-6.16,Medium
+ORD-01420,2025-10-02,2025,10,Oct,2025-10,Customer_086,Consumer,Monitor,Technology,North,1,0.05,18014.7,2979.79,16.54,Medium
+ORD-00310,2025-10-03,2025,10,Oct,2025-10,Customer_269,Consumer,Printer Paper,Office Supplies,North,7,0.1,2737.37,547.03,19.98,Low
+ORD-01036,2025-10-03,2025,10,Oct,2025-10,Customer_237,Consumer,Folders,Office Supplies,North,6,0.15,1129.81,171.73,15.2,Low
+ORD-01044,2025-10-03,2025,10,Oct,2025-10,Customer_160,Consumer,Stapler,Office Supplies,North,3,0.1,740.76,134.54,18.16,Low
+ORD-00192,2025-10-03,2025,10,Oct,2025-10,Customer_031,Consumer,Printer Paper,Office Supplies,West,1,0.2,358.69,34.21,9.54,Low
+ORD-01448,2025-10-04,2025,10,Oct,2025-10,Customer_146,Consumer,Keyboard,Technology,West,4,0.2,8091.14,385.08,4.76,Low
+ORD-01202,2025-10-04,2025,10,Oct,2025-10,Customer_206,Corporate,Headphones,Technology,West,7,0.1,22654.07,3343.5,14.76,Medium
+ORD-00666,2025-10-05,2025,10,Oct,2025-10,Customer_173,Consumer,Folders,Office Supplies,South,7,0.0,1597.33,408.94,25.6,Low
+ORD-01266,2025-10-05,2025,10,Oct,2025-10,Customer_076,Home Office,Office Chair,Furniture,South,7,0.05,56425.64,8160.05,14.46,High
+ORD-00559,2025-10-05,2025,10,Oct,2025-10,Customer_246,Corporate,Headphones,Technology,South,5,0.1,15669.77,1692.28,10.8,Medium
+ORD-00808,2025-10-06,2025,10,Oct,2025-10,Customer_178,Consumer,Monitor,Technology,West,6,0.1,93093.13,14329.91,15.39,High
+ORD-01438,2025-10-07,2025,10,Oct,2025-10,Customer_244,Consumer,Table,Furniture,West,7,0.0,99416.54,15127.82,15.22,High
+ORD-01029,2025-10-07,2025,10,Oct,2025-10,Customer_208,Corporate,Office Chair,Furniture,South,6,0.1,47082.79,5881.69,12.49,Medium
+ORD-01038,2025-10-07,2025,10,Oct,2025-10,Customer_165,Home Office,Office Chair,Furniture,West,7,0.0,63786.61,13345.37,20.92,High
+ORD-01454,2025-10-09,2025,10,Oct,2025-10,Customer_066,Consumer,Pen Set,Office Supplies,West,2,0.15,280.84,38.53,13.72,Low
+ORD-01466,2025-10-10,2025,10,Oct,2025-10,Customer_113,Consumer,Monitor,Technology,North,4,0.25,57636.8,-4542.1,-7.88,High
+ORD-00431,2025-10-11,2025,10,Oct,2025-10,Customer_210,Corporate,Monitor,Technology,South,4,0.05,71258.36,10653.92,14.95,High
+ORD-00224,2025-10-11,2025,10,Oct,2025-10,Customer_238,Home Office,Cabinet,Furniture,South,4,0.1,39581.17,4915.24,12.42,Medium
+ORD-00524,2025-10-11,2025,10,Oct,2025-10,Customer_073,Corporate,Folders,Office Supplies,South,3,0.1,559.69,125.24,22.38,Low
+ORD-00517,2025-10-11,2025,10,Oct,2025-10,Customer_209,Corporate,Cabinet,Furniture,North,5,0.1,50325.18,5131.47,10.2,High
+ORD-01209,2025-10-13,2025,10,Oct,2025-10,Customer_166,Corporate,Webcam,Technology,South,5,0.25,11599.92,-616.87,-5.32,Medium
+ORD-00165,2025-10-13,2025,10,Oct,2025-10,Customer_264,Consumer,Keyboard,Technology,North,4,0.0,9307.05,2027.9,21.79,Low
+ORD-00371,2025-10-13,2025,10,Oct,2025-10,Customer_038,Corporate,Stapler,Office Supplies,East,7,0.05,2159.91,576.79,26.7,Low
+ORD-00861,2025-10-14,2025,10,Oct,2025-10,Customer_264,Consumer,Table,Furniture,East,5,0.2,60156.16,214.26,0.36,High
+ORD-01188,2025-10-15,2025,10,Oct,2025-10,Customer_010,Consumer,Webcam,Technology,West,3,0.05,8045.07,1414.68,17.58,Low
+ORD-00742,2025-10-15,2025,10,Oct,2025-10,Customer_183,Corporate,Printer Paper,Office Supplies,South,6,0.15,2121.69,299.34,14.11,Low
+ORD-00736,2025-10-16,2025,10,Oct,2025-10,Customer_269,Consumer,Webcam,Technology,North,5,0.05,14701.54,3028.69,20.6,Medium
+ORD-01141,2025-10-16,2025,10,Oct,2025-10,Customer_292,Home Office,Pen Set,Office Supplies,North,3,0.2,406.25,27.61,6.8,Low
+ORD-01451,2025-10-17,2025,10,Oct,2025-10,Customer_103,Consumer,Keyboard,Technology,West,2,0.05,4598.12,826.54,17.98,Low
+ORD-01005,2025-10-18,2025,10,Oct,2025-10,Customer_069,Consumer,Cabinet,Furniture,West,5,0.05,52712.3,8428.63,15.99,High
+ORD-01500,2025-10-19,2025,10,Oct,2025-10,Customer_104,Home Office,Bookshelf,Furniture,West,3,0.15,21054.83,302.41,1.44,Medium
+ORD-00300,2025-10-19,2025,10,Oct,2025-10,Customer_012,Consumer,Monitor,Technology,North,6,0.1,89889.36,13615.21,15.15,High
+ORD-00767,2025-10-19,2025,10,Oct,2025-10,Customer_286,Home Office,Notebook,Office Supplies,West,3,0.1,713.35,127.68,17.9,Low
+ORD-01001,2025-10-20,2025,10,Oct,2025-10,Customer_159,Corporate,Cabinet,Furniture,North,2,0.2,19025.13,-961.7,-5.05,Medium
+ORD-00375,2025-10-20,2025,10,Oct,2025-10,Customer_288,Home Office,Table,Furniture,West,7,0.05,101140.57,13342.93,13.19,High
+ORD-00043,2025-10-20,2025,10,Oct,2025-10,Customer_241,Home Office,Folders,Office Supplies,West,3,0.2,543.05,43.4,7.99,Low
+ORD-00252,2025-10-21,2025,10,Oct,2025-10,Customer_100,Home Office,Webcam,Technology,North,6,0.0,16962.38,4165.69,24.56,Medium
+ORD-00274,2025-10-21,2025,10,Oct,2025-10,Customer_046,Corporate,Office Chair,Furniture,East,5,0.05,44117.88,5352.29,12.13,Medium
+ORD-00816,2025-10-21,2025,10,Oct,2025-10,Customer_018,Home Office,Keyboard,Technology,West,6,0.15,13444.28,1057.34,7.86,Medium
+ORD-01067,2025-10-23,2025,10,Oct,2025-10,Customer_002,Home Office,Notebook,Office Supplies,East,3,0.05,666.93,150.09,22.5,Low
+ORD-00280,2025-10-23,2025,10,Oct,2025-10,Customer_166,Home Office,Folders,Office Supplies,North,2,0.0,470.78,128.73,27.34,Low
+ORD-01082,2025-10-23,2025,10,Oct,2025-10,Customer_196,Home Office,Cabinet,Furniture,North,1,0.25,8236.19,-667.34,-8.1,Low
+ORD-00981,2025-10-23,2025,10,Oct,2025-10,Customer_098,Consumer,Monitor,Technology,West,1,0.1,15728.62,2077.95,13.21,Medium
+ORD-00487,2025-10-24,2025,10,Oct,2025-10,Customer_244,Home Office,Bookshelf,Furniture,South,6,0.1,41054.78,3631.43,8.85,Medium
+ORD-00829,2025-10-24,2025,10,Oct,2025-10,Customer_119,Corporate,Bookshelf,Furniture,East,4,0.1,29406.21,2056.01,6.99,Medium
+ORD-00857,2025-10-24,2025,10,Oct,2025-10,Customer_113,Corporate,Folders,Office Supplies,South,1,0.15,198.82,25.54,12.85,Low
+ORD-00995,2025-10-25,2025,10,Oct,2025-10,Customer_053,Consumer,Keyboard,Technology,North,3,0.15,6242.39,699.26,11.2,Low
+ORD-00100,2025-10-25,2025,10,Oct,2025-10,Customer_223,Corporate,Desk,Furniture,West,7,0.15,91988.89,4670.92,5.08,High
+ORD-00582,2025-10-26,2025,10,Oct,2025-10,Customer_118,Consumer,Stapler,Office Supplies,West,6,0.15,1505.42,263.41,17.5,Low
+ORD-01107,2025-10-26,2025,10,Oct,2025-10,Customer_175,Corporate,Table,Furniture,East,5,0.1,64822.16,6764.43,10.44,High
+ORD-00921,2025-10-26,2025,10,Oct,2025-10,Customer_244,Home Office,Printer Paper,Office Supplies,East,6,0.05,2387.05,550.41,23.06,Low
+ORD-01282,2025-10-28,2025,10,Oct,2025-10,Customer_260,Corporate,Desk,Furniture,East,4,0.1,57536.32,6974.12,12.12,High
+ORD-00452,2025-10-30,2025,10,Oct,2025-10,Customer_295,Consumer,Notebook,Office Supplies,West,6,0.25,1044.58,24.54,2.35,Low
+ORD-00684,2025-10-30,2025,10,Oct,2025-10,Customer_291,Corporate,Table,Furniture,West,3,0.2,32383.0,-1472.35,-4.55,Medium
+ORD-01291,2025-10-31,2025,10,Oct,2025-10,Customer_267,Consumer,Desk,Furniture,East,1,0.1,12929.9,771.74,5.97,Medium
+ORD-00464,2025-11-01,2025,11,Nov,2025-11,Customer_035,Consumer,Printer Paper,Office Supplies,East,1,0.1,392.49,70.91,18.07,Low
+ORD-00110,2025-11-01,2025,11,Nov,2025-11,Customer_057,Consumer,Laptop,Technology,North,7,0.0,419567.28,89159.17,21.25,Very High
+ORD-01492,2025-11-01,2025,11,Nov,2025-11,Customer_092,Consumer,Webcam,Technology,East,1,0.1,2964.24,370.82,12.51,Low
+ORD-00868,2025-11-01,2025,11,Nov,2025-11,Customer_004,Consumer,Office Chair,Furniture,South,3,0.05,27244.78,3684.08,13.52,Medium
+ORD-00718,2025-11-02,2025,11,Nov,2025-11,Customer_264,Home Office,Printer Paper,Office Supplies,East,4,0.15,1571.31,228.69,14.55,Low
+ORD-01294,2025-11-02,2025,11,Nov,2025-11,Customer_251,Corporate,Bookshelf,Furniture,North,2,0.25,12327.7,-1684.24,-13.66,Medium
+ORD-01415,2025-11-03,2025,11,Nov,2025-11,Customer_061,Consumer,Cabinet,Furniture,South,3,0.15,30608.54,846.06,2.76,Medium
+ORD-00262,2025-11-03,2025,11,Nov,2025-11,Customer_141,Consumer,Printer Paper,Office Supplies,East,4,0.25,1336.66,86.23,6.45,Low
+ORD-00484,2025-11-04,2025,11,Nov,2025-11,Customer_061,Corporate,Webcam,Technology,South,4,0.15,10299.92,512.1,4.97,Medium
+ORD-00680,2025-11-05,2025,11,Nov,2025-11,Customer_125,Corporate,Keyboard,Technology,West,4,0.25,6847.82,-520.1,-7.6,Low
+ORD-00862,2025-11-05,2025,11,Nov,2025-11,Customer_111,Consumer,Notebook,Office Supplies,East,3,0.1,624.3,144.01,23.07,Low
+ORD-01382,2025-11-05,2025,11,Nov,2025-11,Customer_084,Home Office,Folders,Office Supplies,South,4,0.25,716.48,26.77,3.74,Low
+ORD-00357,2025-11-05,2025,11,Nov,2025-11,Customer_157,Home Office,Laptop,Technology,West,5,0.1,275636.85,30646.61,11.12,Very High
+ORD-00509,2025-11-06,2025,11,Nov,2025-11,Customer_155,Corporate,Printer Paper,Office Supplies,East,3,0.15,1148.4,144.16,12.55,Low
+ORD-00033,2025-11-06,2025,11,Nov,2025-11,Customer_167,Consumer,Desk,Furniture,West,5,0.15,58725.19,3702.71,6.31,High
+ORD-00986,2025-11-07,2025,11,Nov,2025-11,Customer_181,Consumer,Laptop,Technology,West,7,0.25,331698.63,-14015.78,-4.23,Very High
+ORD-00303,2025-11-08,2025,11,Nov,2025-11,Customer_012,Consumer,Office Chair,Furniture,North,2,0.0,17064.9,3324.78,19.48,Medium
+ORD-00032,2025-11-08,2025,11,Nov,2025-11,Customer_091,Consumer,Office Chair,Furniture,East,7,0.1,58546.88,3259.83,5.57,High
+ORD-01132,2025-11-09,2025,11,Nov,2025-11,Customer_196,Consumer,Office Chair,Furniture,West,5,0.1,43040.71,3587.67,8.34,Medium
+ORD-00574,2025-11-09,2025,11,Nov,2025-11,Customer_170,Consumer,Notebook,Office Supplies,North,3,0.1,641.33,130.2,20.3,Low
+ORD-00279,2025-11-09,2025,11,Nov,2025-11,Customer_278,Consumer,Desk,Furniture,East,3,0.25,30456.35,-3543.25,-11.63,Medium
+ORD-01465,2025-11-10,2025,11,Nov,2025-11,Customer_295,Corporate,Notebook,Office Supplies,East,1,0.25,180.59,4.57,2.53,Low
+ORD-01150,2025-11-10,2025,11,Nov,2025-11,Customer_215,Consumer,Printer Paper,Office Supplies,South,5,0.25,1704.24,43.02,2.52,Low
+ORD-01047,2025-11-10,2025,11,Nov,2025-11,Customer_105,Corporate,Desk,Furniture,West,4,0.25,44358.82,-3274.13,-7.38,Medium
+ORD-00109,2025-11-10,2025,11,Nov,2025-11,Customer_139,Consumer,Pen Set,Office Supplies,North,4,0.15,569.22,104.52,18.36,Low
+ORD-01136,2025-11-11,2025,11,Nov,2025-11,Customer_087,Consumer,Monitor,Technology,East,7,0.25,97434.97,-4821.11,-4.95,High
+ORD-00345,2025-11-11,2025,11,Nov,2025-11,Customer_293,Corporate,Pen Set,Office Supplies,East,7,0.1,1142.49,229.44,20.08,Low
+ORD-00780,2025-11-11,2025,11,Nov,2025-11,Customer_054,Corporate,Notebook,Office Supplies,West,2,0.15,398.81,72.79,18.25,Low
+ORD-01329,2025-11-12,2025,11,Nov,2025-11,Customer_029,Corporate,Notebook,Office Supplies,East,4,0.2,778.94,92.2,11.84,Low
+ORD-00532,2025-11-13,2025,11,Nov,2025-11,Customer_192,Consumer,Table,Furniture,West,2,0.1,26969.23,2532.19,9.39,Medium
+ORD-01444,2025-11-14,2025,11,Nov,2025-11,Customer_196,Home Office,Stapler,Office Supplies,South,6,0.05,1650.79,354.9,21.5,Low
+ORD-00028,2025-11-14,2025,11,Nov,2025-11,Customer_037,Consumer,Desk,Furniture,North,1,0.2,11167.88,14.52,0.13,Medium
+ORD-00359,2025-11-15,2025,11,Nov,2025-11,Customer_193,Corporate,Table,Furniture,East,6,0.1,74386.85,8675.51,11.66,High
+ORD-00445,2025-11-15,2025,11,Nov,2025-11,Customer_077,Consumer,Office Chair,Furniture,North,5,0.15,39446.83,1540.51,3.91,Medium
+ORD-00661,2025-11-16,2025,11,Nov,2025-11,Customer_270,Corporate,Monitor,Technology,East,7,0.0,129095.84,25585.97,19.82,High
+ORD-01156,2025-11-16,2025,11,Nov,2025-11,Customer_139,Consumer,Table,Furniture,West,5,0.0,67747.96,14127.45,20.85,High
+ORD-01208,2025-11-18,2025,11,Nov,2025-11,Customer_046,Consumer,Headphones,Technology,West,7,0.25,17264.62,-85.77,-0.5,Medium
+ORD-00956,2025-11-18,2025,11,Nov,2025-11,Customer_168,Home Office,Keyboard,Technology,North,3,0.1,6683.94,1095.66,16.39,Low
+ORD-00836,2025-11-18,2025,11,Nov,2025-11,Customer_031,Consumer,Webcam,Technology,East,5,0.2,13187.67,-44.32,-0.34,Medium
+ORD-00909,2025-11-19,2025,11,Nov,2025-11,Customer_142,Corporate,Desk,Furniture,South,6,0.05,87883.86,11904.53,13.55,High
+ORD-01446,2025-11-19,2025,11,Nov,2025-11,Customer_136,Corporate,Keyboard,Technology,East,3,0.05,6517.83,1284.3,19.7,Low
+ORD-00372,2025-11-19,2025,11,Nov,2025-11,Customer_124,Home Office,Bookshelf,Furniture,West,4,0.15,26964.7,424.23,1.57,Medium
+ORD-01373,2025-11-19,2025,11,Nov,2025-11,Customer_159,Corporate,Notebook,Office Supplies,East,2,0.25,364.98,2.18,0.6,Low
+ORD-00355,2025-11-20,2025,11,Nov,2025-11,Customer_071,Corporate,Keyboard,Technology,West,7,0.0,16934.07,3391.87,20.03,Medium
+ORD-00248,2025-11-20,2025,11,Nov,2025-11,Customer_225,Consumer,Pen Set,Office Supplies,South,3,0.05,550.61,125.09,22.72,Low
+ORD-01078,2025-11-21,2025,11,Nov,2025-11,Customer_195,Consumer,Monitor,Technology,South,2,0.25,27274.25,-649.26,-2.38,Medium
+ORD-00917,2025-11-22,2025,11,Nov,2025-11,Customer_048,Corporate,Bookshelf,Furniture,South,7,0.1,47405.15,2907.58,6.13,Medium
+ORD-01260,2025-11-23,2025,11,Nov,2025-11,Customer_260,Consumer,Webcam,Technology,East,4,0.2,10129.53,-59.86,-0.59,Medium
+ORD-00776,2025-11-24,2025,11,Nov,2025-11,Customer_279,Home Office,Mouse,Technology,West,5,0.15,4954.46,428.78,8.65,Low
+ORD-00997,2025-11-25,2025,11,Nov,2025-11,Customer_009,Corporate,Pen Set,Office Supplies,West,6,0.2,811.6,64.45,7.94,Low
+ORD-00025,2025-11-26,2025,11,Nov,2025-11,Customer_155,Consumer,Pen Set,Office Supplies,North,5,0.05,929.56,243.96,26.24,Low
+ORD-00275,2025-11-26,2025,11,Nov,2025-11,Customer_091,Consumer,Mouse,Technology,West,4,0.1,4198.75,640.06,15.24,Low
+ORD-01130,2025-11-27,2025,11,Nov,2025-11,Customer_186,Consumer,Cabinet,Furniture,East,3,0.2,28851.98,-395.22,-1.37,Medium
+ORD-00568,2025-11-27,2025,11,Nov,2025-11,Customer_157,Consumer,Laptop,Technology,East,7,0.05,395626.48,78532.25,19.85,Very High
+ORD-01453,2025-11-27,2025,11,Nov,2025-11,Customer_248,Home Office,Laptop,Technology,West,4,0.2,193302.22,4776.44,2.47,Very High
+ORD-00076,2025-11-30,2025,11,Nov,2025-11,Customer_232,Home Office,Desk,Furniture,East,4,0.05,59139.38,7253.93,12.27,High
+ORD-01384,2025-11-30,2025,11,Nov,2025-11,Customer_043,Consumer,Laptop,Technology,West,5,0.0,348197.95,68711.94,19.73,Very High
+ORD-00422,2025-11-30,2025,11,Nov,2025-11,Customer_047,Home Office,Cabinet,Furniture,North,7,0.2,62468.41,-3679.22,-5.89,High
+ORD-00444,2025-12-01,2025,12,Dec,2025-12,Customer_193,Corporate,Monitor,Technology,North,3,0.15,44352.93,3175.82,7.16,Medium
+ORD-01439,2025-12-01,2025,12,Dec,2025-12,Customer_032,Consumer,Keyboard,Technology,South,3,0.1,7299.78,1068.82,14.64,Low
+ORD-00099,2025-12-01,2025,12,Dec,2025-12,Customer_163,Corporate,Bookshelf,Furniture,West,4,0.05,32813.74,5090.54,15.51,Medium
+ORD-00468,2025-12-01,2025,12,Dec,2025-12,Customer_193,Corporate,Laptop,Technology,West,2,0.15,115011.03,6771.28,5.89,High
+ORD-00550,2025-12-01,2025,12,Dec,2025-12,Customer_220,Corporate,Mouse,Technology,North,3,0.15,2898.6,284.82,9.83,Low
+ORD-01217,2025-12-01,2025,12,Dec,2025-12,Customer_169,Consumer,Printer Paper,Office Supplies,South,1,0.25,314.74,11.37,3.61,Low
+ORD-00130,2025-12-01,2025,12,Dec,2025-12,Customer_149,Corporate,Keyboard,Technology,North,5,0.0,11881.09,2765.99,23.28,Medium
+ORD-01277,2025-12-02,2025,12,Dec,2025-12,Customer_288,Home Office,Laptop,Technology,East,4,0.05,223179.78,40857.14,18.31,Very High
+ORD-00015,2025-12-03,2025,12,Dec,2025-12,Customer_210,Home Office,Office Chair,Furniture,South,4,0.05,37409.17,4399.08,11.76,Medium
+ORD-00916,2025-12-03,2025,12,Dec,2025-12,Customer_195,Consumer,Headphones,Technology,East,4,0.05,12017.9,1946.47,16.2,Medium
+ORD-00786,2025-12-04,2025,12,Dec,2025-12,Customer_008,Consumer,Desk,Furniture,West,2,0.05,26625.87,3630.99,13.64,Medium
+ORD-01113,2025-12-05,2025,12,Dec,2025-12,Customer_254,Corporate,Keyboard,Technology,West,7,0.1,14927.98,1770.06,11.86,Medium
+ORD-01168,2025-12-05,2025,12,Dec,2025-12,Customer_178,Corporate,Keyboard,Technology,West,2,0.1,4117.96,436.75,10.61,Low
+ORD-00034,2025-12-06,2025,12,Dec,2025-12,Customer_280,Corporate,Printer Paper,Office Supplies,South,2,0.2,715.3,56.86,7.95,Low
+ORD-00873,2025-12-06,2025,12,Dec,2025-12,Customer_039,Home Office,Printer Paper,Office Supplies,West,1,0.1,413.13,93.6,22.66,Low
+ORD-00416,2025-12-07,2025,12,Dec,2025-12,Customer_277,Consumer,Stapler,Office Supplies,South,3,0.15,796.27,140.71,17.67,Low
+ORD-01003,2025-12-07,2025,12,Dec,2025-12,Customer_009,Consumer,Pen Set,Office Supplies,West,4,0.0,727.69,183.35,25.2,Low
+ORD-00822,2025-12-08,2025,12,Dec,2025-12,Customer_012,Home Office,Folders,Office Supplies,South,2,0.1,416.57,76.57,18.38,Low
+ORD-00998,2025-12-08,2025,12,Dec,2025-12,Customer_083,Home Office,Headphones,Technology,East,4,0.2,10789.76,161.01,1.49,Medium
+ORD-00899,2025-12-08,2025,12,Dec,2025-12,Customer_268,Consumer,Printer Paper,Office Supplies,North,3,0.15,1245.85,156.11,12.53,Low
+ORD-00975,2025-12-08,2025,12,Dec,2025-12,Customer_281,Corporate,Laptop,Technology,North,7,0.1,371285.66,47590.26,12.82,Very High
+ORD-00004,2025-12-09,2025,12,Dec,2025-12,Customer_234,Home Office,Pen Set,Office Supplies,North,5,0.05,849.31,229.11,26.98,Low
+ORD-00328,2025-12-10,2025,12,Dec,2025-12,Customer_184,Corporate,Monitor,Technology,North,5,0.05,82065.04,17167.46,20.92,High
+ORD-00388,2025-12-10,2025,12,Dec,2025-12,Customer_075,Consumer,Cabinet,Furniture,West,3,0.0,38596.06,7640.02,19.79,Medium
+ORD-00977,2025-12-11,2025,12,Dec,2025-12,Customer_049,Consumer,Monitor,Technology,West,7,0.0,129431.53,24570.91,18.98,High
+ORD-00510,2025-12-11,2025,12,Dec,2025-12,Customer_259,Home Office,Notebook,Office Supplies,South,6,0.1,1441.04,306.03,21.24,Low
+ORD-00743,2025-12-12,2025,12,Dec,2025-12,Customer_104,Consumer,Webcam,Technology,North,2,0.2,4841.16,212.67,4.39,Low
+ORD-01498,2025-12-12,2025,12,Dec,2025-12,Customer_239,Consumer,Folders,Office Supplies,North,3,0.15,534.23,76.81,14.38,Low
+ORD-01265,2025-12-13,2025,12,Dec,2025-12,Customer_045,Consumer,Stapler,Office Supplies,North,2,0.0,611.7,169.62,27.73,Low
+ORD-00153,2025-12-13,2025,12,Dec,2025-12,Customer_206,Consumer,Monitor,Technology,East,4,0.0,70560.88,13871.8,19.66,High
+ORD-00963,2025-12-14,2025,12,Dec,2025-12,Customer_180,Consumer,Office Chair,Furniture,East,7,0.2,48705.49,-1611.31,-3.31,Medium
+ORD-00090,2025-12-14,2025,12,Dec,2025-12,Customer_239,Consumer,Printer Paper,Office Supplies,South,1,0.0,454.99,119.48,26.26,Low
+ORD-01318,2025-12-14,2025,12,Dec,2025-12,Customer_101,Consumer,Notebook,Office Supplies,North,1,0.15,193.33,25.3,13.09,Low
+ORD-00066,2025-12-16,2025,12,Dec,2025-12,Customer_236,Consumer,Notebook,Office Supplies,South,4,0.15,862.31,152.62,17.7,Low
+ORD-01008,2025-12-16,2025,12,Dec,2025-12,Customer_111,Consumer,Desk,Furniture,West,4,0.1,49950.69,4866.68,9.74,Medium
+ORD-00160,2025-12-16,2025,12,Dec,2025-12,Customer_042,Consumer,Folders,Office Supplies,South,7,0.2,1175.48,84.98,7.23,Low
+ORD-01083,2025-12-17,2025,12,Dec,2025-12,Customer_009,Home Office,Laptop,Technology,West,5,0.0,316353.02,74364.23,23.51,Very High
+ORD-01043,2025-12-19,2025,12,Dec,2025-12,Customer_024,Corporate,Cabinet,Furniture,East,1,0.25,9257.54,-828.66,-8.95,Low
+ORD-00707,2025-12-19,2025,12,Dec,2025-12,Customer_241,Corporate,Mouse,Technology,East,4,0.15,4311.0,305.78,7.09,Low
+ORD-01313,2025-12-20,2025,12,Dec,2025-12,Customer_183,Corporate,Headphones,Technology,North,6,0.2,17334.55,481.95,2.78,Medium
+ORD-00333,2025-12-20,2025,12,Dec,2025-12,Customer_060,Consumer,Monitor,Technology,South,1,0.15,15293.87,1169.18,7.64,Medium
+ORD-00556,2025-12-21,2025,12,Dec,2025-12,Customer_279,Home Office,Laptop,Technology,East,6,0.05,344006.14,57868.76,16.82,Very High
+ORD-00538,2025-12-22,2025,12,Dec,2025-12,Customer_027,Consumer,Laptop,Technology,North,3,0.05,168889.25,27004.88,15.99,Very High
+ORD-00566,2025-12-23,2025,12,Dec,2025-12,Customer_032,Home Office,Mouse,Technology,North,5,0.1,5200.78,826.95,15.9,Low
+ORD-00951,2025-12-23,2025,12,Dec,2025-12,Customer_158,Corporate,Stapler,Office Supplies,East,4,0.1,1053.41,203.96,19.36,Low
+ORD-00078,2025-12-23,2025,12,Dec,2025-12,Customer_252,Corporate,Table,Furniture,West,2,0.25,19494.7,-1731.26,-8.88,Medium
+ORD-01157,2025-12-23,2025,12,Dec,2025-12,Customer_258,Consumer,Monitor,Technology,West,1,0.0,18104.39,4037.06,22.3,Medium
+ORD-01155,2025-12-23,2025,12,Dec,2025-12,Customer_185,Consumer,Table,Furniture,East,5,0.0,71084.18,14539.53,20.45,High
+ORD-00883,2025-12-24,2025,12,Dec,2025-12,Customer_108,Corporate,Printer Paper,Office Supplies,North,5,0.1,1996.97,458.61,22.97,Low
+ORD-00343,2025-12-24,2025,12,Dec,2025-12,Customer_057,Consumer,Mouse,Technology,North,3,0.0,3639.78,778.85,21.4,Low
+ORD-00738,2025-12-24,2025,12,Dec,2025-12,Customer_038,Home Office,Monitor,Technology,West,4,0.1,66729.06,7816.95,11.71,High
+ORD-00389,2025-12-24,2025,12,Dec,2025-12,Customer_167,Consumer,Mouse,Technology,East,3,0.1,3439.23,493.07,14.34,Low
+ORD-00848,2025-12-25,2025,12,Dec,2025-12,Customer_093,Consumer,Laptop,Technology,North,6,0.05,353274.17,61995.5,17.55,Very High
+ORD-00232,2025-12-26,2025,12,Dec,2025-12,Customer_063,Consumer,Bookshelf,Furniture,South,2,0.1,15292.63,1817.42,11.88,Medium
+ORD-01098,2025-12-28,2025,12,Dec,2025-12,Customer_136,Corporate,Table,Furniture,South,4,0.2,40533.29,-2124.8,-5.24,Medium
+ORD-00590,2025-12-28,2025,12,Dec,2025-12,Customer_156,Consumer,Desk,Furniture,South,1,0.1,14305.77,845.55,5.91,Medium
+ORD-00670,2025-12-28,2025,12,Dec,2025-12,Customer_086,Consumer,Cabinet,Furniture,West,1,0.1,11570.2,835.68,7.22,Medium
+ORD-00933,2025-12-30,2025,12,Dec,2025-12,Customer_008,Consumer,Keyboard,Technology,North,2,0.1,4125.24,614.65,14.9,Low
+ORD-01071,2025-12-30,2025,12,Dec,2025-12,Customer_033,Corporate,Webcam,Technology,South,1,0.2,2517.01,95.86,3.81,Low
+ORD-00418,2025-12-30,2025,12,Dec,2025-12,Customer_049,Consumer,Headphones,Technology,West,7,0.15,18992.36,1438.89,7.58,Medium
